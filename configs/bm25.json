@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "system": "bm25",
+  "implementation_version": "1.0.0",
+  "tokenizer": "unicode-word-casefold-v1",
+  "document_fields": ["title", "text"],
+  "idf": "log1p((N-df+0.5)/(df+0.5))",
+  "query_term_weighting": "binary",
+  "k1": 1.2,
+  "b": 0.75,
+  "seed": 42
+}

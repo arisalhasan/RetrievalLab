@@ -1,0 +1,28 @@
+`torch_dtype` is deprecated! Use `dtype` instead!
+{
+  "output": "runs\\m7-trained-validation-v1",
+  "quality": {
+    "query_count": 162,
+    "recall": 0.8205761316872429,
+    "ndcg": 0.7126153384938919,
+    "queries_without_positive_labels": 0,
+    "queries_with_no_relevant_retrieved": 26,
+    "zero_result_queries": 0
+  },
+  "latency": {
+    "samples": 160,
+    "p50_ms": 1654.3734500000937,
+    "p95_ms": 3206.4964049997793,
+    "mean_ms": 1877.1225981250154,
+    "min_ms": 1210.8987999999954,
+    "max_ms": 3990.6010999998216
+  },
+  "reference_check": {
+    "backend": "pytrec_eval (Terrier distribution)",
+    "passed": true,
+    "query_count": 162,
+    "max_absolute_error": 1.1102230246251565e-16,
+    "ordering": "rank-preserving surrogate scores; self IDs removed",
+    "empty_judgments_policy": "zero, included in our macro average"
+  }
+}

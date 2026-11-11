@@ -1,0 +1,10 @@
+{
+  "schema_version": 1,
+  "cutoff": 10,
+  "warmup_passes": 1,
+  "repetitions": 5,
+  "seed": 42,
+  "rss_sample_interval_ms": 10,
+  "bootstrap_samples": 1000,
+  "latency_query_limit": 32
+}

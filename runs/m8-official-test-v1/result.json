@@ -1,0 +1,55 @@
+{
+  "freeze_sha256": "9431036e9c0a3b866a89b21cad115b2605f8f101f6881619c615c62828650642",
+  "selected_before_test": "hybrid-10",
+  "quality": {
+    "bm25": {
+      "query_count": 300,
+      "recall": 0.7909444444444444,
+      "ndcg": 0.6616762967340878,
+      "queries_without_positive_labels": 0,
+      "queries_with_no_relevant_retrieved": 57,
+      "zero_result_queries": 0
+    },
+    "dense": {
+      "query_count": 300,
+      "recall": 0.7833333333333333,
+      "ndcg": 0.6450816521455776,
+      "queries_without_positive_labels": 0,
+      "queries_with_no_relevant_retrieved": 62,
+      "zero_result_queries": 0
+    },
+    "hybrid-100": {
+      "query_count": 300,
+      "recall": 0.8105555555555555,
+      "ndcg": 0.6834196918035322,
+      "queries_without_positive_labels": 0,
+      "queries_with_no_relevant_retrieved": 52,
+      "zero_result_queries": 0
+    },
+    "hybrid-10": {
+      "query_count": 300,
+      "recall": 0.8443333333333334,
+      "ndcg": 0.7014763560073806,
+      "queries_without_positive_labels": 0,
+      "queries_with_no_relevant_retrieved": 43,
+      "zero_result_queries": 0
+    },
+    "pretrained-reranker": {
+      "query_count": 300,
+      "recall": 0.8092777777777778,
+      "ndcg": 0.6794405281161656,
+      "queries_without_positive_labels": 0,
+      "queries_with_no_relevant_retrieved": 54,
+      "zero_result_queries": 0
+    },
+    "trained-reranker": {
+      "query_count": 300,
+      "recall": 0.8277222222222222,
+      "ndcg": 0.6978333376968957,
+      "queries_without_positive_labels": 0,
+      "queries_with_no_relevant_retrieved": 48,
+      "zero_result_queries": 0
+    }
+  },
+  "selection_changed_after_test": false
+}

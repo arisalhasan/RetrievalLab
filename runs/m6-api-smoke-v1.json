@@ -1,0 +1,3549 @@
+{
+  "created_at_utc": "2026-11-11T12:40:51.398660+00:00",
+  "run_type": "live_local_api_smoke_not_benchmark",
+  "health": {
+    "status": "ok",
+    "version": "1.0.0",
+    "loaded_systems": []
+  },
+  "results": {
+    "bm25": {
+      "run_type": "interactive_search_not_benchmark",
+      "query": "cell division and mitosis",
+      "system": "bm25",
+      "results": [
+        {
+          "rank": 1,
+          "doc_id": "29183629",
+          "title": "Extra centrosomes and/or chromosomes prolong mitosis in human cells",
+          "text": "Using laser microsurgery and cell fusion we have explored how additional centrosomes and/or chromosomes influence the duration of mitosis in human cells. We found that doubling the chromosome number added approximately 10 min to a 20 min division, whereas doubling the number of centrosomes added approximately 30 min more. Extra centrosomes and/or chromosomes prolong mitosis by delaying satisfaction of the spindle assembly checkpoint. Thus mitosis can be prolonged by non-genetic means and extra chromosomes and centrosomes probably contribute to the elevated mitotic index seen in many tumours.",
+          "score": 15.020519419829345
+        },
+        {
+          "rank": 2,
+          "doc_id": "7622767",
+          "title": "Human Cyclin a Is Required for Mitosis until Mid Prophase",
+          "text": "We have used microinjection and time-lapse video microscopy to study the role of cyclin A in mitosis. We have injected purified, active cyclin A/cyclin-dependent kinase 2 (CDK2) into synchronized cells at specific points in the cell cycle and assayed its effect on cell division. We find that cyclin A/CDK2 will drive G2 phase cells into mitosis within 30 min of microinjection, up to 4 h before control cells enter mitosis. Often this premature mitosis is abnormal; the chromosomes do not completely condense and daughter cells fuse. Remarkably, microinjecting cyclin A/CDK2 into S phase cells has no effect on progress through the following G2 phase or mitosis. In complementary experiments we have microinjected the amino terminus of p21Cip1/Waf1/Sdi1 (p21N) into cells to inhibit cyclin A/CDK2 activity. We find that p21N will prevent S phase or G2 phase cells from entering mitosis, and will cause early prophase cells to return to interphase. These results suggest that cyclin A/CDK2 is a rate-limiting component required for entry into mitosis, and for progress through mitosis until late prophase. They also suggest that cyclin A/CDK2 may be the target of the recently described prophase checkpoint.",
+          "score": 14.37016877226925
+        },
+        {
+          "rank": 3,
+          "doc_id": "10704438",
+          "title": "The DNA damage response during mitosis.",
+          "text": "Cells are equipped with a cell-intrinsic signaling network called the DNA damage response (DDR). This signaling network recognizes DNA lesions and initiates various downstream pathways to coordinate a cell cycle arrest with the repair of the damaged DNA. Alternatively, the DDR can mediate clearance of affected cells that are beyond repair through apoptosis or senescence. The DDR can be activated in response to DNA damage throughout the cell cycle, although the extent of DDR signaling is different in each cell cycle phase. Especially in response to DNA double strand breaks, only a very marginal response was observed during mitosis. Early on it was recognized that cells which are irradiated during mitosis continued division without repairing broken chromosomes. Although these initial observations indicated diminished DNA repair and lack of an acute DNA damage-induced cell cycle arrest, insight into the mechanistic re-wiring of DDR signaling during mitosis was only recently provided. Different mechanisms appear to be at play to inactivate specific signaling axes of the DDR network in mitosis. Importantly, mitotic cells not simply inactivate the entire DDR, but appear to mark their DNA damage for repair after mitotic exit. Since the treatment of cancer frequently involves agents that induce DNA damage as well as agents that block mitotic progression, it is clinically relevant to obtain a better understanding of how cancer cells deal with DNA damage during interphase versus mitosis. In this review, the molecular details concerning DDR signaling during mitosis as well as the consequences of encountering DNA damage during mitosis for cellular fate are discussed.",
+          "score": 13.988627296872316
+        },
+        {
+          "rank": 4,
+          "doc_id": "8087082",
+          "title": "A Microtubule Interactome: Complexes with Roles in Cell Cycle and Mitosis",
+          "text": "The microtubule (MT) cytoskeleton is required for many aspects of cell function, including the transport of intracellular materials, the maintenance of cell polarity, and the regulation of mitosis. These functions are coordinated by MT-associated proteins (MAPs), which work in concert with each other, binding MTs and altering their properties. We have used a MT cosedimentation assay, combined with 1D and 2D PAGE and mass spectrometry, to identify over 250 MAPs from early Drosophila embryos. We have taken two complementary approaches to analyse the cellular function of novel MAPs isolated using this approach. First, we have carried out an RNA interference (RNAi) screen, identifying 21 previously uncharacterised genes involved in MT organisation. Second, we have undertaken a bioinformatics analysis based on binary protein interaction data to produce putative interaction networks of MAPs. By combining both approaches, we have identified and validated MAP complexes with potentially important roles in cell cycle regulation and mitosis. This study therefore demonstrates that biologically relevant data can be harvested using such a multidisciplinary approach, and identifies new MAPs, many of which appear to be important in cell division.",
+          "score": 13.46086049276597
+        },
+        {
+          "rank": 5,
+          "doc_id": "335029",
+          "title": "Condensin-mediated remodeling of the mitotic chromatin landscape in fission yeast",
+          "text": "The eukaryotic genome consists of DNA molecules far longer than the cells that contain them. They reach their greatest compaction during chromosome condensation in mitosis. This process is aided by condensin, a structural maintenance of chromosomes (SMC) family member. The spatial organization of mitotic chromosomes and how condensin shapes chromatin architecture are not yet fully understood. Here we use chromosome conformation capture (Hi-C) to study mitotic chromosome condensation in the fission yeast Schizosaccharomyces pombe. This showed that the interphase landscape characterized by small chromatin domains is replaced by fewer but larger domains in mitosis. Condensin achieves this by setting up longer-range, intrachromosomal DNA interactions, which compact and individualize chromosomes. At the same time, local chromatin contacts are constrained by condensin, with profound implications for local chromatin function during mitosis. Our results highlight condensin as a major determinant that changes the chromatin landscape as cells prepare their genomes for cell division.",
+          "score": 13.255529972996634
+        },
+        {
+          "rank": 6,
+          "doc_id": "4343437",
+          "title": "Role of inscuteable in orienting asymmetric cell divisions in Drosophila",
+          "text": "Drosophila neuroblasts and epithelial cells in the procephalic neurogenic region divide perpendicular to the surface, and segregate the proteins Numb and Prospero into the basal daughter cell. We demonstrate here that orientation of the mitotic spindle and correct localization of Numb and Prospero in these cells require the inscuteable gene. Moreover, ectopic expression of inscuteable in other epithelial cells leads to spindle reorientation. The Inscuteable protein localizes to the apical cell cortex before mitosis, suggesting that Inscuteable functions in establishing polarity for asymmetric cell division.",
+          "score": 13.21583823052596
+        },
+        {
+          "rank": 7,
+          "doc_id": "5864770",
+          "title": "Estrogens, progestogens, normal breast cell proliferation, and breast cancer risk.",
+          "text": "Epidemiologic studies suggest that ovarian hormones contribute to the development of breast cancer at all stages. Early menopause and premenopausal obesity reduces the risk while postmenopausal obesity and menopausal estrogen replacement therapy increases the risk. Combined oral contraceptives and Depo-Provera do not reduce the risk. It appears that estrogens and progestogens act through and with proto-oncogenes and growth factors to affect breast cell proliferation and breast cancer etiology. Animal studies suggest that estrogen causes interlobular ductal cell division and progesterone causes increased terminal duct lobular unit cell division in the luteal phase. Most breast carcinomas originate from terminal duct lobular unit cells. During pregnancy, these cells fully multiply. Their reproduction is also increased during the luteal phase. Yet, there is considerable interpersonal variation. No studies examining breast cell division have compared cell division rates with serum hormone concentrations, however. The peak of mitosis occurs about 3 days before breast cell death in the late luteal and very early follicular phases. Other research suggests that breast stem cell proliferation is linked to breast cancer development. Endocrine therapy reduces mitotic activity, indicating the estrogen and progesterone receptor content of breast cancers. Hormone-dependent breast cancer cell lines are all estrogen-dependent. Progesterone can block the estrogen-dependent cell lines which act like endometrial cells. The results of the various breast cell proliferation studies in relation to breast cancer are unclear and research identifying a molecular explanation would help in understanding the different findings.",
+          "score": 13.18392631781886
+        },
+        {
+          "rank": 8,
+          "doc_id": "11020675",
+          "title": "Thrombopoietin-induced Polyploidization of Bone Marrow Megakaryocytes Is Due to a Unique Regulatory Mechanism in Late Mitosis ",
+          "text": "Megakaryocytes undergo a unique differentiation program, becoming polyploid through repeated cycles of DNA synthesis without concomitant cell division. However, the mechanism underlying this polyploidization remains totally unknown. It has been postulated that polyploidization is due to a skipping of mitosis after each round of DNA replication. We carried out immunohistochemical studies on mouse bone marrow megakaryocytes during thrombopoietin- induced polyploidization and found that during this process megakaryocytes indeed enter mitosis and progress through normal prophase, prometaphase, metaphase, and up to anaphase A, but not to anaphase B, telophase, or cytokinesis. It was clearly observed that multiple spindle poles were formed as the polyploid megakaryocytes entered mitosis; the nuclear membrane broke down during prophase; the sister chromatids were aligned on a multifaced plate, and the centrosomes were symmetrically located on either side of each face of the plate at metaphase; and a set of sister chromatids moved into the multiple centrosomes during anaphase A. We further noted that the pair of spindle poles in anaphase were located in close proximity to each other, probably because of the lack of outward movement of spindle poles during anaphase B. Thus, the reassembling nuclear envelope may enclose all the sister chromatids in a single nucleus at anaphase and then skip telophase and cytokinesis. These observations clearly indicate that polyploidization of megakaryocytes is not simply due to a skipping of mitosis, and that the megakaryocytes must have a unique regulatory mechanism in anaphase, e.g., factors regulating anaphase such as microtubule motor proteins might be involved in this polyploidization process.",
+          "score": 12.410839591355124
+        },
+        {
+          "rank": 9,
+          "doc_id": "4412772",
+          "title": "Cdk1 is sufficient to drive the mammalian cell cycle",
+          "text": "Unicellular organisms such as yeasts require a single cyclin-dependent kinase, Cdk1, to drive cell division. In contrast, mammalian cells are thought to require the sequential activation of at least four different cyclin-dependent kinases, Cdk2, Cdk3, Cdk4 and Cdk6, to drive cells through interphase, as well as Cdk1 to proceed through mitosis. This model has been challenged by recent genetic evidence that mice survive in the absence of individual interphase Cdks. Moreover, most mouse cell types proliferate in the absence of two or even three interphase Cdks. Similar results have been obtained on ablation of some of the activating subunits of Cdks, such as the D-type and E-type cyclins. Here we show that mouse embryos lacking all interphase Cdks (Cdk2, Cdk3, Cdk4 and Cdk6) undergo organogenesis and develop to midgestation. In these embryos, Cdk1 binds to all cyclins, resulting in the phosphorylation of the retinoblastoma protein pRb and the expression of genes that are regulated by E2F transcription factors. Mouse embryonic fibroblasts derived from these embryos proliferate in vitro, albeit with an extended cell cycle due to inefficient inactivation of Rb proteins. However, they become immortal on continuous passage. We also report that embryos fail to develop to the morula and blastocyst stages in the absence of Cdk1. These results indicate that Cdk1 is the only essential cell cycle Cdk. Moreover, they show that in the absence of interphase Cdks, Cdk1 can execute all the events that are required to drive cell division.",
+          "score": 11.612645740204465
+        },
+        {
+          "rank": 10,
+          "doc_id": "51865482",
+          "title": "The Long Noncoding RNA CAREL Controls Cardiac Regeneration.",
+          "text": "BACKGROUND Adult mammalian heart loses regeneration ability following ischemic injury due to the loss of cardiomyocyte mitosis. However, the molecular mechanisms underlying the post-mitotic nature of cardiomyocytes remain largely unknown. OBJECTIVES The purpose of this study was to define the essential role of long noncoding ribonucleic acids (lncRNAs) in heart regeneration during postnatal and adult injury. METHODS Myh6-driving cardiomyocyte-specific lncRNA-CAREL transgenic mice and adenovirus-mediated in vivo silencing of endogenous CAREL were used in this study. The effect of CAREL on cardiomyocyte replication and heart regeneration after apical resection or myocardial infarction was assessed by detecting mitosis and cytokinesis. RESULTS An lncRNA CAREL was found significantly up-regulated in cardiomyocytes from neonatal mice (P7) in parallel with loss of regenerative capacity. Cardiac-specific overexpression of CAREL in mice reduced cardiomyocyte division and proliferation and blunted neonatal heart regeneration after injury. Conversely, silencing of CAREL in vivo markedly promoted cardiac regeneration and improved heart functions after myocardial infarction in neonatal and adult mice. CAREL acted as a competing endogenous ribonucleic acid for miR-296 to derepress the expression of Trp53inp1 and Itm2a, the target genes of miR-296. Consistently, overexpression of miR-296 significantly increased cardiomyocyte replication and cardiac regeneration after injury. Decline of cardiac regenerative ability in CAREL transgenic mice was also rescued by miR-296. A short fragment containing the conserved sequence of CAREL reduced the proliferation of human induced pluripotent stem cell-derived cardiomyocytes as the full-length CAREL. CONCLUSIONS LncRNA CAREL regulates cardiomyocyte proliferation and heart regeneration in postnatal and adult heart after injury by acting as a competing endogenous ribonucleic acid on miR-296 that targets Trp53inp1 and Itm2a.",
+          "score": 10.35976215353184
+        }
+      ],
+      "query_time_ms": 9.258199999749195,
+      "config": {
+        "schema_version": 1,
+        "system": "bm25",
+        "implementation_version": "1.0.0",
+        "tokenizer": "unicode-word-casefold-v1",
+        "document_fields": [
+          "title",
+          "text"
+        ],
+        "idf": "log1p((N-df+0.5)/(df+0.5))",
+        "query_term_weighting": "binary",
+        "k1": 1.2,
+        "b": 0.75,
+        "seed": 42
+      },
+      "dataset_sha256": {
+        "corpus.jsonl": "dec31c8182f3d744c7d2c09423756fd1d17cbef75808db13ba01cc0aab4d1ac6",
+        "queries.jsonl": "8ff84a7c903f722981cd8d595c022660140c51867b27608a6d4910db86080313",
+        "qrels/train.tsv": "a53f2114831916c096b6c37d9e54da68cef4efdcdbd5ed46533601af972acf1d"
+      },
+      "trace": null
+    },
+    "dense": {
+      "run_type": "interactive_search_not_benchmark",
+      "query": "cell division and mitosis",
+      "system": "dense",
+      "results": [
+        {
+          "rank": 1,
+          "doc_id": "29183629",
+          "title": "Extra centrosomes and/or chromosomes prolong mitosis in human cells",
+          "text": "Using laser microsurgery and cell fusion we have explored how additional centrosomes and/or chromosomes influence the duration of mitosis in human cells. We found that doubling the chromosome number added approximately 10 min to a 20 min division, whereas doubling the number of centrosomes added approximately 30 min more. Extra centrosomes and/or chromosomes prolong mitosis by delaying satisfaction of the spindle assembly checkpoint. Thus mitosis can be prolonged by non-genetic means and extra chromosomes and centrosomes probably contribute to the elevated mitotic index seen in many tumours.",
+          "score": 0.602898120880127
+        },
+        {
+          "rank": 2,
+          "doc_id": "38127792",
+          "title": "Acentrosomal Microtubule Assembly in Mitosis: The Where, When, and How.",
+          "text": "In mitosis the cell assembles the bipolar spindle, a microtubule (MT)-based apparatus that segregates the duplicated chromosomes into two daughter cells. Most animal cells enter mitosis with duplicated centrosomes that provide an active source of dynamic MTs. However, it is now established that spindle assembly relies on the nucleation of acentrosomal MTs occurring around the chromosomes after nuclear envelope breakdown, and on pre-existing microtubules. Where chromosome-dependent MT nucleation occurs, when MT amplification takes place and how the two pathways function are still key questions that generate some controversies. We reconcile the data and present an integrated model accounting for acentrosomal microtubule assembly in the dividing cell.",
+          "score": 0.6015650629997253
+        },
+        {
+          "rank": 3,
+          "doc_id": "7622767",
+          "title": "Human Cyclin a Is Required for Mitosis until Mid Prophase",
+          "text": "We have used microinjection and time-lapse video microscopy to study the role of cyclin A in mitosis. We have injected purified, active cyclin A/cyclin-dependent kinase 2 (CDK2) into synchronized cells at specific points in the cell cycle and assayed its effect on cell division. We find that cyclin A/CDK2 will drive G2 phase cells into mitosis within 30 min of microinjection, up to 4 h before control cells enter mitosis. Often this premature mitosis is abnormal; the chromosomes do not completely condense and daughter cells fuse. Remarkably, microinjecting cyclin A/CDK2 into S phase cells has no effect on progress through the following G2 phase or mitosis. In complementary experiments we have microinjected the amino terminus of p21Cip1/Waf1/Sdi1 (p21N) into cells to inhibit cyclin A/CDK2 activity. We find that p21N will prevent S phase or G2 phase cells from entering mitosis, and will cause early prophase cells to return to interphase. These results suggest that cyclin A/CDK2 is a rate-limiting component required for entry into mitosis, and for progress through mitosis until late prophase. They also suggest that cyclin A/CDK2 may be the target of the recently described prophase checkpoint.",
+          "score": 0.5595925450325012
+        },
+        {
+          "rank": 4,
+          "doc_id": "10704438",
+          "title": "The DNA damage response during mitosis.",
+          "text": "Cells are equipped with a cell-intrinsic signaling network called the DNA damage response (DDR). This signaling network recognizes DNA lesions and initiates various downstream pathways to coordinate a cell cycle arrest with the repair of the damaged DNA. Alternatively, the DDR can mediate clearance of affected cells that are beyond repair through apoptosis or senescence. The DDR can be activated in response to DNA damage throughout the cell cycle, although the extent of DDR signaling is different in each cell cycle phase. Especially in response to DNA double strand breaks, only a very marginal response was observed during mitosis. Early on it was recognized that cells which are irradiated during mitosis continued division without repairing broken chromosomes. Although these initial observations indicated diminished DNA repair and lack of an acute DNA damage-induced cell cycle arrest, insight into the mechanistic re-wiring of DDR signaling during mitosis was only recently provided. Different mechanisms appear to be at play to inactivate specific signaling axes of the DDR network in mitosis. Importantly, mitotic cells not simply inactivate the entire DDR, but appear to mark their DNA damage for repair after mitotic exit. Since the treatment of cancer frequently involves agents that induce DNA damage as well as agents that block mitotic progression, it is clinically relevant to obtain a better understanding of how cancer cells deal with DNA damage during interphase versus mitosis. In this review, the molecular details concerning DDR signaling during mitosis as well as the consequences of encountering DNA damage during mitosis for cellular fate are discussed.",
+          "score": 0.5535901784896851
+        },
+        {
+          "rank": 5,
+          "doc_id": "4364884",
+          "title": "A Mechanism Linking Extra Centrosomes to Chromosomal Instability",
+          "text": "Chromosomal instability (CIN) is a hallmark of many tumours and correlates with the presence of extra centrosomes. However, a direct mechanistic link between extra centrosomes and CIN has not been established. It has been proposed that extra centrosomes generate CIN by promoting multipolar anaphase, a highly abnormal division that produces three or more aneuploid daughter cells. Here we use long-term live-cell imaging to demonstrate that cells with multiple centrosomes rarely undergo multipolar cell divisions, and the progeny of these divisions are typically inviable. Thus, multipolar divisions cannot explain observed rates of CIN. In contrast, we observe that CIN cells with extra centrosomes routinely undergo bipolar cell divisions, but display a significantly increased frequency of lagging chromosomes during anaphase. To define the mechanism underlying this mitotic defect, we generated cells that differ only in their centrosome number. We demonstrate that extra centrosomes alone are sufficient to promote chromosome missegregation during bipolar cell division. These segregation errors are a consequence of cells passing through a transient 'multipolar spindle intermediate' in which merotelic kinetochore-microtubule attachment errors accumulate before centrosome clustering and anaphase. These findings provide a direct mechanistic link between extra centrosomes and CIN, two common characteristics of solid tumours. We propose that this mechanism may be a common underlying cause of CIN in human cancer.",
+          "score": 0.5480586290359497
+        },
+        {
+          "rank": 6,
+          "doc_id": "4343437",
+          "title": "Role of inscuteable in orienting asymmetric cell divisions in Drosophila",
+          "text": "Drosophila neuroblasts and epithelial cells in the procephalic neurogenic region divide perpendicular to the surface, and segregate the proteins Numb and Prospero into the basal daughter cell. We demonstrate here that orientation of the mitotic spindle and correct localization of Numb and Prospero in these cells require the inscuteable gene. Moreover, ectopic expression of inscuteable in other epithelial cells leads to spindle reorientation. The Inscuteable protein localizes to the apical cell cortex before mitosis, suggesting that Inscuteable functions in establishing polarity for asymmetric cell division.",
+          "score": 0.5242973566055298
+        },
+        {
+          "rank": 7,
+          "doc_id": "11020675",
+          "title": "Thrombopoietin-induced Polyploidization of Bone Marrow Megakaryocytes Is Due to a Unique Regulatory Mechanism in Late Mitosis ",
+          "text": "Megakaryocytes undergo a unique differentiation program, becoming polyploid through repeated cycles of DNA synthesis without concomitant cell division. However, the mechanism underlying this polyploidization remains totally unknown. It has been postulated that polyploidization is due to a skipping of mitosis after each round of DNA replication. We carried out immunohistochemical studies on mouse bone marrow megakaryocytes during thrombopoietin- induced polyploidization and found that during this process megakaryocytes indeed enter mitosis and progress through normal prophase, prometaphase, metaphase, and up to anaphase A, but not to anaphase B, telophase, or cytokinesis. It was clearly observed that multiple spindle poles were formed as the polyploid megakaryocytes entered mitosis; the nuclear membrane broke down during prophase; the sister chromatids were aligned on a multifaced plate, and the centrosomes were symmetrically located on either side of each face of the plate at metaphase; and a set of sister chromatids moved into the multiple centrosomes during anaphase A. We further noted that the pair of spindle poles in anaphase were located in close proximity to each other, probably because of the lack of outward movement of spindle poles during anaphase B. Thus, the reassembling nuclear envelope may enclose all the sister chromatids in a single nucleus at anaphase and then skip telophase and cytokinesis. These observations clearly indicate that polyploidization of megakaryocytes is not simply due to a skipping of mitosis, and that the megakaryocytes must have a unique regulatory mechanism in anaphase, e.g., factors regulating anaphase such as microtubule motor proteins might be involved in this polyploidization process.",
+          "score": 0.5223129987716675
+        },
+        {
+          "rank": 8,
+          "doc_id": "33989422",
+          "title": "On the origins of ultra-fine anaphase bridges.",
+          "text": "Comment on: Chan KL, Palmai-Pallag T, Ying S, Hickson ID. Replication stress induces sister-chromatid bridging at fragile site loci in mitosis. Nat Cell Biol 2009; 11:753-60.",
+          "score": 0.5165672898292542
+        },
+        {
+          "rank": 9,
+          "doc_id": "37297740",
+          "title": "Roads to polyploidy: the megakaryocyte example.",
+          "text": "Polyploidy, recognized by multiple copies of the haploid chromosome number, has been described in plants, insects, and in mammalian cells such as, the platelet precursors, the megakaryocytes. Several of these cell types reach high ploidy via a different cell cycle. Megakaryocytes undergo an endomitotic cell cycle, which consists of an S phase interrupted by a gap, during which the cells enter mitosis but skip anaphase B and cytokinesis. Here, we review the mechanisms that lead to this cell cycle and to polyploidy in megakaryocytes, while also comparing them to those described for other systems in which high ploidy is achieved. Overall, polyploidy is associated with an orchestrated change in expression of several genes, of which, some may be a result of high ploidy and hence a determinant of a new cell physiology, while others are inducers of polyploidization. Future studies will aim to further explore these two groups of genes.",
+          "score": 0.5123960971832275
+        },
+        {
+          "rank": 10,
+          "doc_id": "22948960",
+          "title": "Direct visualization of the endomitotic cell cycle in living megakaryocytes: differential patterns in low and high ploidy cells.",
+          "text": "Endomitosis in megakaryocytes (MKs) involves repeated DNA replication in the absence of cytokinesis and is a crucial part of MK development. However, chromosomal dynamics have never been observed in living MKs. We developed a new transgenic mouse model in which the expression of human histone H2B fused in-frame to green fluorescent protein is targeted to MKs. Ex vivo time-lapse microscopy analysis indicated that chromosomal condensation occurs at early mitosis in all MKs. In high ploidy MKs (>or=8N), late anaphase was marked by a ring-type alignment of chromosomes with multiple territories formed between them. By contrast, in low ploidy MKs mitotic chromosomes segregated to form two groups separated by a clear space before re-joining to one cluster. This is the first study to document chromosomal segregation patterns during endomitosis ex vivo and to indicate their potential differential regulation in low and high ploidy cells.",
+          "score": 0.5120205879211426
+        }
+      ],
+      "query_time_ms": 69.92159999981595,
+      "config": {
+        "schema_version": 1,
+        "system": "dense",
+        "implementation_version": "1.0.0",
+        "model_id": "sentence-transformers/all-MiniLM-L6-v2",
+        "revision": "1110a243fdf4706b3f48f1d95db1a4f5529b4d41",
+        "dimension": 384,
+        "max_seq_length": 256,
+        "batch_size": 32,
+        "normalize_embeddings": true,
+        "dtype": "float32",
+        "device": "cpu",
+        "pooling": "mean",
+        "index_type": "IndexFlatIP",
+        "document_fields": [
+          "title",
+          "text"
+        ],
+        "query_prompt": "",
+        "document_prompt": "",
+        "torch_threads": 1,
+        "faiss_threads": 1,
+        "seed": 42
+      },
+      "dataset_sha256": {
+        "corpus.jsonl": "dec31c8182f3d744c7d2c09423756fd1d17cbef75808db13ba01cc0aab4d1ac6",
+        "queries.jsonl": "8ff84a7c903f722981cd8d595c022660140c51867b27608a6d4910db86080313",
+        "qrels/train.tsv": "a53f2114831916c096b6c37d9e54da68cef4efdcdbd5ed46533601af972acf1d"
+      },
+      "trace": null
+    },
+    "hybrid": {
+      "run_type": "interactive_search_not_benchmark",
+      "query": "cell division and mitosis",
+      "system": "hybrid",
+      "results": [
+        {
+          "rank": 1,
+          "doc_id": "29183629",
+          "title": "Extra centrosomes and/or chromosomes prolong mitosis in human cells",
+          "text": "Using laser microsurgery and cell fusion we have explored how additional centrosomes and/or chromosomes influence the duration of mitosis in human cells. We found that doubling the chromosome number added approximately 10 min to a 20 min division, whereas doubling the number of centrosomes added approximately 30 min more. Extra centrosomes and/or chromosomes prolong mitosis by delaying satisfaction of the spindle assembly checkpoint. Thus mitosis can be prolonged by non-genetic means and extra chromosomes and centrosomes probably contribute to the elevated mitotic index seen in many tumours.",
+          "score": 0.03278688524590164
+        },
+        {
+          "rank": 2,
+          "doc_id": "7622767",
+          "title": "Human Cyclin a Is Required for Mitosis until Mid Prophase",
+          "text": "We have used microinjection and time-lapse video microscopy to study the role of cyclin A in mitosis. We have injected purified, active cyclin A/cyclin-dependent kinase 2 (CDK2) into synchronized cells at specific points in the cell cycle and assayed its effect on cell division. We find that cyclin A/CDK2 will drive G2 phase cells into mitosis within 30 min of microinjection, up to 4 h before control cells enter mitosis. Often this premature mitosis is abnormal; the chromosomes do not completely condense and daughter cells fuse. Remarkably, microinjecting cyclin A/CDK2 into S phase cells has no effect on progress through the following G2 phase or mitosis. In complementary experiments we have microinjected the amino terminus of p21Cip1/Waf1/Sdi1 (p21N) into cells to inhibit cyclin A/CDK2 activity. We find that p21N will prevent S phase or G2 phase cells from entering mitosis, and will cause early prophase cells to return to interphase. These results suggest that cyclin A/CDK2 is a rate-limiting component required for entry into mitosis, and for progress through mitosis until late prophase. They also suggest that cyclin A/CDK2 may be the target of the recently described prophase checkpoint.",
+          "score": 0.03200204813108039
+        },
+        {
+          "rank": 3,
+          "doc_id": "10704438",
+          "title": "The DNA damage response during mitosis.",
+          "text": "Cells are equipped with a cell-intrinsic signaling network called the DNA damage response (DDR). This signaling network recognizes DNA lesions and initiates various downstream pathways to coordinate a cell cycle arrest with the repair of the damaged DNA. Alternatively, the DDR can mediate clearance of affected cells that are beyond repair through apoptosis or senescence. The DDR can be activated in response to DNA damage throughout the cell cycle, although the extent of DDR signaling is different in each cell cycle phase. Especially in response to DNA double strand breaks, only a very marginal response was observed during mitosis. Early on it was recognized that cells which are irradiated during mitosis continued division without repairing broken chromosomes. Although these initial observations indicated diminished DNA repair and lack of an acute DNA damage-induced cell cycle arrest, insight into the mechanistic re-wiring of DDR signaling during mitosis was only recently provided. Different mechanisms appear to be at play to inactivate specific signaling axes of the DDR network in mitosis. Importantly, mitotic cells not simply inactivate the entire DDR, but appear to mark their DNA damage for repair after mitotic exit. Since the treatment of cancer frequently involves agents that induce DNA damage as well as agents that block mitotic progression, it is clinically relevant to obtain a better understanding of how cancer cells deal with DNA damage during interphase versus mitosis. In this review, the molecular details concerning DDR signaling during mitosis as well as the consequences of encountering DNA damage during mitosis for cellular fate are discussed.",
+          "score": 0.03149801587301587
+        },
+        {
+          "rank": 4,
+          "doc_id": "4343437",
+          "title": "Role of inscuteable in orienting asymmetric cell divisions in Drosophila",
+          "text": "Drosophila neuroblasts and epithelial cells in the procephalic neurogenic region divide perpendicular to the surface, and segregate the proteins Numb and Prospero into the basal daughter cell. We demonstrate here that orientation of the mitotic spindle and correct localization of Numb and Prospero in these cells require the inscuteable gene. Moreover, ectopic expression of inscuteable in other epithelial cells leads to spindle reorientation. The Inscuteable protein localizes to the apical cell cortex before mitosis, suggesting that Inscuteable functions in establishing polarity for asymmetric cell division.",
+          "score": 0.030303030303030304
+        },
+        {
+          "rank": 5,
+          "doc_id": "38127792",
+          "title": "Acentrosomal Microtubule Assembly in Mitosis: The Where, When, and How.",
+          "text": "In mitosis the cell assembles the bipolar spindle, a microtubule (MT)-based apparatus that segregates the duplicated chromosomes into two daughter cells. Most animal cells enter mitosis with duplicated centrosomes that provide an active source of dynamic MTs. However, it is now established that spindle assembly relies on the nucleation of acentrosomal MTs occurring around the chromosomes after nuclear envelope breakdown, and on pre-existing microtubules. Where chromosome-dependent MT nucleation occurs, when MT amplification takes place and how the two pathways function are still key questions that generate some controversies. We reconcile the data and present an integrated model accounting for acentrosomal microtubule assembly in the dividing cell.",
+          "score": 0.02964254577157803
+        },
+        {
+          "rank": 6,
+          "doc_id": "11020675",
+          "title": "Thrombopoietin-induced Polyploidization of Bone Marrow Megakaryocytes Is Due to a Unique Regulatory Mechanism in Late Mitosis ",
+          "text": "Megakaryocytes undergo a unique differentiation program, becoming polyploid through repeated cycles of DNA synthesis without concomitant cell division. However, the mechanism underlying this polyploidization remains totally unknown. It has been postulated that polyploidization is due to a skipping of mitosis after each round of DNA replication. We carried out immunohistochemical studies on mouse bone marrow megakaryocytes during thrombopoietin- induced polyploidization and found that during this process megakaryocytes indeed enter mitosis and progress through normal prophase, prometaphase, metaphase, and up to anaphase A, but not to anaphase B, telophase, or cytokinesis. It was clearly observed that multiple spindle poles were formed as the polyploid megakaryocytes entered mitosis; the nuclear membrane broke down during prophase; the sister chromatids were aligned on a multifaced plate, and the centrosomes were symmetrically located on either side of each face of the plate at metaphase; and a set of sister chromatids moved into the multiple centrosomes during anaphase A. We further noted that the pair of spindle poles in anaphase were located in close proximity to each other, probably because of the lack of outward movement of spindle poles during anaphase B. Thus, the reassembling nuclear envelope may enclose all the sister chromatids in a single nucleus at anaphase and then skip telophase and cytokinesis. These observations clearly indicate that polyploidization of megakaryocytes is not simply due to a skipping of mitosis, and that the megakaryocytes must have a unique regulatory mechanism in anaphase, e.g., factors regulating anaphase such as microtubule motor proteins might be involved in this polyploidization process.",
+          "score": 0.029631255487269532
+        },
+        {
+          "rank": 7,
+          "doc_id": "335029",
+          "title": "Condensin-mediated remodeling of the mitotic chromatin landscape in fission yeast",
+          "text": "The eukaryotic genome consists of DNA molecules far longer than the cells that contain them. They reach their greatest compaction during chromosome condensation in mitosis. This process is aided by condensin, a structural maintenance of chromosomes (SMC) family member. The spatial organization of mitotic chromosomes and how condensin shapes chromatin architecture are not yet fully understood. Here we use chromosome conformation capture (Hi-C) to study mitotic chromosome condensation in the fission yeast Schizosaccharomyces pombe. This showed that the interphase landscape characterized by small chromatin domains is replaced by fewer but larger domains in mitosis. Condensin achieves this by setting up longer-range, intrachromosomal DNA interactions, which compact and individualize chromosomes. At the same time, local chromatin contacts are constrained by condensin, with profound implications for local chromatin function during mitosis. Our results highlight condensin as a major determinant that changes the chromatin landscape as cells prepare their genomes for cell division.",
+          "score": 0.029083245521601686
+        },
+        {
+          "rank": 8,
+          "doc_id": "2033917",
+          "title": "Clathrin is required for the function of the mitotic spindle",
+          "text": "Clathrin has an established function in the generation of vesicles that transfer membrane and proteins around the cell. The formation of clathrin-coated vesicles occurs continuously in non-dividing cells, but is shut down during mitosis, when clathrin concentrates at the spindle apparatus. Here, we show that clathrin stabilizes fibres of the mitotic spindle to aid congression of chromosomes. Clathrin bound to the spindle directly by the amino-terminal domain of clathrin heavy chain. Depletion of clathrin heavy chain using RNA interference prolonged mitosis; kinetochore fibres were destabilized, leading to defective congression of chromosomes to the metaphase plate and persistent activation of the spindle checkpoint. Normal mitosis was rescued by clathrin triskelia but not the N-terminal domain of clathrin heavy chain, indicating that stabilization of kinetochore fibres was dependent on the unique structure of clathrin. The importance of clathrin for normal mitosis may be relevant to understanding human cancers that involve gene fusions of clathrin heavy chain.",
+          "score": 0.026709401709401708
+        },
+        {
+          "rank": 9,
+          "doc_id": "1797622",
+          "title": "Control of Apoptosis by Asymmetric Cell Division",
+          "text": "Asymmetric cell division and apoptosis (programmed cell death) are two fundamental processes that are important for the development and function of multicellular organisms. We have found that the processes of asymmetric cell division and apoptosis can be functionally linked. Specifically, we show that asymmetric cell division in the nematode Caenorhabditis elegans is mediated by a pathway involving three genes, dnj-11 MIDA1, ces-2 HLF, and ces-1 Snail, that directly control the enzymatic machinery responsible for apoptosis. Interestingly, the MIDA1-like protein GlsA of the alga Volvox carteri, as well as the Snail-related proteins Snail, Escargot, and Worniu of Drosophila melanogaster, have previously been implicated in asymmetric cell division. Therefore, C. elegans dnj-11 MIDA1, ces-2 HLF, and ces-1 Snail may be components of a pathway involved in asymmetric cell division that is conserved throughout the plant and animal kingdoms. Furthermore, based on our results, we propose that this pathway directly controls the apoptotic fate in C. elegans, and possibly other animals as well.",
+          "score": 0.02668564312399929
+        },
+        {
+          "rank": 10,
+          "doc_id": "33989422",
+          "title": "On the origins of ultra-fine anaphase bridges.",
+          "text": "Comment on: Chan KL, Palmai-Pallag T, Ying S, Hickson ID. Replication stress induces sister-chromatid bridging at fragile site loci in mitosis. Nat Cell Biol 2009; 11:753-60.",
+          "score": 0.026333789329685362
+        }
+      ],
+      "query_time_ms": 76.55269999986558,
+      "config": {
+        "schema_version": 1,
+        "system": "hybrid",
+        "implementation_version": "1.0.0",
+        "rank_constant": 60,
+        "candidate_depth": 100,
+        "bm25": {
+          "schema_version": 1,
+          "system": "bm25",
+          "implementation_version": "1.0.0",
+          "tokenizer": "unicode-word-casefold-v1",
+          "document_fields": [
+            "title",
+            "text"
+          ],
+          "idf": "log1p((N-df+0.5)/(df+0.5))",
+          "query_term_weighting": "binary",
+          "k1": 1.2,
+          "b": 0.75,
+          "seed": 42
+        },
+        "dense": {
+          "schema_version": 1,
+          "system": "dense",
+          "implementation_version": "1.0.0",
+          "model_id": "sentence-transformers/all-MiniLM-L6-v2",
+          "revision": "1110a243fdf4706b3f48f1d95db1a4f5529b4d41",
+          "dimension": 384,
+          "max_seq_length": 256,
+          "batch_size": 32,
+          "normalize_embeddings": true,
+          "dtype": "float32",
+          "device": "cpu",
+          "pooling": "mean",
+          "index_type": "IndexFlatIP",
+          "document_fields": [
+            "title",
+            "text"
+          ],
+          "query_prompt": "",
+          "document_prompt": "",
+          "torch_threads": 1,
+          "faiss_threads": 1,
+          "seed": 42
+        }
+      },
+      "dataset_sha256": {
+        "corpus.jsonl": "dec31c8182f3d744c7d2c09423756fd1d17cbef75808db13ba01cc0aab4d1ac6",
+        "queries.jsonl": "8ff84a7c903f722981cd8d595c022660140c51867b27608a6d4910db86080313",
+        "qrels/train.tsv": "a53f2114831916c096b6c37d9e54da68cef4efdcdbd5ed46533601af972acf1d"
+      },
+      "trace": {
+        "rank_constant": 60,
+        "source_candidate_ids": {
+          "bm25": [
+            "29183629",
+            "7622767",
+            "10704438",
+            "8087082",
+            "335029",
+            "4343437",
+            "5864770",
+            "11020675",
+            "4412772",
+            "51865482",
+            "7492420",
+            "10641162",
+            "1797622",
+            "38127792",
+            "31407112",
+            "4423559",
+            "40608679",
+            "2033917",
+            "18037805",
+            "10608822",
+            "17805221",
+            "19522248",
+            "28530299",
+            "40367499",
+            "4899981",
+            "33989422",
+            "1991105",
+            "18909530",
+            "16839245",
+            "12824568",
+            "13277623",
+            "6710699",
+            "8747771",
+            "12800122",
+            "23356816",
+            "6333347",
+            "7114092",
+            "35004872",
+            "14119470",
+            "4364884",
+            "4422723",
+            "6106004",
+            "243694",
+            "12909503",
+            "15868816",
+            "42035464",
+            "4398832",
+            "600808",
+            "14145440",
+            "37297740",
+            "19974105",
+            "25985964",
+            "1381673",
+            "21948782",
+            "17601006",
+            "23190392",
+            "20054396",
+            "5389523",
+            "7681810",
+            "4381486",
+            "4391817",
+            "6812319",
+            "39758684",
+            "29806339",
+            "11674596",
+            "16557565",
+            "4407318",
+            "2212067",
+            "9291596",
+            "615047",
+            "12030318",
+            "21676556",
+            "7666498",
+            "31166180",
+            "25068298",
+            "4335423",
+            "15926408",
+            "10365787",
+            "25742205",
+            "16398049",
+            "22948960",
+            "4394817",
+            "30369606",
+            "15473205",
+            "38131471",
+            "23918031",
+            "20279166",
+            "41256402",
+            "16090672",
+            "20630805",
+            "34103335",
+            "32194449",
+            "6472746",
+            "5273056",
+            "5223817",
+            "20402596",
+            "40234452",
+            "3140772",
+            "1595617",
+            "26625002"
+          ],
+          "dense": [
+            "29183629",
+            "38127792",
+            "7622767",
+            "10704438",
+            "4364884",
+            "4343437",
+            "11020675",
+            "33989422",
+            "37297740",
+            "22948960",
+            "17601006",
+            "2033917",
+            "335029",
+            "8747771",
+            "13936152",
+            "8551160",
+            "1797622",
+            "41256402",
+            "11141995",
+            "4398832",
+            "40367499",
+            "12800122",
+            "13583615",
+            "6106004",
+            "10494012",
+            "4407318",
+            "4412772",
+            "31166180",
+            "7114092",
+            "35004872",
+            "1641873",
+            "19522248",
+            "23918031",
+            "935034",
+            "7560876",
+            "928281",
+            "6812319",
+            "6712836",
+            "6472746",
+            "9291596",
+            "14145440",
+            "24558930",
+            "22405338",
+            "20054396",
+            "15816729",
+            "25670099",
+            "10641162",
+            "34537906",
+            "16057926",
+            "26182390",
+            "24555417",
+            "600808",
+            "27647593",
+            "14550841",
+            "3400973",
+            "6333347",
+            "6082738",
+            "16736872",
+            "15926408",
+            "30658796",
+            "9038803",
+            "36066871",
+            "17805221",
+            "31761981",
+            "23356816",
+            "39758684",
+            "16108876",
+            "16839245",
+            "1991105",
+            "493346",
+            "927561",
+            "23190392",
+            "25550665",
+            "12824568",
+            "25036988",
+            "7492420",
+            "19974105",
+            "11674596",
+            "5389523",
+            "4346731",
+            "90064424",
+            "5273056",
+            "5002665",
+            "21250322",
+            "10608822",
+            "29806339",
+            "34103335",
+            "32194449",
+            "4422723",
+            "8425533",
+            "14338915",
+            "38528892",
+            "25041967",
+            "4391817",
+            "5864770",
+            "7681810",
+            "7521113",
+            "28271439",
+            "6710699",
+            "42035464"
+          ]
+        },
+        "union_size": 142,
+        "results": [
+          {
+            "doc_id": "29183629",
+            "rrf_score": 0.03278688524590164,
+            "sources": {
+              "bm25": {
+                "rank": 1,
+                "contribution": 0.01639344262295082
+              },
+              "dense": {
+                "rank": 1,
+                "contribution": 0.01639344262295082
+              }
+            }
+          },
+          {
+            "doc_id": "7622767",
+            "rrf_score": 0.03200204813108039,
+            "sources": {
+              "bm25": {
+                "rank": 2,
+                "contribution": 0.016129032258064516
+              },
+              "dense": {
+                "rank": 3,
+                "contribution": 0.015873015873015872
+              }
+            }
+          },
+          {
+            "doc_id": "10704438",
+            "rrf_score": 0.03149801587301587,
+            "sources": {
+              "bm25": {
+                "rank": 3,
+                "contribution": 0.015873015873015872
+              },
+              "dense": {
+                "rank": 4,
+                "contribution": 0.015625
+              }
+            }
+          },
+          {
+            "doc_id": "4343437",
+            "rrf_score": 0.030303030303030304,
+            "sources": {
+              "bm25": {
+                "rank": 6,
+                "contribution": 0.015151515151515152
+              },
+              "dense": {
+                "rank": 6,
+                "contribution": 0.015151515151515152
+              }
+            }
+          },
+          {
+            "doc_id": "38127792",
+            "rrf_score": 0.02964254577157803,
+            "sources": {
+              "bm25": {
+                "rank": 14,
+                "contribution": 0.013513513513513514
+              },
+              "dense": {
+                "rank": 2,
+                "contribution": 0.016129032258064516
+              }
+            }
+          },
+          {
+            "doc_id": "11020675",
+            "rrf_score": 0.029631255487269532,
+            "sources": {
+              "bm25": {
+                "rank": 8,
+                "contribution": 0.014705882352941176
+              },
+              "dense": {
+                "rank": 7,
+                "contribution": 0.014925373134328358
+              }
+            }
+          },
+          {
+            "doc_id": "335029",
+            "rrf_score": 0.029083245521601686,
+            "sources": {
+              "bm25": {
+                "rank": 5,
+                "contribution": 0.015384615384615385
+              },
+              "dense": {
+                "rank": 13,
+                "contribution": 0.0136986301369863
+              }
+            }
+          },
+          {
+            "doc_id": "2033917",
+            "rrf_score": 0.026709401709401708,
+            "sources": {
+              "bm25": {
+                "rank": 18,
+                "contribution": 0.01282051282051282
+              },
+              "dense": {
+                "rank": 12,
+                "contribution": 0.013888888888888888
+              }
+            }
+          },
+          {
+            "doc_id": "1797622",
+            "rrf_score": 0.02668564312399929,
+            "sources": {
+              "bm25": {
+                "rank": 13,
+                "contribution": 0.0136986301369863
+              },
+              "dense": {
+                "rank": 17,
+                "contribution": 0.012987012987012988
+              }
+            }
+          },
+          {
+            "doc_id": "33989422",
+            "rrf_score": 0.026333789329685362,
+            "sources": {
+              "bm25": {
+                "rank": 26,
+                "contribution": 0.011627906976744186
+              },
+              "dense": {
+                "rank": 8,
+                "contribution": 0.014705882352941176
+              }
+            }
+          }
+        ]
+      }
+    },
+    "rerank": {
+      "run_type": "interactive_search_not_benchmark",
+      "query": "cell division and mitosis",
+      "system": "rerank",
+      "results": [
+        {
+          "rank": 1,
+          "doc_id": "4343437",
+          "title": "Role of inscuteable in orienting asymmetric cell divisions in Drosophila",
+          "text": "Drosophila neuroblasts and epithelial cells in the procephalic neurogenic region divide perpendicular to the surface, and segregate the proteins Numb and Prospero into the basal daughter cell. We demonstrate here that orientation of the mitotic spindle and correct localization of Numb and Prospero in these cells require the inscuteable gene. Moreover, ectopic expression of inscuteable in other epithelial cells leads to spindle reorientation. The Inscuteable protein localizes to the apical cell cortex before mitosis, suggesting that Inscuteable functions in establishing polarity for asymmetric cell division.",
+          "score": 5.273166656494141
+        },
+        {
+          "rank": 2,
+          "doc_id": "29183629",
+          "title": "Extra centrosomes and/or chromosomes prolong mitosis in human cells",
+          "text": "Using laser microsurgery and cell fusion we have explored how additional centrosomes and/or chromosomes influence the duration of mitosis in human cells. We found that doubling the chromosome number added approximately 10 min to a 20 min division, whereas doubling the number of centrosomes added approximately 30 min more. Extra centrosomes and/or chromosomes prolong mitosis by delaying satisfaction of the spindle assembly checkpoint. Thus mitosis can be prolonged by non-genetic means and extra chromosomes and centrosomes probably contribute to the elevated mitotic index seen in many tumours.",
+          "score": 4.729540824890137
+        },
+        {
+          "rank": 3,
+          "doc_id": "19522248",
+          "title": "Cyclin-dependent kinase 2 is essential for meiosis but not for mitotic cell division in mice",
+          "text": "We targeted the locus encoding the cyclin-dependent kinase 2 (CDK2) by homologous recombination in mouse embryonic stem (ES) cells. Embryonic fibroblasts lacking CDK2 proliferate normally and become immortal after continuous passage in culture. Elimination of a conditional Cdk2 allele in immortal cells does not have a significant effect on proliferation. Cdk2\u2212/\u2212 mice are viable and survive for up to two years, indicating that CDK2 is also dispensable for proliferation and survival of most cell types. But CDK2 is essential for completion of prophase I during meiotic cell division in male and female germ cells, an unforeseen role for this cell cycle kinase.",
+          "score": 3.507134199142456
+        },
+        {
+          "rank": 4,
+          "doc_id": "7622767",
+          "title": "Human Cyclin a Is Required for Mitosis until Mid Prophase",
+          "text": "We have used microinjection and time-lapse video microscopy to study the role of cyclin A in mitosis. We have injected purified, active cyclin A/cyclin-dependent kinase 2 (CDK2) into synchronized cells at specific points in the cell cycle and assayed its effect on cell division. We find that cyclin A/CDK2 will drive G2 phase cells into mitosis within 30 min of microinjection, up to 4 h before control cells enter mitosis. Often this premature mitosis is abnormal; the chromosomes do not completely condense and daughter cells fuse. Remarkably, microinjecting cyclin A/CDK2 into S phase cells has no effect on progress through the following G2 phase or mitosis. In complementary experiments we have microinjected the amino terminus of p21Cip1/Waf1/Sdi1 (p21N) into cells to inhibit cyclin A/CDK2 activity. We find that p21N will prevent S phase or G2 phase cells from entering mitosis, and will cause early prophase cells to return to interphase. These results suggest that cyclin A/CDK2 is a rate-limiting component required for entry into mitosis, and for progress through mitosis until late prophase. They also suggest that cyclin A/CDK2 may be the target of the recently described prophase checkpoint.",
+          "score": 1.3579062223434448
+        },
+        {
+          "rank": 5,
+          "doc_id": "10704438",
+          "title": "The DNA damage response during mitosis.",
+          "text": "Cells are equipped with a cell-intrinsic signaling network called the DNA damage response (DDR). This signaling network recognizes DNA lesions and initiates various downstream pathways to coordinate a cell cycle arrest with the repair of the damaged DNA. Alternatively, the DDR can mediate clearance of affected cells that are beyond repair through apoptosis or senescence. The DDR can be activated in response to DNA damage throughout the cell cycle, although the extent of DDR signaling is different in each cell cycle phase. Especially in response to DNA double strand breaks, only a very marginal response was observed during mitosis. Early on it was recognized that cells which are irradiated during mitosis continued division without repairing broken chromosomes. Although these initial observations indicated diminished DNA repair and lack of an acute DNA damage-induced cell cycle arrest, insight into the mechanistic re-wiring of DDR signaling during mitosis was only recently provided. Different mechanisms appear to be at play to inactivate specific signaling axes of the DDR network in mitosis. Importantly, mitotic cells not simply inactivate the entire DDR, but appear to mark their DNA damage for repair after mitotic exit. Since the treatment of cancer frequently involves agents that induce DNA damage as well as agents that block mitotic progression, it is clinically relevant to obtain a better understanding of how cancer cells deal with DNA damage during interphase versus mitosis. In this review, the molecular details concerning DDR signaling during mitosis as well as the consequences of encountering DNA damage during mitosis for cellular fate are discussed.",
+          "score": 0.5921126008033752
+        },
+        {
+          "rank": 6,
+          "doc_id": "7492420",
+          "title": "The abbreviated pluripotent cell cycle.",
+          "text": "Human embryonic stem cells (hESCs) and induced pluripotent stem cells proliferate rapidly and divide symmetrically producing equivalent progeny cells. In contrast, lineage committed cells acquire an extended symmetrical cell cycle. Self-renewal of tissue-specific stem cells is sustained by asymmetric cell division where one progeny cell remains a progenitor while the partner progeny cell exits the cell cycle and differentiates. There are three principal contexts for considering the operation and regulation of the pluripotent cell cycle: temporal, regulatory, and structural. The primary temporal context that the pluripotent self-renewal cell cycle of hESCs is a short G1 period without reducing periods of time allocated to S phase, G2, and mitosis. The rules that govern proliferation in hESCs remain to be comprehensively established. However, several lines of evidence suggest a key role for the na\u00efve transcriptome of hESCs, which is competent to stringently regulate the embryonic stem cell (ESC) cell cycle. This supports the requirements of pluripotent cells to self-propagate while suppressing expression of genes that confer lineage commitment and/or tissue specificity. However, for the first time, we consider unique dimensions to the architectural organization and assembly of regulatory machinery for gene expression in nuclear microenviornments that define parameters of pluripotency. From both fundamental biological and clinical perspectives, understanding control of the abbreviated ESC cycle can provide options to coordinate control of proliferation versus differentiation. Wound healing, tissue engineering, and cell-based therapy to mitigate developmental aberrations illustrate applications that benefit from knowledge of the biology of the pluripotent cell cycle.",
+          "score": 0.4073277711868286
+        },
+        {
+          "rank": 7,
+          "doc_id": "16839245",
+          "title": "Physiological relevance of cell cycle kinases.",
+          "text": "The basic biology of the cell division cycle and its control by protein kinases was originally studied through genetic and biochemical studies in yeast and other model organisms. The major regulatory mechanisms identified in this pioneer work are conserved in mammals. However, recent studies in different cell types or genetic models are now providing a new perspective on the function of these major cell cycle regulators in different tissues. Here, we review the physiological relevance of mammalian cell cycle kinases such as cyclin-dependent kinases (Cdks), Aurora and Polo-like kinases, and mitotic checkpoint regulators (Bub1, BubR1, and Mps1) as well as other less-studied enzymes such as Cdc7, Nek proteins, or Mastl and their implications in development, tissue homeostasis, and human disease. Among these functions, the control of self-renewal or asymmetric cell division in stem/progenitor cells and the ability to regenerate injured tissues is a central issue in current research. In addition, many of these proteins play previously unexpected roles in metabolism, cardiovascular function, or neuron biology. The modulation of their enzymatic activity may therefore have multiple therapeutic benefits in human disease.",
+          "score": -0.31620609760284424
+        },
+        {
+          "rank": 8,
+          "doc_id": "10641162",
+          "title": "A unique cell division machinery in the Archaea.",
+          "text": "In contrast to the cell division machineries of bacteria, euryarchaea, and eukaryotes, no division components have been identified in the second main archaeal phylum, Crenarchaeota. Here, we demonstrate that a three-gene operon, cdv, in the crenarchaeon Sulfolobus acidocaldarius, forms part of a unique cell division machinery. The operon is induced at the onset of genome segregation and division, and the Cdv proteins then polymerize between segregating nucleoids and persist throughout cell division, forming a successively smaller structure during constriction. The cdv operon is dramatically down-regulated after UV irradiation, indicating division inhibition in response to DNA damage, reminiscent of eukaryotic checkpoint systems. The cdv genes exhibit a complementary phylogenetic range relative to FtsZ-based archaeal division systems such that, in most archaeal lineages, either one or the other system is present. Two of the Cdv proteins, CdvB and CdvC, display homology to components of the eukaryotic ESCRT-III sorting complex involved in budding of luminal vesicles and HIV-1 virion release, suggesting mechanistic similarities and a common evolutionary origin.",
+          "score": -0.7851942777633667
+        },
+        {
+          "rank": 9,
+          "doc_id": "4412772",
+          "title": "Cdk1 is sufficient to drive the mammalian cell cycle",
+          "text": "Unicellular organisms such as yeasts require a single cyclin-dependent kinase, Cdk1, to drive cell division. In contrast, mammalian cells are thought to require the sequential activation of at least four different cyclin-dependent kinases, Cdk2, Cdk3, Cdk4 and Cdk6, to drive cells through interphase, as well as Cdk1 to proceed through mitosis. This model has been challenged by recent genetic evidence that mice survive in the absence of individual interphase Cdks. Moreover, most mouse cell types proliferate in the absence of two or even three interphase Cdks. Similar results have been obtained on ablation of some of the activating subunits of Cdks, such as the D-type and E-type cyclins. Here we show that mouse embryos lacking all interphase Cdks (Cdk2, Cdk3, Cdk4 and Cdk6) undergo organogenesis and develop to midgestation. In these embryos, Cdk1 binds to all cyclins, resulting in the phosphorylation of the retinoblastoma protein pRb and the expression of genes that are regulated by E2F transcription factors. Mouse embryonic fibroblasts derived from these embryos proliferate in vitro, albeit with an extended cell cycle due to inefficient inactivation of Rb proteins. However, they become immortal on continuous passage. We also report that embryos fail to develop to the morula and blastocyst stages in the absence of Cdk1. These results indicate that Cdk1 is the only essential cell cycle Cdk. Moreover, they show that in the absence of interphase Cdks, Cdk1 can execute all the events that are required to drive cell division.",
+          "score": -0.8194100856781006
+        },
+        {
+          "rank": 10,
+          "doc_id": "1797622",
+          "title": "Control of Apoptosis by Asymmetric Cell Division",
+          "text": "Asymmetric cell division and apoptosis (programmed cell death) are two fundamental processes that are important for the development and function of multicellular organisms. We have found that the processes of asymmetric cell division and apoptosis can be functionally linked. Specifically, we show that asymmetric cell division in the nematode Caenorhabditis elegans is mediated by a pathway involving three genes, dnj-11 MIDA1, ces-2 HLF, and ces-1 Snail, that directly control the enzymatic machinery responsible for apoptosis. Interestingly, the MIDA1-like protein GlsA of the alga Volvox carteri, as well as the Snail-related proteins Snail, Escargot, and Worniu of Drosophila melanogaster, have previously been implicated in asymmetric cell division. Therefore, C. elegans dnj-11 MIDA1, ces-2 HLF, and ces-1 Snail may be components of a pathway involved in asymmetric cell division that is conserved throughout the plant and animal kingdoms. Furthermore, based on our results, we propose that this pathway directly controls the apoptotic fate in C. elegans, and possibly other animals as well.",
+          "score": -1.2900677919387817
+        }
+      ],
+      "query_time_ms": 1612.9333000003498,
+      "config": {
+        "schema_version": 1,
+        "system": "rerank",
+        "implementation_version": "1.0.0",
+        "model_id": "cross-encoder/ms-marco-TinyBERT-L2-v2",
+        "revision": "81d1926f67cb8eee2c2be17ca9f793c7c3bd20cc",
+        "rerank_depth": 50,
+        "max_length": 512,
+        "batch_size": 16,
+        "device": "cpu",
+        "dtype": "float32",
+        "activation": "identity_raw_logit",
+        "truncation": "longest_first",
+        "torch_threads": 1,
+        "seed": 42,
+        "retriever": {
+          "schema_version": 1,
+          "system": "hybrid",
+          "implementation_version": "1.0.0",
+          "rank_constant": 60,
+          "candidate_depth": 100,
+          "bm25": {
+            "schema_version": 1,
+            "system": "bm25",
+            "implementation_version": "1.0.0",
+            "tokenizer": "unicode-word-casefold-v1",
+            "document_fields": [
+              "title",
+              "text"
+            ],
+            "idf": "log1p((N-df+0.5)/(df+0.5))",
+            "query_term_weighting": "binary",
+            "k1": 1.2,
+            "b": 0.75,
+            "seed": 42
+          },
+          "dense": {
+            "schema_version": 1,
+            "system": "dense",
+            "implementation_version": "1.0.0",
+            "model_id": "sentence-transformers/all-MiniLM-L6-v2",
+            "revision": "1110a243fdf4706b3f48f1d95db1a4f5529b4d41",
+            "dimension": 384,
+            "max_seq_length": 256,
+            "batch_size": 32,
+            "normalize_embeddings": true,
+            "dtype": "float32",
+            "device": "cpu",
+            "pooling": "mean",
+            "index_type": "IndexFlatIP",
+            "document_fields": [
+              "title",
+              "text"
+            ],
+            "query_prompt": "",
+            "document_prompt": "",
+            "torch_threads": 1,
+            "faiss_threads": 1,
+            "seed": 42
+          }
+        }
+      },
+      "dataset_sha256": {
+        "corpus.jsonl": "dec31c8182f3d744c7d2c09423756fd1d17cbef75808db13ba01cc0aab4d1ac6",
+        "queries.jsonl": "8ff84a7c903f722981cd8d595c022660140c51867b27608a6d4910db86080313",
+        "qrels/train.tsv": "a53f2114831916c096b6c37d9e54da68cef4efdcdbd5ed46533601af972acf1d"
+      },
+      "trace": {
+        "candidates": [
+          {
+            "doc_id": "29183629",
+            "retrieval_rank": 1,
+            "retrieval_score": 0.03278688524590164,
+            "reranker_score": 4.729540824890137
+          },
+          {
+            "doc_id": "7622767",
+            "retrieval_rank": 2,
+            "retrieval_score": 0.03200204813108039,
+            "reranker_score": 1.3579062223434448
+          },
+          {
+            "doc_id": "10704438",
+            "retrieval_rank": 3,
+            "retrieval_score": 0.03149801587301587,
+            "reranker_score": 0.5921126008033752
+          },
+          {
+            "doc_id": "4343437",
+            "retrieval_rank": 4,
+            "retrieval_score": 0.030303030303030304,
+            "reranker_score": 5.273166656494141
+          },
+          {
+            "doc_id": "38127792",
+            "retrieval_rank": 5,
+            "retrieval_score": 0.02964254577157803,
+            "reranker_score": -1.8617520332336426
+          },
+          {
+            "doc_id": "11020675",
+            "retrieval_rank": 6,
+            "retrieval_score": 0.029631255487269532,
+            "reranker_score": -2.095870018005371
+          },
+          {
+            "doc_id": "335029",
+            "retrieval_rank": 7,
+            "retrieval_score": 0.029083245521601686,
+            "reranker_score": -3.0468573570251465
+          },
+          {
+            "doc_id": "2033917",
+            "retrieval_rank": 8,
+            "retrieval_score": 0.026709401709401708,
+            "reranker_score": -5.856085777282715
+          },
+          {
+            "doc_id": "1797622",
+            "retrieval_rank": 9,
+            "retrieval_score": 0.02668564312399929,
+            "reranker_score": -1.2900677919387817
+          },
+          {
+            "doc_id": "33989422",
+            "retrieval_rank": 10,
+            "retrieval_score": 0.026333789329685362,
+            "reranker_score": -7.082552909851074
+          },
+          {
+            "doc_id": "4412772",
+            "retrieval_rank": 11,
+            "retrieval_score": 0.025987006496751626,
+            "reranker_score": -0.8194100856781006
+          },
+          {
+            "doc_id": "4364884",
+            "retrieval_rank": 12,
+            "retrieval_score": 0.025384615384615387,
+            "reranker_score": -4.516901016235352
+          },
+          {
+            "doc_id": "8747771",
+            "retrieval_rank": 13,
+            "retrieval_score": 0.024266201685556526,
+            "reranker_score": -1.8100510835647583
+          },
+          {
+            "doc_id": "40367499",
+            "retrieval_rank": 14,
+            "retrieval_score": 0.024250440917107582,
+            "reranker_score": -3.532428741455078
+          },
+          {
+            "doc_id": "37297740",
+            "retrieval_rank": 15,
+            "retrieval_score": 0.023583662714097495,
+            "reranker_score": -7.652387619018555
+          },
+          {
+            "doc_id": "10641162",
+            "retrieval_rank": 16,
+            "retrieval_score": 0.023234683281412254,
+            "reranker_score": -0.7851942777633667
+          },
+          {
+            "doc_id": "19522248",
+            "retrieval_rank": 17,
+            "retrieval_score": 0.023064687168610817,
+            "reranker_score": 3.507134199142456
+          },
+          {
+            "doc_id": "12800122",
+            "retrieval_rank": 18,
+            "retrieval_score": 0.022833419823559936,
+            "reranker_score": -6.420227527618408
+          },
+          {
+            "doc_id": "17601006",
+            "retrieval_rank": 19,
+            "retrieval_score": 0.022780159216166565,
+            "reranker_score": -4.6986541748046875
+          },
+          {
+            "doc_id": "4398832",
+            "retrieval_rank": 20,
+            "retrieval_score": 0.021845794392523363,
+            "reranker_score": -6.043354034423828
+          },
+          {
+            "doc_id": "6106004",
+            "retrieval_rank": 21,
+            "retrieval_score": 0.021708683473389355,
+            "reranker_score": -1.3744014501571655
+          },
+          {
+            "doc_id": "7114092",
+            "retrieval_rank": 22,
+            "retrieval_score": 0.021545233406695237,
+            "reranker_score": -6.204358100891113
+          },
+          {
+            "doc_id": "7492420",
+            "retrieval_rank": 23,
+            "retrieval_score": 0.02143744821872411,
+            "reranker_score": 0.4073277711868286
+          },
+          {
+            "doc_id": "22948960",
+            "retrieval_rank": 24,
+            "retrieval_score": 0.02137791286727457,
+            "reranker_score": -5.176675796508789
+          },
+          {
+            "doc_id": "5864770",
+            "retrieval_rank": 25,
+            "retrieval_score": 0.021376986037554165,
+            "reranker_score": -3.675445318222046
+          },
+          {
+            "doc_id": "35004872",
+            "retrieval_rank": 26,
+            "retrieval_score": 0.021315192743764172,
+            "reranker_score": -7.0373945236206055
+          },
+          {
+            "doc_id": "17805221",
+            "retrieval_rank": 27,
+            "retrieval_score": 0.02047576031315869,
+            "reranker_score": -7.04628849029541
+          },
+          {
+            "doc_id": "41256402",
+            "retrieval_rank": 28,
+            "retrieval_score": 0.019577269577269577,
+            "reranker_score": -7.4112372398376465
+          },
+          {
+            "doc_id": "4407318",
+            "retrieval_rank": 29,
+            "retrieval_score": 0.019501922724775682,
+            "reranker_score": -6.05104923248291
+          },
+          {
+            "doc_id": "10608822",
+            "retrieval_rank": 30,
+            "retrieval_score": 0.01939655172413793,
+            "reranker_score": -4.120114803314209
+          },
+          {
+            "doc_id": "1991105",
+            "retrieval_rank": 31,
+            "retrieval_score": 0.019246190858059342,
+            "reranker_score": -3.867818593978882
+          },
+          {
+            "doc_id": "14145440",
+            "retrieval_rank": 32,
+            "retrieval_score": 0.019075302025615408,
+            "reranker_score": -6.320640563964844
+          },
+          {
+            "doc_id": "16839245",
+            "retrieval_rank": 33,
+            "retrieval_score": 0.019048455056179775,
+            "reranker_score": -0.31620609760284424
+          },
+          {
+            "doc_id": "6333347",
+            "retrieval_rank": 34,
+            "retrieval_score": 0.01903735632183908,
+            "reranker_score": -3.381709098815918
+          },
+          {
+            "doc_id": "31166180",
+            "retrieval_rank": 35,
+            "retrieval_score": 0.018826322930800544,
+            "reranker_score": -5.319695472717285
+          },
+          {
+            "doc_id": "12824568",
+            "retrieval_rank": 36,
+            "retrieval_score": 0.01857379767827529,
+            "reranker_score": -3.4244632720947266
+          },
+          {
+            "doc_id": "23356816",
+            "retrieval_rank": 37,
+            "retrieval_score": 0.018526315789473682,
+            "reranker_score": -5.471156120300293
+          },
+          {
+            "doc_id": "6812319",
+            "retrieval_rank": 38,
+            "retrieval_score": 0.018505999661990874,
+            "reranker_score": -7.560948848724365
+          },
+          {
+            "doc_id": "600808",
+            "retrieval_rank": 39,
+            "retrieval_score": 0.018187830687830687,
+            "reranker_score": -5.162594795227051
+          },
+          {
+            "doc_id": "20054396",
+            "retrieval_rank": 40,
+            "retrieval_score": 0.018162393162393164,
+            "reranker_score": -5.117679595947266
+          },
+          {
+            "doc_id": "9291596",
+            "retrieval_rank": 41,
+            "retrieval_score": 0.017751937984496126,
+            "reranker_score": -7.620081901550293
+          },
+          {
+            "doc_id": "23918031",
+            "retrieval_rank": 42,
+            "retrieval_score": 0.017602003240536162,
+            "reranker_score": -3.6248369216918945
+          },
+          {
+            "doc_id": "6710699",
+            "retrieval_rank": 43,
+            "retrieval_score": 0.01715887339349193,
+            "reranker_score": -2.0392351150512695
+          },
+          {
+            "doc_id": "6472746",
+            "retrieval_rank": 44,
+            "retrieval_score": 0.016636957813428402,
+            "reranker_score": -2.129638195037842
+          },
+          {
+            "doc_id": "4422723",
+            "retrieval_rank": 45,
+            "retrieval_score": 0.016612399494983054,
+            "reranker_score": -4.148327827453613
+          },
+          {
+            "doc_id": "19974105",
+            "retrieval_rank": 46,
+            "retrieval_score": 0.01630827908200171,
+            "reranker_score": -8.53198528289795
+          },
+          {
+            "doc_id": "23190392",
+            "retrieval_rank": 47,
+            "retrieval_score": 0.01619644723092999,
+            "reranker_score": -6.558882236480713
+          },
+          {
+            "doc_id": "39758684",
+            "retrieval_rank": 48,
+            "retrieval_score": 0.016066589237320947,
+            "reranker_score": -7.815047264099121
+          },
+          {
+            "doc_id": "15926408",
+            "retrieval_rank": 49,
+            "retrieval_score": 0.015702631417530515,
+            "reranker_score": -6.519195079803467
+          },
+          {
+            "doc_id": "42035464",
+            "retrieval_rank": 50,
+            "retrieval_score": 0.015683962264150943,
+            "reranker_score": -4.888375282287598
+          }
+        ],
+        "results": [
+          {
+            "doc_id": "4343437",
+            "retrieval_rank": 4,
+            "reranked_rank": 1,
+            "raw_logit": 5.273166656494141
+          },
+          {
+            "doc_id": "29183629",
+            "retrieval_rank": 1,
+            "reranked_rank": 2,
+            "raw_logit": 4.729540824890137
+          },
+          {
+            "doc_id": "19522248",
+            "retrieval_rank": 17,
+            "reranked_rank": 3,
+            "raw_logit": 3.507134199142456
+          },
+          {
+            "doc_id": "7622767",
+            "retrieval_rank": 2,
+            "reranked_rank": 4,
+            "raw_logit": 1.3579062223434448
+          },
+          {
+            "doc_id": "10704438",
+            "retrieval_rank": 3,
+            "reranked_rank": 5,
+            "raw_logit": 0.5921126008033752
+          },
+          {
+            "doc_id": "7492420",
+            "retrieval_rank": 23,
+            "reranked_rank": 6,
+            "raw_logit": 0.4073277711868286
+          },
+          {
+            "doc_id": "16839245",
+            "retrieval_rank": 33,
+            "reranked_rank": 7,
+            "raw_logit": -0.31620609760284424
+          },
+          {
+            "doc_id": "10641162",
+            "retrieval_rank": 16,
+            "reranked_rank": 8,
+            "raw_logit": -0.7851942777633667
+          },
+          {
+            "doc_id": "4412772",
+            "retrieval_rank": 11,
+            "reranked_rank": 9,
+            "raw_logit": -0.8194100856781006
+          },
+          {
+            "doc_id": "1797622",
+            "retrieval_rank": 9,
+            "reranked_rank": 10,
+            "raw_logit": -1.2900677919387817
+          }
+        ],
+        "rerank_depth": 50,
+        "fusion_trace": {
+          "rank_constant": 60,
+          "source_candidate_ids": {
+            "bm25": [
+              "29183629",
+              "7622767",
+              "10704438",
+              "8087082",
+              "335029",
+              "4343437",
+              "5864770",
+              "11020675",
+              "4412772",
+              "51865482",
+              "7492420",
+              "10641162",
+              "1797622",
+              "38127792",
+              "31407112",
+              "4423559",
+              "40608679",
+              "2033917",
+              "18037805",
+              "10608822",
+              "17805221",
+              "19522248",
+              "28530299",
+              "40367499",
+              "4899981",
+              "33989422",
+              "1991105",
+              "18909530",
+              "16839245",
+              "12824568",
+              "13277623",
+              "6710699",
+              "8747771",
+              "12800122",
+              "23356816",
+              "6333347",
+              "7114092",
+              "35004872",
+              "14119470",
+              "4364884",
+              "4422723",
+              "6106004",
+              "243694",
+              "12909503",
+              "15868816",
+              "42035464",
+              "4398832",
+              "600808",
+              "14145440",
+              "37297740",
+              "19974105",
+              "25985964",
+              "1381673",
+              "21948782",
+              "17601006",
+              "23190392",
+              "20054396",
+              "5389523",
+              "7681810",
+              "4381486",
+              "4391817",
+              "6812319",
+              "39758684",
+              "29806339",
+              "11674596",
+              "16557565",
+              "4407318",
+              "2212067",
+              "9291596",
+              "615047",
+              "12030318",
+              "21676556",
+              "7666498",
+              "31166180",
+              "25068298",
+              "4335423",
+              "15926408",
+              "10365787",
+              "25742205",
+              "16398049",
+              "22948960",
+              "4394817",
+              "30369606",
+              "15473205",
+              "38131471",
+              "23918031",
+              "20279166",
+              "41256402",
+              "16090672",
+              "20630805",
+              "34103335",
+              "32194449",
+              "6472746",
+              "5273056",
+              "5223817",
+              "20402596",
+              "40234452",
+              "3140772",
+              "1595617",
+              "26625002"
+            ],
+            "dense": [
+              "29183629",
+              "38127792",
+              "7622767",
+              "10704438",
+              "4364884",
+              "4343437",
+              "11020675",
+              "33989422",
+              "37297740",
+              "22948960",
+              "17601006",
+              "2033917",
+              "335029",
+              "8747771",
+              "13936152",
+              "8551160",
+              "1797622",
+              "41256402",
+              "11141995",
+              "4398832",
+              "40367499",
+              "12800122",
+              "13583615",
+              "6106004",
+              "10494012",
+              "4407318",
+              "4412772",
+              "31166180",
+              "7114092",
+              "35004872",
+              "1641873",
+              "19522248",
+              "23918031",
+              "935034",
+              "7560876",
+              "928281",
+              "6812319",
+              "6712836",
+              "6472746",
+              "9291596",
+              "14145440",
+              "24558930",
+              "22405338",
+              "20054396",
+              "15816729",
+              "25670099",
+              "10641162",
+              "34537906",
+              "16057926",
+              "26182390",
+              "24555417",
+              "600808",
+              "27647593",
+              "14550841",
+              "3400973",
+              "6333347",
+              "6082738",
+              "16736872",
+              "15926408",
+              "30658796",
+              "9038803",
+              "36066871",
+              "17805221",
+              "31761981",
+              "23356816",
+              "39758684",
+              "16108876",
+              "16839245",
+              "1991105",
+              "493346",
+              "927561",
+              "23190392",
+              "25550665",
+              "12824568",
+              "25036988",
+              "7492420",
+              "19974105",
+              "11674596",
+              "5389523",
+              "4346731",
+              "90064424",
+              "5273056",
+              "5002665",
+              "21250322",
+              "10608822",
+              "29806339",
+              "34103335",
+              "32194449",
+              "4422723",
+              "8425533",
+              "14338915",
+              "38528892",
+              "25041967",
+              "4391817",
+              "5864770",
+              "7681810",
+              "7521113",
+              "28271439",
+              "6710699",
+              "42035464"
+            ]
+          },
+          "union_size": 142,
+          "results": [
+            {
+              "doc_id": "29183629",
+              "rrf_score": 0.03278688524590164,
+              "sources": {
+                "bm25": {
+                  "rank": 1,
+                  "contribution": 0.01639344262295082
+                },
+                "dense": {
+                  "rank": 1,
+                  "contribution": 0.01639344262295082
+                }
+              }
+            },
+            {
+              "doc_id": "7622767",
+              "rrf_score": 0.03200204813108039,
+              "sources": {
+                "bm25": {
+                  "rank": 2,
+                  "contribution": 0.016129032258064516
+                },
+                "dense": {
+                  "rank": 3,
+                  "contribution": 0.015873015873015872
+                }
+              }
+            },
+            {
+              "doc_id": "10704438",
+              "rrf_score": 0.03149801587301587,
+              "sources": {
+                "bm25": {
+                  "rank": 3,
+                  "contribution": 0.015873015873015872
+                },
+                "dense": {
+                  "rank": 4,
+                  "contribution": 0.015625
+                }
+              }
+            },
+            {
+              "doc_id": "4343437",
+              "rrf_score": 0.030303030303030304,
+              "sources": {
+                "bm25": {
+                  "rank": 6,
+                  "contribution": 0.015151515151515152
+                },
+                "dense": {
+                  "rank": 6,
+                  "contribution": 0.015151515151515152
+                }
+              }
+            },
+            {
+              "doc_id": "38127792",
+              "rrf_score": 0.02964254577157803,
+              "sources": {
+                "bm25": {
+                  "rank": 14,
+                  "contribution": 0.013513513513513514
+                },
+                "dense": {
+                  "rank": 2,
+                  "contribution": 0.016129032258064516
+                }
+              }
+            },
+            {
+              "doc_id": "11020675",
+              "rrf_score": 0.029631255487269532,
+              "sources": {
+                "bm25": {
+                  "rank": 8,
+                  "contribution": 0.014705882352941176
+                },
+                "dense": {
+                  "rank": 7,
+                  "contribution": 0.014925373134328358
+                }
+              }
+            },
+            {
+              "doc_id": "335029",
+              "rrf_score": 0.029083245521601686,
+              "sources": {
+                "bm25": {
+                  "rank": 5,
+                  "contribution": 0.015384615384615385
+                },
+                "dense": {
+                  "rank": 13,
+                  "contribution": 0.0136986301369863
+                }
+              }
+            },
+            {
+              "doc_id": "2033917",
+              "rrf_score": 0.026709401709401708,
+              "sources": {
+                "bm25": {
+                  "rank": 18,
+                  "contribution": 0.01282051282051282
+                },
+                "dense": {
+                  "rank": 12,
+                  "contribution": 0.013888888888888888
+                }
+              }
+            },
+            {
+              "doc_id": "1797622",
+              "rrf_score": 0.02668564312399929,
+              "sources": {
+                "bm25": {
+                  "rank": 13,
+                  "contribution": 0.0136986301369863
+                },
+                "dense": {
+                  "rank": 17,
+                  "contribution": 0.012987012987012988
+                }
+              }
+            },
+            {
+              "doc_id": "33989422",
+              "rrf_score": 0.026333789329685362,
+              "sources": {
+                "bm25": {
+                  "rank": 26,
+                  "contribution": 0.011627906976744186
+                },
+                "dense": {
+                  "rank": 8,
+                  "contribution": 0.014705882352941176
+                }
+              }
+            },
+            {
+              "doc_id": "4412772",
+              "rrf_score": 0.025987006496751626,
+              "sources": {
+                "bm25": {
+                  "rank": 9,
+                  "contribution": 0.014492753623188406
+                },
+                "dense": {
+                  "rank": 27,
+                  "contribution": 0.011494252873563218
+                }
+              }
+            },
+            {
+              "doc_id": "4364884",
+              "rrf_score": 0.025384615384615387,
+              "sources": {
+                "bm25": {
+                  "rank": 40,
+                  "contribution": 0.01
+                },
+                "dense": {
+                  "rank": 5,
+                  "contribution": 0.015384615384615385
+                }
+              }
+            },
+            {
+              "doc_id": "8747771",
+              "rrf_score": 0.024266201685556526,
+              "sources": {
+                "bm25": {
+                  "rank": 33,
+                  "contribution": 0.010752688172043012
+                },
+                "dense": {
+                  "rank": 14,
+                  "contribution": 0.013513513513513514
+                }
+              }
+            },
+            {
+              "doc_id": "40367499",
+              "rrf_score": 0.024250440917107582,
+              "sources": {
+                "bm25": {
+                  "rank": 24,
+                  "contribution": 0.011904761904761904
+                },
+                "dense": {
+                  "rank": 21,
+                  "contribution": 0.012345679012345678
+                }
+              }
+            },
+            {
+              "doc_id": "37297740",
+              "rrf_score": 0.023583662714097495,
+              "sources": {
+                "bm25": {
+                  "rank": 50,
+                  "contribution": 0.00909090909090909
+                },
+                "dense": {
+                  "rank": 9,
+                  "contribution": 0.014492753623188406
+                }
+              }
+            },
+            {
+              "doc_id": "10641162",
+              "rrf_score": 0.023234683281412254,
+              "sources": {
+                "bm25": {
+                  "rank": 12,
+                  "contribution": 0.013888888888888888
+                },
+                "dense": {
+                  "rank": 47,
+                  "contribution": 0.009345794392523364
+                }
+              }
+            },
+            {
+              "doc_id": "19522248",
+              "rrf_score": 0.023064687168610817,
+              "sources": {
+                "bm25": {
+                  "rank": 22,
+                  "contribution": 0.012195121951219513
+                },
+                "dense": {
+                  "rank": 32,
+                  "contribution": 0.010869565217391304
+                }
+              }
+            },
+            {
+              "doc_id": "12800122",
+              "rrf_score": 0.022833419823559936,
+              "sources": {
+                "bm25": {
+                  "rank": 34,
+                  "contribution": 0.010638297872340425
+                },
+                "dense": {
+                  "rank": 22,
+                  "contribution": 0.012195121951219513
+                }
+              }
+            },
+            {
+              "doc_id": "17601006",
+              "rrf_score": 0.022780159216166565,
+              "sources": {
+                "bm25": {
+                  "rank": 55,
+                  "contribution": 0.008695652173913044
+                },
+                "dense": {
+                  "rank": 11,
+                  "contribution": 0.014084507042253521
+                }
+              }
+            },
+            {
+              "doc_id": "4398832",
+              "rrf_score": 0.021845794392523363,
+              "sources": {
+                "bm25": {
+                  "rank": 47,
+                  "contribution": 0.009345794392523364
+                },
+                "dense": {
+                  "rank": 20,
+                  "contribution": 0.0125
+                }
+              }
+            },
+            {
+              "doc_id": "6106004",
+              "rrf_score": 0.021708683473389355,
+              "sources": {
+                "bm25": {
+                  "rank": 42,
+                  "contribution": 0.00980392156862745
+                },
+                "dense": {
+                  "rank": 24,
+                  "contribution": 0.011904761904761904
+                }
+              }
+            },
+            {
+              "doc_id": "7114092",
+              "rrf_score": 0.021545233406695237,
+              "sources": {
+                "bm25": {
+                  "rank": 37,
+                  "contribution": 0.010309278350515464
+                },
+                "dense": {
+                  "rank": 29,
+                  "contribution": 0.011235955056179775
+                }
+              }
+            },
+            {
+              "doc_id": "7492420",
+              "rrf_score": 0.02143744821872411,
+              "sources": {
+                "bm25": {
+                  "rank": 11,
+                  "contribution": 0.014084507042253521
+                },
+                "dense": {
+                  "rank": 76,
+                  "contribution": 0.007352941176470588
+                }
+              }
+            },
+            {
+              "doc_id": "22948960",
+              "rrf_score": 0.02137791286727457,
+              "sources": {
+                "bm25": {
+                  "rank": 81,
+                  "contribution": 0.0070921985815602835
+                },
+                "dense": {
+                  "rank": 10,
+                  "contribution": 0.014285714285714285
+                }
+              }
+            },
+            {
+              "doc_id": "5864770",
+              "rrf_score": 0.021376986037554165,
+              "sources": {
+                "bm25": {
+                  "rank": 7,
+                  "contribution": 0.014925373134328358
+                },
+                "dense": {
+                  "rank": 95,
+                  "contribution": 0.0064516129032258064
+                }
+              }
+            },
+            {
+              "doc_id": "35004872",
+              "rrf_score": 0.021315192743764172,
+              "sources": {
+                "bm25": {
+                  "rank": 38,
+                  "contribution": 0.01020408163265306
+                },
+                "dense": {
+                  "rank": 30,
+                  "contribution": 0.011111111111111112
+                }
+              }
+            },
+            {
+              "doc_id": "17805221",
+              "rrf_score": 0.02047576031315869,
+              "sources": {
+                "bm25": {
+                  "rank": 21,
+                  "contribution": 0.012345679012345678
+                },
+                "dense": {
+                  "rank": 63,
+                  "contribution": 0.008130081300813009
+                }
+              }
+            },
+            {
+              "doc_id": "41256402",
+              "rrf_score": 0.019577269577269577,
+              "sources": {
+                "bm25": {
+                  "rank": 88,
+                  "contribution": 0.006756756756756757
+                },
+                "dense": {
+                  "rank": 18,
+                  "contribution": 0.01282051282051282
+                }
+              }
+            },
+            {
+              "doc_id": "4407318",
+              "rrf_score": 0.019501922724775682,
+              "sources": {
+                "bm25": {
+                  "rank": 67,
+                  "contribution": 0.007874015748031496
+                },
+                "dense": {
+                  "rank": 26,
+                  "contribution": 0.011627906976744186
+                }
+              }
+            },
+            {
+              "doc_id": "10608822",
+              "rrf_score": 0.01939655172413793,
+              "sources": {
+                "bm25": {
+                  "rank": 20,
+                  "contribution": 0.0125
+                },
+                "dense": {
+                  "rank": 85,
+                  "contribution": 0.006896551724137931
+                }
+              }
+            },
+            {
+              "doc_id": "1991105",
+              "rrf_score": 0.019246190858059342,
+              "sources": {
+                "bm25": {
+                  "rank": 27,
+                  "contribution": 0.011494252873563218
+                },
+                "dense": {
+                  "rank": 69,
+                  "contribution": 0.007751937984496124
+                }
+              }
+            },
+            {
+              "doc_id": "14145440",
+              "rrf_score": 0.019075302025615408,
+              "sources": {
+                "bm25": {
+                  "rank": 49,
+                  "contribution": 0.009174311926605505
+                },
+                "dense": {
+                  "rank": 41,
+                  "contribution": 0.009900990099009901
+                }
+              }
+            },
+            {
+              "doc_id": "16839245",
+              "rrf_score": 0.019048455056179775,
+              "sources": {
+                "bm25": {
+                  "rank": 29,
+                  "contribution": 0.011235955056179775
+                },
+                "dense": {
+                  "rank": 68,
+                  "contribution": 0.0078125
+                }
+              }
+            },
+            {
+              "doc_id": "6333347",
+              "rrf_score": 0.01903735632183908,
+              "sources": {
+                "bm25": {
+                  "rank": 36,
+                  "contribution": 0.010416666666666666
+                },
+                "dense": {
+                  "rank": 56,
+                  "contribution": 0.008620689655172414
+                }
+              }
+            },
+            {
+              "doc_id": "31166180",
+              "rrf_score": 0.018826322930800544,
+              "sources": {
+                "bm25": {
+                  "rank": 74,
+                  "contribution": 0.007462686567164179
+                },
+                "dense": {
+                  "rank": 28,
+                  "contribution": 0.011363636363636364
+                }
+              }
+            },
+            {
+              "doc_id": "12824568",
+              "rrf_score": 0.01857379767827529,
+              "sources": {
+                "bm25": {
+                  "rank": 30,
+                  "contribution": 0.011111111111111112
+                },
+                "dense": {
+                  "rank": 74,
+                  "contribution": 0.007462686567164179
+                }
+              }
+            },
+            {
+              "doc_id": "23356816",
+              "rrf_score": 0.018526315789473682,
+              "sources": {
+                "bm25": {
+                  "rank": 35,
+                  "contribution": 0.010526315789473684
+                },
+                "dense": {
+                  "rank": 65,
+                  "contribution": 0.008
+                }
+              }
+            },
+            {
+              "doc_id": "6812319",
+              "rrf_score": 0.018505999661990874,
+              "sources": {
+                "bm25": {
+                  "rank": 62,
+                  "contribution": 0.00819672131147541
+                },
+                "dense": {
+                  "rank": 37,
+                  "contribution": 0.010309278350515464
+                }
+              }
+            },
+            {
+              "doc_id": "600808",
+              "rrf_score": 0.018187830687830687,
+              "sources": {
+                "bm25": {
+                  "rank": 48,
+                  "contribution": 0.009259259259259259
+                },
+                "dense": {
+                  "rank": 52,
+                  "contribution": 0.008928571428571428
+                }
+              }
+            },
+            {
+              "doc_id": "20054396",
+              "rrf_score": 0.018162393162393164,
+              "sources": {
+                "bm25": {
+                  "rank": 57,
+                  "contribution": 0.008547008547008548
+                },
+                "dense": {
+                  "rank": 44,
+                  "contribution": 0.009615384615384616
+                }
+              }
+            },
+            {
+              "doc_id": "9291596",
+              "rrf_score": 0.017751937984496126,
+              "sources": {
+                "bm25": {
+                  "rank": 69,
+                  "contribution": 0.007751937984496124
+                },
+                "dense": {
+                  "rank": 40,
+                  "contribution": 0.01
+                }
+              }
+            },
+            {
+              "doc_id": "23918031",
+              "rrf_score": 0.017602003240536162,
+              "sources": {
+                "bm25": {
+                  "rank": 86,
+                  "contribution": 0.00684931506849315
+                },
+                "dense": {
+                  "rank": 33,
+                  "contribution": 0.010752688172043012
+                }
+              }
+            },
+            {
+              "doc_id": "6710699",
+              "rrf_score": 0.01715887339349193,
+              "sources": {
+                "bm25": {
+                  "rank": 32,
+                  "contribution": 0.010869565217391304
+                },
+                "dense": {
+                  "rank": 99,
+                  "contribution": 0.006289308176100629
+                }
+              }
+            },
+            {
+              "doc_id": "6472746",
+              "rrf_score": 0.016636957813428402,
+              "sources": {
+                "bm25": {
+                  "rank": 93,
+                  "contribution": 0.006535947712418301
+                },
+                "dense": {
+                  "rank": 39,
+                  "contribution": 0.010101010101010102
+                }
+              }
+            },
+            {
+              "doc_id": "4422723",
+              "rrf_score": 0.016612399494983054,
+              "sources": {
+                "bm25": {
+                  "rank": 41,
+                  "contribution": 0.009900990099009901
+                },
+                "dense": {
+                  "rank": 89,
+                  "contribution": 0.006711409395973154
+                }
+              }
+            },
+            {
+              "doc_id": "19974105",
+              "rrf_score": 0.01630827908200171,
+              "sources": {
+                "bm25": {
+                  "rank": 51,
+                  "contribution": 0.009009009009009009
+                },
+                "dense": {
+                  "rank": 77,
+                  "contribution": 0.0072992700729927005
+                }
+              }
+            },
+            {
+              "doc_id": "23190392",
+              "rrf_score": 0.01619644723092999,
+              "sources": {
+                "bm25": {
+                  "rank": 56,
+                  "contribution": 0.008620689655172414
+                },
+                "dense": {
+                  "rank": 72,
+                  "contribution": 0.007575757575757576
+                }
+              }
+            },
+            {
+              "doc_id": "39758684",
+              "rrf_score": 0.016066589237320947,
+              "sources": {
+                "bm25": {
+                  "rank": 63,
+                  "contribution": 0.008130081300813009
+                },
+                "dense": {
+                  "rank": 66,
+                  "contribution": 0.007936507936507936
+                }
+              }
+            },
+            {
+              "doc_id": "15926408",
+              "rrf_score": 0.015702631417530515,
+              "sources": {
+                "bm25": {
+                  "rank": 77,
+                  "contribution": 0.0072992700729927005
+                },
+                "dense": {
+                  "rank": 59,
+                  "contribution": 0.008403361344537815
+                }
+              }
+            },
+            {
+              "doc_id": "42035464",
+              "rrf_score": 0.015683962264150943,
+              "sources": {
+                "bm25": {
+                  "rank": 46,
+                  "contribution": 0.009433962264150943
+                },
+                "dense": {
+                  "rank": 100,
+                  "contribution": 0.00625
+                }
+              }
+            }
+          ]
+        }
+      }
+    },
+    "trained": {
+      "run_type": "interactive_search_not_benchmark",
+      "query": "cell division and mitosis",
+      "system": "trained",
+      "results": [
+        {
+          "rank": 1,
+          "doc_id": "29183629",
+          "title": "Extra centrosomes and/or chromosomes prolong mitosis in human cells",
+          "text": "Using laser microsurgery and cell fusion we have explored how additional centrosomes and/or chromosomes influence the duration of mitosis in human cells. We found that doubling the chromosome number added approximately 10 min to a 20 min division, whereas doubling the number of centrosomes added approximately 30 min more. Extra centrosomes and/or chromosomes prolong mitosis by delaying satisfaction of the spindle assembly checkpoint. Thus mitosis can be prolonged by non-genetic means and extra chromosomes and centrosomes probably contribute to the elevated mitotic index seen in many tumours.",
+          "score": 1.7882343530654907
+        },
+        {
+          "rank": 2,
+          "doc_id": "4343437",
+          "title": "Role of inscuteable in orienting asymmetric cell divisions in Drosophila",
+          "text": "Drosophila neuroblasts and epithelial cells in the procephalic neurogenic region divide perpendicular to the surface, and segregate the proteins Numb and Prospero into the basal daughter cell. We demonstrate here that orientation of the mitotic spindle and correct localization of Numb and Prospero in these cells require the inscuteable gene. Moreover, ectopic expression of inscuteable in other epithelial cells leads to spindle reorientation. The Inscuteable protein localizes to the apical cell cortex before mitosis, suggesting that Inscuteable functions in establishing polarity for asymmetric cell division.",
+          "score": 1.7878518104553223
+        },
+        {
+          "rank": 3,
+          "doc_id": "16839245",
+          "title": "Physiological relevance of cell cycle kinases.",
+          "text": "The basic biology of the cell division cycle and its control by protein kinases was originally studied through genetic and biochemical studies in yeast and other model organisms. The major regulatory mechanisms identified in this pioneer work are conserved in mammals. However, recent studies in different cell types or genetic models are now providing a new perspective on the function of these major cell cycle regulators in different tissues. Here, we review the physiological relevance of mammalian cell cycle kinases such as cyclin-dependent kinases (Cdks), Aurora and Polo-like kinases, and mitotic checkpoint regulators (Bub1, BubR1, and Mps1) as well as other less-studied enzymes such as Cdc7, Nek proteins, or Mastl and their implications in development, tissue homeostasis, and human disease. Among these functions, the control of self-renewal or asymmetric cell division in stem/progenitor cells and the ability to regenerate injured tissues is a central issue in current research. In addition, many of these proteins play previously unexpected roles in metabolism, cardiovascular function, or neuron biology. The modulation of their enzymatic activity may therefore have multiple therapeutic benefits in human disease.",
+          "score": 1.5936487913131714
+        },
+        {
+          "rank": 4,
+          "doc_id": "19522248",
+          "title": "Cyclin-dependent kinase 2 is essential for meiosis but not for mitotic cell division in mice",
+          "text": "We targeted the locus encoding the cyclin-dependent kinase 2 (CDK2) by homologous recombination in mouse embryonic stem (ES) cells. Embryonic fibroblasts lacking CDK2 proliferate normally and become immortal after continuous passage in culture. Elimination of a conditional Cdk2 allele in immortal cells does not have a significant effect on proliferation. Cdk2\u2212/\u2212 mice are viable and survive for up to two years, indicating that CDK2 is also dispensable for proliferation and survival of most cell types. But CDK2 is essential for completion of prophase I during meiotic cell division in male and female germ cells, an unforeseen role for this cell cycle kinase.",
+          "score": 1.2265101671218872
+        },
+        {
+          "rank": 5,
+          "doc_id": "8747771",
+          "title": "Cohesins and condensins orchestrate the 4D dynamics of yeast chromosomes during the cell cycle",
+          "text": "Duplication and segregation of chromosomes involves dynamic reorganization of their internal structure by conserved architectural proteins, including the structural maintenance of chromosomes (SMC) complexes cohesin and condensin. Despite active investigation of the roles of these factors, a genome-wide view of dynamic chromosome architecture at both small and large scale during cell division is still missing. Here, we report the first comprehensive 4D analysis of the higher-order organization of the Saccharomyces cerevisiae genome throughout the cell cycle and investigate the roles of SMC complexes in controlling structural transitions. During replication, cohesion establishment promotes numerous long-range intra-chromosomal contacts and correlates with the individualization of chromosomes, which culminates at metaphase. In anaphase, mitotic chromosomes are abruptly reorganized depending on mechanical forces exerted by the mitotic spindle. Formation of a condensin-dependent loop bridging the centromere cluster with the rDNA loci suggests that condensin-mediated forces may also directly facilitate segregation. This work therefore comprehensively recapitulates cell cycle-dependent chromosome dynamics in a unicellular eukaryote, but also unveils new features of chromosome structural reorganization during highly conserved stages of cell division.",
+          "score": 1.1212010383605957
+        },
+        {
+          "rank": 6,
+          "doc_id": "7492420",
+          "title": "The abbreviated pluripotent cell cycle.",
+          "text": "Human embryonic stem cells (hESCs) and induced pluripotent stem cells proliferate rapidly and divide symmetrically producing equivalent progeny cells. In contrast, lineage committed cells acquire an extended symmetrical cell cycle. Self-renewal of tissue-specific stem cells is sustained by asymmetric cell division where one progeny cell remains a progenitor while the partner progeny cell exits the cell cycle and differentiates. There are three principal contexts for considering the operation and regulation of the pluripotent cell cycle: temporal, regulatory, and structural. The primary temporal context that the pluripotent self-renewal cell cycle of hESCs is a short G1 period without reducing periods of time allocated to S phase, G2, and mitosis. The rules that govern proliferation in hESCs remain to be comprehensively established. However, several lines of evidence suggest a key role for the na\u00efve transcriptome of hESCs, which is competent to stringently regulate the embryonic stem cell (ESC) cell cycle. This supports the requirements of pluripotent cells to self-propagate while suppressing expression of genes that confer lineage commitment and/or tissue specificity. However, for the first time, we consider unique dimensions to the architectural organization and assembly of regulatory machinery for gene expression in nuclear microenviornments that define parameters of pluripotency. From both fundamental biological and clinical perspectives, understanding control of the abbreviated ESC cycle can provide options to coordinate control of proliferation versus differentiation. Wound healing, tissue engineering, and cell-based therapy to mitigate developmental aberrations illustrate applications that benefit from knowledge of the biology of the pluripotent cell cycle.",
+          "score": 0.8994895219802856
+        },
+        {
+          "rank": 7,
+          "doc_id": "10704438",
+          "title": "The DNA damage response during mitosis.",
+          "text": "Cells are equipped with a cell-intrinsic signaling network called the DNA damage response (DDR). This signaling network recognizes DNA lesions and initiates various downstream pathways to coordinate a cell cycle arrest with the repair of the damaged DNA. Alternatively, the DDR can mediate clearance of affected cells that are beyond repair through apoptosis or senescence. The DDR can be activated in response to DNA damage throughout the cell cycle, although the extent of DDR signaling is different in each cell cycle phase. Especially in response to DNA double strand breaks, only a very marginal response was observed during mitosis. Early on it was recognized that cells which are irradiated during mitosis continued division without repairing broken chromosomes. Although these initial observations indicated diminished DNA repair and lack of an acute DNA damage-induced cell cycle arrest, insight into the mechanistic re-wiring of DDR signaling during mitosis was only recently provided. Different mechanisms appear to be at play to inactivate specific signaling axes of the DDR network in mitosis. Importantly, mitotic cells not simply inactivate the entire DDR, but appear to mark their DNA damage for repair after mitotic exit. Since the treatment of cancer frequently involves agents that induce DNA damage as well as agents that block mitotic progression, it is clinically relevant to obtain a better understanding of how cancer cells deal with DNA damage during interphase versus mitosis. In this review, the molecular details concerning DDR signaling during mitosis as well as the consequences of encountering DNA damage during mitosis for cellular fate are discussed.",
+          "score": 0.7583945989608765
+        },
+        {
+          "rank": 8,
+          "doc_id": "6710699",
+          "title": "Homologous recombination resolution defect in werner syndrome.",
+          "text": "Werner syndrome (WRN) is an uncommon autosomal recessive disease whose phenotype includes features of premature aging, genetic instability, and an elevated risk of cancer. We used three different experimental strategies to show that WRN cellular phenotypes of limited cell division potential, DNA damage hypersensitivity, and defective homologous recombination (HR) are interrelated. WRN cell survival and the generation of viable mitotic recombinant progeny could be rescued by expressing wild-type WRN protein or by expressing the bacterial resolvase protein RusA. The dependence of WRN cellular phenotypes on RAD51-dependent HR pathways was demonstrated by using a dominant-negative RAD51 protein to suppress mitotic recombination in WRN and control cells: the suppression of RAD51-dependent recombination led to significantly improved survival of WRN cells following DNA damage. These results define a physiological role for the WRN RecQ helicase protein in RAD51-dependent HR and identify a mechanistic link between defective recombination resolution and limited cell division potential, DNA damage hypersensitivity, and genetic instability in human somatic cells.",
+          "score": 0.6296243071556091
+        },
+        {
+          "rank": 9,
+          "doc_id": "7622767",
+          "title": "Human Cyclin a Is Required for Mitosis until Mid Prophase",
+          "text": "We have used microinjection and time-lapse video microscopy to study the role of cyclin A in mitosis. We have injected purified, active cyclin A/cyclin-dependent kinase 2 (CDK2) into synchronized cells at specific points in the cell cycle and assayed its effect on cell division. We find that cyclin A/CDK2 will drive G2 phase cells into mitosis within 30 min of microinjection, up to 4 h before control cells enter mitosis. Often this premature mitosis is abnormal; the chromosomes do not completely condense and daughter cells fuse. Remarkably, microinjecting cyclin A/CDK2 into S phase cells has no effect on progress through the following G2 phase or mitosis. In complementary experiments we have microinjected the amino terminus of p21Cip1/Waf1/Sdi1 (p21N) into cells to inhibit cyclin A/CDK2 activity. We find that p21N will prevent S phase or G2 phase cells from entering mitosis, and will cause early prophase cells to return to interphase. These results suggest that cyclin A/CDK2 is a rate-limiting component required for entry into mitosis, and for progress through mitosis until late prophase. They also suggest that cyclin A/CDK2 may be the target of the recently described prophase checkpoint.",
+          "score": 0.5482391119003296
+        },
+        {
+          "rank": 10,
+          "doc_id": "5864770",
+          "title": "Estrogens, progestogens, normal breast cell proliferation, and breast cancer risk.",
+          "text": "Epidemiologic studies suggest that ovarian hormones contribute to the development of breast cancer at all stages. Early menopause and premenopausal obesity reduces the risk while postmenopausal obesity and menopausal estrogen replacement therapy increases the risk. Combined oral contraceptives and Depo-Provera do not reduce the risk. It appears that estrogens and progestogens act through and with proto-oncogenes and growth factors to affect breast cell proliferation and breast cancer etiology. Animal studies suggest that estrogen causes interlobular ductal cell division and progesterone causes increased terminal duct lobular unit cell division in the luteal phase. Most breast carcinomas originate from terminal duct lobular unit cells. During pregnancy, these cells fully multiply. Their reproduction is also increased during the luteal phase. Yet, there is considerable interpersonal variation. No studies examining breast cell division have compared cell division rates with serum hormone concentrations, however. The peak of mitosis occurs about 3 days before breast cell death in the late luteal and very early follicular phases. Other research suggests that breast stem cell proliferation is linked to breast cancer development. Endocrine therapy reduces mitotic activity, indicating the estrogen and progesterone receptor content of breast cancers. Hormone-dependent breast cancer cell lines are all estrogen-dependent. Progesterone can block the estrogen-dependent cell lines which act like endometrial cells. The results of the various breast cell proliferation studies in relation to breast cancer are unclear and research identifying a molecular explanation would help in understanding the different findings.",
+          "score": 0.5104098916053772
+        }
+      ],
+      "query_time_ms": 1648.7081000000217,
+      "config": {
+        "schema_version": 1,
+        "system": "rerank",
+        "implementation_version": "1.0.0",
+        "model_id": "cross-encoder/ms-marco-TinyBERT-L2-v2",
+        "revision": "81d1926f67cb8eee2c2be17ca9f793c7c3bd20cc",
+        "rerank_depth": 50,
+        "max_length": 512,
+        "batch_size": 16,
+        "device": "cpu",
+        "dtype": "float32",
+        "activation": "identity_raw_logit",
+        "truncation": "longest_first",
+        "torch_threads": 1,
+        "seed": 42,
+        "checkpoint_sha256": "363baae60f7a89c5baf54c995c222134a56c0872bdca44f39dbd437e3396451d",
+        "retriever": {
+          "schema_version": 1,
+          "system": "hybrid",
+          "implementation_version": "1.0.0",
+          "rank_constant": 60,
+          "candidate_depth": 100,
+          "bm25": {
+            "schema_version": 1,
+            "system": "bm25",
+            "implementation_version": "1.0.0",
+            "tokenizer": "unicode-word-casefold-v1",
+            "document_fields": [
+              "title",
+              "text"
+            ],
+            "idf": "log1p((N-df+0.5)/(df+0.5))",
+            "query_term_weighting": "binary",
+            "k1": 1.2,
+            "b": 0.75,
+            "seed": 42
+          },
+          "dense": {
+            "schema_version": 1,
+            "system": "dense",
+            "implementation_version": "1.0.0",
+            "model_id": "sentence-transformers/all-MiniLM-L6-v2",
+            "revision": "1110a243fdf4706b3f48f1d95db1a4f5529b4d41",
+            "dimension": 384,
+            "max_seq_length": 256,
+            "batch_size": 32,
+            "normalize_embeddings": true,
+            "dtype": "float32",
+            "device": "cpu",
+            "pooling": "mean",
+            "index_type": "IndexFlatIP",
+            "document_fields": [
+              "title",
+              "text"
+            ],
+            "query_prompt": "",
+            "document_prompt": "",
+            "torch_threads": 1,
+            "faiss_threads": 1,
+            "seed": 42
+          }
+        }
+      },
+      "dataset_sha256": {
+        "corpus.jsonl": "dec31c8182f3d744c7d2c09423756fd1d17cbef75808db13ba01cc0aab4d1ac6",
+        "queries.jsonl": "8ff84a7c903f722981cd8d595c022660140c51867b27608a6d4910db86080313",
+        "qrels/train.tsv": "a53f2114831916c096b6c37d9e54da68cef4efdcdbd5ed46533601af972acf1d"
+      },
+      "trace": {
+        "candidates": [
+          {
+            "doc_id": "29183629",
+            "retrieval_rank": 1,
+            "retrieval_score": 0.03278688524590164,
+            "reranker_score": 1.7882343530654907
+          },
+          {
+            "doc_id": "7622767",
+            "retrieval_rank": 2,
+            "retrieval_score": 0.03200204813108039,
+            "reranker_score": 0.5482391119003296
+          },
+          {
+            "doc_id": "10704438",
+            "retrieval_rank": 3,
+            "retrieval_score": 0.03149801587301587,
+            "reranker_score": 0.7583945989608765
+          },
+          {
+            "doc_id": "4343437",
+            "retrieval_rank": 4,
+            "retrieval_score": 0.030303030303030304,
+            "reranker_score": 1.7878518104553223
+          },
+          {
+            "doc_id": "38127792",
+            "retrieval_rank": 5,
+            "retrieval_score": 0.02964254577157803,
+            "reranker_score": 0.07519099861383438
+          },
+          {
+            "doc_id": "11020675",
+            "retrieval_rank": 6,
+            "retrieval_score": 0.029631255487269532,
+            "reranker_score": 0.14506837725639343
+          },
+          {
+            "doc_id": "335029",
+            "retrieval_rank": 7,
+            "retrieval_score": 0.029083245521601686,
+            "reranker_score": 0.21370002627372742
+          },
+          {
+            "doc_id": "2033917",
+            "retrieval_rank": 8,
+            "retrieval_score": 0.026709401709401708,
+            "reranker_score": -1.0048696994781494
+          },
+          {
+            "doc_id": "1797622",
+            "retrieval_rank": 9,
+            "retrieval_score": 0.02668564312399929,
+            "reranker_score": 0.4076695740222931
+          },
+          {
+            "doc_id": "33989422",
+            "retrieval_rank": 10,
+            "retrieval_score": 0.026333789329685362,
+            "reranker_score": -1.8142510652542114
+          },
+          {
+            "doc_id": "4412772",
+            "retrieval_rank": 11,
+            "retrieval_score": 0.025987006496751626,
+            "reranker_score": 0.31972023844718933
+          },
+          {
+            "doc_id": "4364884",
+            "retrieval_rank": 12,
+            "retrieval_score": 0.025384615384615387,
+            "reranker_score": -0.01825728639960289
+          },
+          {
+            "doc_id": "8747771",
+            "retrieval_rank": 13,
+            "retrieval_score": 0.024266201685556526,
+            "reranker_score": 1.1212010383605957
+          },
+          {
+            "doc_id": "40367499",
+            "retrieval_rank": 14,
+            "retrieval_score": 0.024250440917107582,
+            "reranker_score": 0.031013701111078262
+          },
+          {
+            "doc_id": "37297740",
+            "retrieval_rank": 15,
+            "retrieval_score": 0.023583662714097495,
+            "reranker_score": -1.2591580152511597
+          },
+          {
+            "doc_id": "10641162",
+            "retrieval_rank": 16,
+            "retrieval_score": 0.023234683281412254,
+            "reranker_score": 0.23955366015434265
+          },
+          {
+            "doc_id": "19522248",
+            "retrieval_rank": 17,
+            "retrieval_score": 0.023064687168610817,
+            "reranker_score": 1.2265101671218872
+          },
+          {
+            "doc_id": "12800122",
+            "retrieval_rank": 18,
+            "retrieval_score": 0.022833419823559936,
+            "reranker_score": -0.3695986568927765
+          },
+          {
+            "doc_id": "17601006",
+            "retrieval_rank": 19,
+            "retrieval_score": 0.022780159216166565,
+            "reranker_score": -0.28910747170448303
+          },
+          {
+            "doc_id": "4398832",
+            "retrieval_rank": 20,
+            "retrieval_score": 0.021845794392523363,
+            "reranker_score": -0.6794456243515015
+          },
+          {
+            "doc_id": "6106004",
+            "retrieval_rank": 21,
+            "retrieval_score": 0.021708683473389355,
+            "reranker_score": 0.39822378754615784
+          },
+          {
+            "doc_id": "7114092",
+            "retrieval_rank": 22,
+            "retrieval_score": 0.021545233406695237,
+            "reranker_score": -0.8503270745277405
+          },
+          {
+            "doc_id": "7492420",
+            "retrieval_rank": 23,
+            "retrieval_score": 0.02143744821872411,
+            "reranker_score": 0.8994895219802856
+          },
+          {
+            "doc_id": "22948960",
+            "retrieval_rank": 24,
+            "retrieval_score": 0.02137791286727457,
+            "reranker_score": -0.17435124516487122
+          },
+          {
+            "doc_id": "5864770",
+            "retrieval_rank": 25,
+            "retrieval_score": 0.021376986037554165,
+            "reranker_score": 0.5104098916053772
+          },
+          {
+            "doc_id": "35004872",
+            "retrieval_rank": 26,
+            "retrieval_score": 0.021315192743764172,
+            "reranker_score": -0.8994460701942444
+          },
+          {
+            "doc_id": "17805221",
+            "retrieval_rank": 27,
+            "retrieval_score": 0.02047576031315869,
+            "reranker_score": -0.7728705406188965
+          },
+          {
+            "doc_id": "41256402",
+            "retrieval_rank": 28,
+            "retrieval_score": 0.019577269577269577,
+            "reranker_score": -1.013508915901184
+          },
+          {
+            "doc_id": "4407318",
+            "retrieval_rank": 29,
+            "retrieval_score": 0.019501922724775682,
+            "reranker_score": -0.3020590841770172
+          },
+          {
+            "doc_id": "10608822",
+            "retrieval_rank": 30,
+            "retrieval_score": 0.01939655172413793,
+            "reranker_score": 0.1458393633365631
+          },
+          {
+            "doc_id": "1991105",
+            "retrieval_rank": 31,
+            "retrieval_score": 0.019246190858059342,
+            "reranker_score": 0.06697890907526016
+          },
+          {
+            "doc_id": "14145440",
+            "retrieval_rank": 32,
+            "retrieval_score": 0.019075302025615408,
+            "reranker_score": -0.6368659734725952
+          },
+          {
+            "doc_id": "16839245",
+            "retrieval_rank": 33,
+            "retrieval_score": 0.019048455056179775,
+            "reranker_score": 1.5936487913131714
+          },
+          {
+            "doc_id": "6333347",
+            "retrieval_rank": 34,
+            "retrieval_score": 0.01903735632183908,
+            "reranker_score": 0.3799658715724945
+          },
+          {
+            "doc_id": "31166180",
+            "retrieval_rank": 35,
+            "retrieval_score": 0.018826322930800544,
+            "reranker_score": -0.6621512174606323
+          },
+          {
+            "doc_id": "12824568",
+            "retrieval_rank": 36,
+            "retrieval_score": 0.01857379767827529,
+            "reranker_score": 0.22140130400657654
+          },
+          {
+            "doc_id": "23356816",
+            "retrieval_rank": 37,
+            "retrieval_score": 0.018526315789473682,
+            "reranker_score": -0.4200684726238251
+          },
+          {
+            "doc_id": "6812319",
+            "retrieval_rank": 38,
+            "retrieval_score": 0.018505999661990874,
+            "reranker_score": -0.8264215588569641
+          },
+          {
+            "doc_id": "600808",
+            "retrieval_rank": 39,
+            "retrieval_score": 0.018187830687830687,
+            "reranker_score": -0.747006893157959
+          },
+          {
+            "doc_id": "20054396",
+            "retrieval_rank": 40,
+            "retrieval_score": 0.018162393162393164,
+            "reranker_score": -0.3818839490413666
+          },
+          {
+            "doc_id": "9291596",
+            "retrieval_rank": 41,
+            "retrieval_score": 0.017751937984496126,
+            "reranker_score": -1.1265472173690796
+          },
+          {
+            "doc_id": "23918031",
+            "retrieval_rank": 42,
+            "retrieval_score": 0.017602003240536162,
+            "reranker_score": -0.15273723006248474
+          },
+          {
+            "doc_id": "6710699",
+            "retrieval_rank": 43,
+            "retrieval_score": 0.01715887339349193,
+            "reranker_score": 0.6296243071556091
+          },
+          {
+            "doc_id": "6472746",
+            "retrieval_rank": 44,
+            "retrieval_score": 0.016636957813428402,
+            "reranker_score": 0.1845594346523285
+          },
+          {
+            "doc_id": "4422723",
+            "retrieval_rank": 45,
+            "retrieval_score": 0.016612399494983054,
+            "reranker_score": -0.44648972153663635
+          },
+          {
+            "doc_id": "19974105",
+            "retrieval_rank": 46,
+            "retrieval_score": 0.01630827908200171,
+            "reranker_score": -0.8872790932655334
+          },
+          {
+            "doc_id": "23190392",
+            "retrieval_rank": 47,
+            "retrieval_score": 0.01619644723092999,
+            "reranker_score": -0.4932907521724701
+          },
+          {
+            "doc_id": "39758684",
+            "retrieval_rank": 48,
+            "retrieval_score": 0.016066589237320947,
+            "reranker_score": -0.6709546446800232
+          },
+          {
+            "doc_id": "15926408",
+            "retrieval_rank": 49,
+            "retrieval_score": 0.015702631417530515,
+            "reranker_score": -0.4982423186302185
+          },
+          {
+            "doc_id": "42035464",
+            "retrieval_rank": 50,
+            "retrieval_score": 0.015683962264150943,
+            "reranker_score": -0.3831346929073334
+          }
+        ],
+        "results": [
+          {
+            "doc_id": "29183629",
+            "retrieval_rank": 1,
+            "reranked_rank": 1,
+            "raw_logit": 1.7882343530654907
+          },
+          {
+            "doc_id": "4343437",
+            "retrieval_rank": 4,
+            "reranked_rank": 2,
+            "raw_logit": 1.7878518104553223
+          },
+          {
+            "doc_id": "16839245",
+            "retrieval_rank": 33,
+            "reranked_rank": 3,
+            "raw_logit": 1.5936487913131714
+          },
+          {
+            "doc_id": "19522248",
+            "retrieval_rank": 17,
+            "reranked_rank": 4,
+            "raw_logit": 1.2265101671218872
+          },
+          {
+            "doc_id": "8747771",
+            "retrieval_rank": 13,
+            "reranked_rank": 5,
+            "raw_logit": 1.1212010383605957
+          },
+          {
+            "doc_id": "7492420",
+            "retrieval_rank": 23,
+            "reranked_rank": 6,
+            "raw_logit": 0.8994895219802856
+          },
+          {
+            "doc_id": "10704438",
+            "retrieval_rank": 3,
+            "reranked_rank": 7,
+            "raw_logit": 0.7583945989608765
+          },
+          {
+            "doc_id": "6710699",
+            "retrieval_rank": 43,
+            "reranked_rank": 8,
+            "raw_logit": 0.6296243071556091
+          },
+          {
+            "doc_id": "7622767",
+            "retrieval_rank": 2,
+            "reranked_rank": 9,
+            "raw_logit": 0.5482391119003296
+          },
+          {
+            "doc_id": "5864770",
+            "retrieval_rank": 25,
+            "reranked_rank": 10,
+            "raw_logit": 0.5104098916053772
+          }
+        ],
+        "rerank_depth": 50,
+        "fusion_trace": {
+          "rank_constant": 60,
+          "source_candidate_ids": {
+            "bm25": [
+              "29183629",
+              "7622767",
+              "10704438",
+              "8087082",
+              "335029",
+              "4343437",
+              "5864770",
+              "11020675",
+              "4412772",
+              "51865482",
+              "7492420",
+              "10641162",
+              "1797622",
+              "38127792",
+              "31407112",
+              "4423559",
+              "40608679",
+              "2033917",
+              "18037805",
+              "10608822",
+              "17805221",
+              "19522248",
+              "28530299",
+              "40367499",
+              "4899981",
+              "33989422",
+              "1991105",
+              "18909530",
+              "16839245",
+              "12824568",
+              "13277623",
+              "6710699",
+              "8747771",
+              "12800122",
+              "23356816",
+              "6333347",
+              "7114092",
+              "35004872",
+              "14119470",
+              "4364884",
+              "4422723",
+              "6106004",
+              "243694",
+              "12909503",
+              "15868816",
+              "42035464",
+              "4398832",
+              "600808",
+              "14145440",
+              "37297740",
+              "19974105",
+              "25985964",
+              "1381673",
+              "21948782",
+              "17601006",
+              "23190392",
+              "20054396",
+              "5389523",
+              "7681810",
+              "4381486",
+              "4391817",
+              "6812319",
+              "39758684",
+              "29806339",
+              "11674596",
+              "16557565",
+              "4407318",
+              "2212067",
+              "9291596",
+              "615047",
+              "12030318",
+              "21676556",
+              "7666498",
+              "31166180",
+              "25068298",
+              "4335423",
+              "15926408",
+              "10365787",
+              "25742205",
+              "16398049",
+              "22948960",
+              "4394817",
+              "30369606",
+              "15473205",
+              "38131471",
+              "23918031",
+              "20279166",
+              "41256402",
+              "16090672",
+              "20630805",
+              "34103335",
+              "32194449",
+              "6472746",
+              "5273056",
+              "5223817",
+              "20402596",
+              "40234452",
+              "3140772",
+              "1595617",
+              "26625002"
+            ],
+            "dense": [
+              "29183629",
+              "38127792",
+              "7622767",
+              "10704438",
+              "4364884",
+              "4343437",
+              "11020675",
+              "33989422",
+              "37297740",
+              "22948960",
+              "17601006",
+              "2033917",
+              "335029",
+              "8747771",
+              "13936152",
+              "8551160",
+              "1797622",
+              "41256402",
+              "11141995",
+              "4398832",
+              "40367499",
+              "12800122",
+              "13583615",
+              "6106004",
+              "10494012",
+              "4407318",
+              "4412772",
+              "31166180",
+              "7114092",
+              "35004872",
+              "1641873",
+              "19522248",
+              "23918031",
+              "935034",
+              "7560876",
+              "928281",
+              "6812319",
+              "6712836",
+              "6472746",
+              "9291596",
+              "14145440",
+              "24558930",
+              "22405338",
+              "20054396",
+              "15816729",
+              "25670099",
+              "10641162",
+              "34537906",
+              "16057926",
+              "26182390",
+              "24555417",
+              "600808",
+              "27647593",
+              "14550841",
+              "3400973",
+              "6333347",
+              "6082738",
+              "16736872",
+              "15926408",
+              "30658796",
+              "9038803",
+              "36066871",
+              "17805221",
+              "31761981",
+              "23356816",
+              "39758684",
+              "16108876",
+              "16839245",
+              "1991105",
+              "493346",
+              "927561",
+              "23190392",
+              "25550665",
+              "12824568",
+              "25036988",
+              "7492420",
+              "19974105",
+              "11674596",
+              "5389523",
+              "4346731",
+              "90064424",
+              "5273056",
+              "5002665",
+              "21250322",
+              "10608822",
+              "29806339",
+              "34103335",
+              "32194449",
+              "4422723",
+              "8425533",
+              "14338915",
+              "38528892",
+              "25041967",
+              "4391817",
+              "5864770",
+              "7681810",
+              "7521113",
+              "28271439",
+              "6710699",
+              "42035464"
+            ]
+          },
+          "union_size": 142,
+          "results": [
+            {
+              "doc_id": "29183629",
+              "rrf_score": 0.03278688524590164,
+              "sources": {
+                "bm25": {
+                  "rank": 1,
+                  "contribution": 0.01639344262295082
+                },
+                "dense": {
+                  "rank": 1,
+                  "contribution": 0.01639344262295082
+                }
+              }
+            },
+            {
+              "doc_id": "7622767",
+              "rrf_score": 0.03200204813108039,
+              "sources": {
+                "bm25": {
+                  "rank": 2,
+                  "contribution": 0.016129032258064516
+                },
+                "dense": {
+                  "rank": 3,
+                  "contribution": 0.015873015873015872
+                }
+              }
+            },
+            {
+              "doc_id": "10704438",
+              "rrf_score": 0.03149801587301587,
+              "sources": {
+                "bm25": {
+                  "rank": 3,
+                  "contribution": 0.015873015873015872
+                },
+                "dense": {
+                  "rank": 4,
+                  "contribution": 0.015625
+                }
+              }
+            },
+            {
+              "doc_id": "4343437",
+              "rrf_score": 0.030303030303030304,
+              "sources": {
+                "bm25": {
+                  "rank": 6,
+                  "contribution": 0.015151515151515152
+                },
+                "dense": {
+                  "rank": 6,
+                  "contribution": 0.015151515151515152
+                }
+              }
+            },
+            {
+              "doc_id": "38127792",
+              "rrf_score": 0.02964254577157803,
+              "sources": {
+                "bm25": {
+                  "rank": 14,
+                  "contribution": 0.013513513513513514
+                },
+                "dense": {
+                  "rank": 2,
+                  "contribution": 0.016129032258064516
+                }
+              }
+            },
+            {
+              "doc_id": "11020675",
+              "rrf_score": 0.029631255487269532,
+              "sources": {
+                "bm25": {
+                  "rank": 8,
+                  "contribution": 0.014705882352941176
+                },
+                "dense": {
+                  "rank": 7,
+                  "contribution": 0.014925373134328358
+                }
+              }
+            },
+            {
+              "doc_id": "335029",
+              "rrf_score": 0.029083245521601686,
+              "sources": {
+                "bm25": {
+                  "rank": 5,
+                  "contribution": 0.015384615384615385
+                },
+                "dense": {
+                  "rank": 13,
+                  "contribution": 0.0136986301369863
+                }
+              }
+            },
+            {
+              "doc_id": "2033917",
+              "rrf_score": 0.026709401709401708,
+              "sources": {
+                "bm25": {
+                  "rank": 18,
+                  "contribution": 0.01282051282051282
+                },
+                "dense": {
+                  "rank": 12,
+                  "contribution": 0.013888888888888888
+                }
+              }
+            },
+            {
+              "doc_id": "1797622",
+              "rrf_score": 0.02668564312399929,
+              "sources": {
+                "bm25": {
+                  "rank": 13,
+                  "contribution": 0.0136986301369863
+                },
+                "dense": {
+                  "rank": 17,
+                  "contribution": 0.012987012987012988
+                }
+              }
+            },
+            {
+              "doc_id": "33989422",
+              "rrf_score": 0.026333789329685362,
+              "sources": {
+                "bm25": {
+                  "rank": 26,
+                  "contribution": 0.011627906976744186
+                },
+                "dense": {
+                  "rank": 8,
+                  "contribution": 0.014705882352941176
+                }
+              }
+            },
+            {
+              "doc_id": "4412772",
+              "rrf_score": 0.025987006496751626,
+              "sources": {
+                "bm25": {
+                  "rank": 9,
+                  "contribution": 0.014492753623188406
+                },
+                "dense": {
+                  "rank": 27,
+                  "contribution": 0.011494252873563218
+                }
+              }
+            },
+            {
+              "doc_id": "4364884",
+              "rrf_score": 0.025384615384615387,
+              "sources": {
+                "bm25": {
+                  "rank": 40,
+                  "contribution": 0.01
+                },
+                "dense": {
+                  "rank": 5,
+                  "contribution": 0.015384615384615385
+                }
+              }
+            },
+            {
+              "doc_id": "8747771",
+              "rrf_score": 0.024266201685556526,
+              "sources": {
+                "bm25": {
+                  "rank": 33,
+                  "contribution": 0.010752688172043012
+                },
+                "dense": {
+                  "rank": 14,
+                  "contribution": 0.013513513513513514
+                }
+              }
+            },
+            {
+              "doc_id": "40367499",
+              "rrf_score": 0.024250440917107582,
+              "sources": {
+                "bm25": {
+                  "rank": 24,
+                  "contribution": 0.011904761904761904
+                },
+                "dense": {
+                  "rank": 21,
+                  "contribution": 0.012345679012345678
+                }
+              }
+            },
+            {
+              "doc_id": "37297740",
+              "rrf_score": 0.023583662714097495,
+              "sources": {
+                "bm25": {
+                  "rank": 50,
+                  "contribution": 0.00909090909090909
+                },
+                "dense": {
+                  "rank": 9,
+                  "contribution": 0.014492753623188406
+                }
+              }
+            },
+            {
+              "doc_id": "10641162",
+              "rrf_score": 0.023234683281412254,
+              "sources": {
+                "bm25": {
+                  "rank": 12,
+                  "contribution": 0.013888888888888888
+                },
+                "dense": {
+                  "rank": 47,
+                  "contribution": 0.009345794392523364
+                }
+              }
+            },
+            {
+              "doc_id": "19522248",
+              "rrf_score": 0.023064687168610817,
+              "sources": {
+                "bm25": {
+                  "rank": 22,
+                  "contribution": 0.012195121951219513
+                },
+                "dense": {
+                  "rank": 32,
+                  "contribution": 0.010869565217391304
+                }
+              }
+            },
+            {
+              "doc_id": "12800122",
+              "rrf_score": 0.022833419823559936,
+              "sources": {
+                "bm25": {
+                  "rank": 34,
+                  "contribution": 0.010638297872340425
+                },
+                "dense": {
+                  "rank": 22,
+                  "contribution": 0.012195121951219513
+                }
+              }
+            },
+            {
+              "doc_id": "17601006",
+              "rrf_score": 0.022780159216166565,
+              "sources": {
+                "bm25": {
+                  "rank": 55,
+                  "contribution": 0.008695652173913044
+                },
+                "dense": {
+                  "rank": 11,
+                  "contribution": 0.014084507042253521
+                }
+              }
+            },
+            {
+              "doc_id": "4398832",
+              "rrf_score": 0.021845794392523363,
+              "sources": {
+                "bm25": {
+                  "rank": 47,
+                  "contribution": 0.009345794392523364
+                },
+                "dense": {
+                  "rank": 20,
+                  "contribution": 0.0125
+                }
+              }
+            },
+            {
+              "doc_id": "6106004",
+              "rrf_score": 0.021708683473389355,
+              "sources": {
+                "bm25": {
+                  "rank": 42,
+                  "contribution": 0.00980392156862745
+                },
+                "dense": {
+                  "rank": 24,
+                  "contribution": 0.011904761904761904
+                }
+              }
+            },
+            {
+              "doc_id": "7114092",
+              "rrf_score": 0.021545233406695237,
+              "sources": {
+                "bm25": {
+                  "rank": 37,
+                  "contribution": 0.010309278350515464
+                },
+                "dense": {
+                  "rank": 29,
+                  "contribution": 0.011235955056179775
+                }
+              }
+            },
+            {
+              "doc_id": "7492420",
+              "rrf_score": 0.02143744821872411,
+              "sources": {
+                "bm25": {
+                  "rank": 11,
+                  "contribution": 0.014084507042253521
+                },
+                "dense": {
+                  "rank": 76,
+                  "contribution": 0.007352941176470588
+                }
+              }
+            },
+            {
+              "doc_id": "22948960",
+              "rrf_score": 0.02137791286727457,
+              "sources": {
+                "bm25": {
+                  "rank": 81,
+                  "contribution": 0.0070921985815602835
+                },
+                "dense": {
+                  "rank": 10,
+                  "contribution": 0.014285714285714285
+                }
+              }
+            },
+            {
+              "doc_id": "5864770",
+              "rrf_score": 0.021376986037554165,
+              "sources": {
+                "bm25": {
+                  "rank": 7,
+                  "contribution": 0.014925373134328358
+                },
+                "dense": {
+                  "rank": 95,
+                  "contribution": 0.0064516129032258064
+                }
+              }
+            },
+            {
+              "doc_id": "35004872",
+              "rrf_score": 0.021315192743764172,
+              "sources": {
+                "bm25": {
+                  "rank": 38,
+                  "contribution": 0.01020408163265306
+                },
+                "dense": {
+                  "rank": 30,
+                  "contribution": 0.011111111111111112
+                }
+              }
+            },
+            {
+              "doc_id": "17805221",
+              "rrf_score": 0.02047576031315869,
+              "sources": {
+                "bm25": {
+                  "rank": 21,
+                  "contribution": 0.012345679012345678
+                },
+                "dense": {
+                  "rank": 63,
+                  "contribution": 0.008130081300813009
+                }
+              }
+            },
+            {
+              "doc_id": "41256402",
+              "rrf_score": 0.019577269577269577,
+              "sources": {
+                "bm25": {
+                  "rank": 88,
+                  "contribution": 0.006756756756756757
+                },
+                "dense": {
+                  "rank": 18,
+                  "contribution": 0.01282051282051282
+                }
+              }
+            },
+            {
+              "doc_id": "4407318",
+              "rrf_score": 0.019501922724775682,
+              "sources": {
+                "bm25": {
+                  "rank": 67,
+                  "contribution": 0.007874015748031496
+                },
+                "dense": {
+                  "rank": 26,
+                  "contribution": 0.011627906976744186
+                }
+              }
+            },
+            {
+              "doc_id": "10608822",
+              "rrf_score": 0.01939655172413793,
+              "sources": {
+                "bm25": {
+                  "rank": 20,
+                  "contribution": 0.0125
+                },
+                "dense": {
+                  "rank": 85,
+                  "contribution": 0.006896551724137931
+                }
+              }
+            },
+            {
+              "doc_id": "1991105",
+              "rrf_score": 0.019246190858059342,
+              "sources": {
+                "bm25": {
+                  "rank": 27,
+                  "contribution": 0.011494252873563218
+                },
+                "dense": {
+                  "rank": 69,
+                  "contribution": 0.007751937984496124
+                }
+              }
+            },
+            {
+              "doc_id": "14145440",
+              "rrf_score": 0.019075302025615408,
+              "sources": {
+                "bm25": {
+                  "rank": 49,
+                  "contribution": 0.009174311926605505
+                },
+                "dense": {
+                  "rank": 41,
+                  "contribution": 0.009900990099009901
+                }
+              }
+            },
+            {
+              "doc_id": "16839245",
+              "rrf_score": 0.019048455056179775,
+              "sources": {
+                "bm25": {
+                  "rank": 29,
+                  "contribution": 0.011235955056179775
+                },
+                "dense": {
+                  "rank": 68,
+                  "contribution": 0.0078125
+                }
+              }
+            },
+            {
+              "doc_id": "6333347",
+              "rrf_score": 0.01903735632183908,
+              "sources": {
+                "bm25": {
+                  "rank": 36,
+                  "contribution": 0.010416666666666666
+                },
+                "dense": {
+                  "rank": 56,
+                  "contribution": 0.008620689655172414
+                }
+              }
+            },
+            {
+              "doc_id": "31166180",
+              "rrf_score": 0.018826322930800544,
+              "sources": {
+                "bm25": {
+                  "rank": 74,
+                  "contribution": 0.007462686567164179
+                },
+                "dense": {
+                  "rank": 28,
+                  "contribution": 0.011363636363636364
+                }
+              }
+            },
+            {
+              "doc_id": "12824568",
+              "rrf_score": 0.01857379767827529,
+              "sources": {
+                "bm25": {
+                  "rank": 30,
+                  "contribution": 0.011111111111111112
+                },
+                "dense": {
+                  "rank": 74,
+                  "contribution": 0.007462686567164179
+                }
+              }
+            },
+            {
+              "doc_id": "23356816",
+              "rrf_score": 0.018526315789473682,
+              "sources": {
+                "bm25": {
+                  "rank": 35,
+                  "contribution": 0.010526315789473684
+                },
+                "dense": {
+                  "rank": 65,
+                  "contribution": 0.008
+                }
+              }
+            },
+            {
+              "doc_id": "6812319",
+              "rrf_score": 0.018505999661990874,
+              "sources": {
+                "bm25": {
+                  "rank": 62,
+                  "contribution": 0.00819672131147541
+                },
+                "dense": {
+                  "rank": 37,
+                  "contribution": 0.010309278350515464
+                }
+              }
+            },
+            {
+              "doc_id": "600808",
+              "rrf_score": 0.018187830687830687,
+              "sources": {
+                "bm25": {
+                  "rank": 48,
+                  "contribution": 0.009259259259259259
+                },
+                "dense": {
+                  "rank": 52,
+                  "contribution": 0.008928571428571428
+                }
+              }
+            },
+            {
+              "doc_id": "20054396",
+              "rrf_score": 0.018162393162393164,
+              "sources": {
+                "bm25": {
+                  "rank": 57,
+                  "contribution": 0.008547008547008548
+                },
+                "dense": {
+                  "rank": 44,
+                  "contribution": 0.009615384615384616
+                }
+              }
+            },
+            {
+              "doc_id": "9291596",
+              "rrf_score": 0.017751937984496126,
+              "sources": {
+                "bm25": {
+                  "rank": 69,
+                  "contribution": 0.007751937984496124
+                },
+                "dense": {
+                  "rank": 40,
+                  "contribution": 0.01
+                }
+              }
+            },
+            {
+              "doc_id": "23918031",
+              "rrf_score": 0.017602003240536162,
+              "sources": {
+                "bm25": {
+                  "rank": 86,
+                  "contribution": 0.00684931506849315
+                },
+                "dense": {
+                  "rank": 33,
+                  "contribution": 0.010752688172043012
+                }
+              }
+            },
+            {
+              "doc_id": "6710699",
+              "rrf_score": 0.01715887339349193,
+              "sources": {
+                "bm25": {
+                  "rank": 32,
+                  "contribution": 0.010869565217391304
+                },
+                "dense": {
+                  "rank": 99,
+                  "contribution": 0.006289308176100629
+                }
+              }
+            },
+            {
+              "doc_id": "6472746",
+              "rrf_score": 0.016636957813428402,
+              "sources": {
+                "bm25": {
+                  "rank": 93,
+                  "contribution": 0.006535947712418301
+                },
+                "dense": {
+                  "rank": 39,
+                  "contribution": 0.010101010101010102
+                }
+              }
+            },
+            {
+              "doc_id": "4422723",
+              "rrf_score": 0.016612399494983054,
+              "sources": {
+                "bm25": {
+                  "rank": 41,
+                  "contribution": 0.009900990099009901
+                },
+                "dense": {
+                  "rank": 89,
+                  "contribution": 0.006711409395973154
+                }
+              }
+            },
+            {
+              "doc_id": "19974105",
+              "rrf_score": 0.01630827908200171,
+              "sources": {
+                "bm25": {
+                  "rank": 51,
+                  "contribution": 0.009009009009009009
+                },
+                "dense": {
+                  "rank": 77,
+                  "contribution": 0.0072992700729927005
+                }
+              }
+            },
+            {
+              "doc_id": "23190392",
+              "rrf_score": 0.01619644723092999,
+              "sources": {
+                "bm25": {
+                  "rank": 56,
+                  "contribution": 0.008620689655172414
+                },
+                "dense": {
+                  "rank": 72,
+                  "contribution": 0.007575757575757576
+                }
+              }
+            },
+            {
+              "doc_id": "39758684",
+              "rrf_score": 0.016066589237320947,
+              "sources": {
+                "bm25": {
+                  "rank": 63,
+                  "contribution": 0.008130081300813009
+                },
+                "dense": {
+                  "rank": 66,
+                  "contribution": 0.007936507936507936
+                }
+              }
+            },
+            {
+              "doc_id": "15926408",
+              "rrf_score": 0.015702631417530515,
+              "sources": {
+                "bm25": {
+                  "rank": 77,
+                  "contribution": 0.0072992700729927005
+                },
+                "dense": {
+                  "rank": 59,
+                  "contribution": 0.008403361344537815
+                }
+              }
+            },
+            {
+              "doc_id": "42035464",
+              "rrf_score": 0.015683962264150943,
+              "sources": {
+                "bm25": {
+                  "rank": 46,
+                  "contribution": 0.009433962264150943
+                },
+                "dense": {
+                  "rank": 100,
+                  "contribution": 0.00625
+                }
+              }
+            }
+          ]
+        }
+      }
+    }
+  },
+  "blank_query_status": 422
+}

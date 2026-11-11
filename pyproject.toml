@@ -1,0 +1,50 @@
+[build-system]
+requires = ["setuptools==80.9.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "retrievallab"
+version = "1.0.0"
+description = "Reproducible search and ranking experiments on BEIR SciFact"
+readme = "README.md"
+requires-python = ">=3.12,<3.14"
+dependencies = [
+  "streamlit==1.51.0",
+  "pandas==2.3.3",
+  "psutil==7.2.2",
+  "pytrec-eval-terrier==0.5.11",
+]
+
+[project.optional-dependencies]
+dev = ["pytest==8.4.2", "ruff==0.14.4"]
+platform = ["fastapi==0.115.6", "uvicorn==0.34.0", "httpx==0.28.1", "matplotlib==3.10.7"]
+dense = [
+  "torch==2.9.0",
+  "sentence-transformers==5.1.2",
+  "transformers==4.57.1",
+  "huggingface-hub==0.36.0",
+  "faiss-cpu==1.12.0",
+  "scikit-learn==1.9.1",
+  "safetensors==0.6.2",
+]
+
+[project.scripts]
+retrievallab = "retrieval_lab.cli:main"
+
+[tool.setuptools.packages.find]
+where = ["src"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+addopts = "-ra --strict-markers"
+markers = [
+  "dataset: opt-in checks against a downloaded official SciFact dataset",
+  "model: opt-in checks using the verified local pretrained encoder",
+]
+
+[tool.ruff]
+line-length = 100
+target-version = "py311"
+
+[tool.ruff.lint]
+select = ["E", "F", "I", "B", "UP"]

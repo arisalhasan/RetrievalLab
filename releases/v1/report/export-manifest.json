@@ -1,0 +1,14 @@
+{
+  "freeze_sha256": "9431036e9c0a3b866a89b21cad115b2605f8f101f6881619c615c62828650642",
+  "artifact_sha256": {
+    "bm25-vs-dense.json": "ad9e0c3278c28070567ab6d7e4f684d8aa67cbd0459b199f6aed3deafa59075f",
+    "bm25-vs-hybrid-10.json": "ee546bef9ec864b62e092d677c10eedb5f932b0b8fbde0cf045690abf8750947",
+    "bm25-vs-hybrid-100.json": "99634f46b53b6a10b073cd52d1742f8e80481873dde3e3b693f5a724caad2d42",
+    "bm25-vs-pretrained-reranker.json": "b0376f4b1c024731114a667a3f7de5f85c13a8f6c0843aceba023108eb62cdd0",
+    "bm25-vs-trained-reranker.json": "aec09d490dc6b90efed7a10ccc515f338c98d40f74e40536ff525f6c6db0c3a1",
+    "comparison.png": "3eb08f11b3a8e496add6cc7aa205e015d1b6569959ea623dfdd8a6fe78210bac",
+    "comparison.svg": "7ddcf3ec4daab63015e1a4488e00005333ef7668aa17d1cb38e88fde88b70c8f",
+    "OFFICIAL_TEST_V1.md": "c91aa4d6a86e69e61ac5d03e1d501720c861a5779f5d43102651758f4a017efd",
+    "scores.csv": "6c37496087ed208326469eea3aca12cac7bccda5c2caccc9df7a084e07c1a2d7"
+  }
+}

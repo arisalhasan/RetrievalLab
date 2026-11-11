@@ -1,0 +1,131 @@
+`torch_dtype` is deprecated! Use `dtype` instead!
+{"event": "validation", "epoch": 0, "query_count": 162, "recall": 0.8190329218106996, "ndcg": 0.7032729441815811, "queries_without_positive_labels": 0, "queries_with_no_relevant_retrieved": 26, "zero_result_queries": 0, "reference_check": {"backend": "pytrec_eval (Terrier distribution)", "passed": true, "query_count": 162, "max_absolute_error": 1.1102230246251565e-16, "ordering": "rank-preserving surrogate scores; self IDs removed", "empty_judgments_policy": "zero, included in our macro average"}}
+{"event": "training", "epoch": 1, "pairs_seen": 0, "mean_batch_loss": 1.242354154586792}
+{"event": "training", "epoch": 1, "pairs_seen": 400, "mean_batch_loss": 1.170278483307829}
+{"event": "training", "epoch": 1, "pairs_seen": 800, "mean_batch_loss": 1.0183599733627668}
+{"event": "training", "epoch": 1, "pairs_seen": 1200, "mean_batch_loss": 0.9076673441770061}
+{"event": "training", "epoch": 1, "pairs_seen": 1600, "mean_batch_loss": 0.8270240203287471}
+{"event": "training", "epoch": 1, "pairs_seen": 2000, "mean_batch_loss": 0.7735868985968757}
+{"event": "validation", "epoch": 1, "query_count": 162, "recall": 0.81440329218107, "ndcg": 0.7030214809802794, "queries_without_positive_labels": 0, "queries_with_no_relevant_retrieved": 27, "zero_result_queries": 0, "reference_check": {"backend": "pytrec_eval (Terrier distribution)", "passed": true, "query_count": 162, "max_absolute_error": 1.1102230246251565e-16, "ordering": "rank-preserving surrogate scores; self IDs removed", "empty_judgments_policy": "zero, included in our macro average"}, "checkpoint_sha256": "6aa80056d50ab4c5000c4e7110e2632d144031a5d35b65edfb11ce1155494104", "mean_batch_loss": 0.7706752603527586}
+{"event": "training", "epoch": 2, "pairs_seen": 0, "mean_batch_loss": 0.05813661217689514}
+{"event": "training", "epoch": 2, "pairs_seen": 400, "mean_batch_loss": 0.5376527662955078}
+{"event": "training", "epoch": 2, "pairs_seen": 800, "mean_batch_loss": 0.5267766445580095}
+{"event": "training", "epoch": 2, "pairs_seen": 1200, "mean_batch_loss": 0.5132480807947797}
+{"event": "training", "epoch": 2, "pairs_seen": 1600, "mean_batch_loss": 0.5071423406995351}
+{"event": "training", "epoch": 2, "pairs_seen": 2000, "mean_batch_loss": 0.5136467168233784}
+{"event": "validation", "epoch": 2, "query_count": 162, "recall": 0.8205761316872429, "ndcg": 0.7126153384938919, "queries_without_positive_labels": 0, "queries_with_no_relevant_retrieved": 26, "zero_result_queries": 0, "reference_check": {"backend": "pytrec_eval (Terrier distribution)", "passed": true, "query_count": 162, "max_absolute_error": 1.1102230246251565e-16, "ordering": "rank-preserving surrogate scores; self IDs removed", "empty_judgments_policy": "zero, included in our macro average"}, "checkpoint_sha256": "363baae60f7a89c5baf54c995c222134a56c0872bdca44f39dbd437e3396451d", "mean_batch_loss": 0.514954558916007}
+{
+  "status": "complete",
+  "history": [
+    {
+      "epoch": 0,
+      "query_count": 162,
+      "recall": 0.8190329218106996,
+      "ndcg": 0.7032729441815811,
+      "queries_without_positive_labels": 0,
+      "queries_with_no_relevant_retrieved": 26,
+      "zero_result_queries": 0,
+      "reference_check": {
+        "backend": "pytrec_eval (Terrier distribution)",
+        "passed": true,
+        "query_count": 162,
+        "max_absolute_error": 1.1102230246251565e-16,
+        "ordering": "rank-preserving surrogate scores; self IDs removed",
+        "empty_judgments_policy": "zero, included in our macro average"
+      }
+    },
+    {
+      "epoch": 1,
+      "query_count": 162,
+      "recall": 0.81440329218107,
+      "ndcg": 0.7030214809802794,
+      "queries_without_positive_labels": 0,
+      "queries_with_no_relevant_retrieved": 27,
+      "zero_result_queries": 0,
+      "reference_check": {
+        "backend": "pytrec_eval (Terrier distribution)",
+        "passed": true,
+        "query_count": 162,
+        "max_absolute_error": 1.1102230246251565e-16,
+        "ordering": "rank-preserving surrogate scores; self IDs removed",
+        "empty_judgments_policy": "zero, included in our macro average"
+      },
+      "checkpoint_sha256": "6aa80056d50ab4c5000c4e7110e2632d144031a5d35b65edfb11ce1155494104",
+      "mean_batch_loss": 0.7706752603527586
+    },
+    {
+      "epoch": 2,
+      "query_count": 162,
+      "recall": 0.8205761316872429,
+      "ndcg": 0.7126153384938919,
+      "queries_without_positive_labels": 0,
+      "queries_with_no_relevant_retrieved": 26,
+      "zero_result_queries": 0,
+      "reference_check": {
+        "backend": "pytrec_eval (Terrier distribution)",
+        "passed": true,
+        "query_count": 162,
+        "max_absolute_error": 1.1102230246251565e-16,
+        "ordering": "rank-preserving surrogate scores; self IDs removed",
+        "empty_judgments_policy": "zero, included in our macro average"
+      },
+      "checkpoint_sha256": "363baae60f7a89c5baf54c995c222134a56c0872bdca44f39dbd437e3396451d",
+      "mean_batch_loss": 0.514954558916007
+    }
+  ],
+  "selected_epoch": 2,
+  "selected": {
+    "epoch": 2,
+    "query_count": 162,
+    "recall": 0.8205761316872429,
+    "ndcg": 0.7126153384938919,
+    "queries_without_positive_labels": 0,
+    "queries_with_no_relevant_retrieved": 26,
+    "zero_result_queries": 0,
+    "reference_check": {
+      "backend": "pytrec_eval (Terrier distribution)",
+      "passed": true,
+      "query_count": 162,
+      "max_absolute_error": 1.1102230246251565e-16,
+      "ordering": "rank-preserving surrogate scores; self IDs removed",
+      "empty_judgments_policy": "zero, included in our macro average"
+    },
+    "checkpoint_sha256": "363baae60f7a89c5baf54c995c222134a56c0872bdca44f39dbd437e3396451d",
+    "mean_batch_loss": 0.514954558916007
+  },
+  "best_trained": {
+    "epoch": 2,
+    "query_count": 162,
+    "recall": 0.8205761316872429,
+    "ndcg": 0.7126153384938919,
+    "queries_without_positive_labels": 0,
+    "queries_with_no_relevant_retrieved": 26,
+    "zero_result_queries": 0,
+    "reference_check": {
+      "backend": "pytrec_eval (Terrier distribution)",
+      "passed": true,
+      "query_count": 162,
+      "max_absolute_error": 1.1102230246251565e-16,
+      "ordering": "rank-preserving surrogate scores; self IDs removed",
+      "empty_judgments_policy": "zero, included in our macro average"
+    },
+    "checkpoint_sha256": "363baae60f7a89c5baf54c995c222134a56c0872bdca44f39dbd437e3396451d",
+    "mean_batch_loss": 0.514954558916007
+  },
+  "resources": {
+    "wall_seconds": 964.5103895,
+    "process_cpu_seconds": 964.515625,
+    "cpu_percent_one_core_equivalent": 100.00054281426691,
+    "rss_start_bytes": 224600064,
+    "rss_end_bytes": 940470272,
+    "sampled_peak_rss_bytes": 958492672,
+    "rss_samples": 60983,
+    "rss_sample_interval_ms": 10,
+    "scope": "whole process during stage, including sampler/runner overhead"
+  },
+  "pair_count": 2024,
+  "training_query_count": 647,
+  "validation_query_count": 162,
+  "test_labels_read": false,
+  "selected_config_sha256": "8460d2b70b99d30e6836ce0afdd4fa97f41bc3fdbf4e7a8213b29daae50dff46"
+}

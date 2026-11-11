@@ -1,0 +1,3254 @@
+{
+  "scores": {
+    "0": {
+      "recall": 0.0,
+      "ndcg": 0.0,
+      "relevant_count": 1,
+      "relevant_retrieved": 0,
+      "retrieved_count": 10,
+      "first_relevant_rank": null
+    },
+    "1002": {
+      "recall": 0.0,
+      "ndcg": 0.0,
+      "relevant_count": 1,
+      "relevant_retrieved": 0,
+      "retrieved_count": 10,
+      "first_relevant_rank": null
+    },
+    "1006": {
+      "recall": 1.0,
+      "ndcg": 1.0,
+      "relevant_count": 1,
+      "relevant_retrieved": 1,
+      "retrieved_count": 10,
+      "first_relevant_rank": 1
+    },
+    "1009": {
+      "recall": 1.0,
+      "ndcg": 1.0,
+      "relevant_count": 1,
+      "relevant_retrieved": 1,
+      "retrieved_count": 10,
+      "first_relevant_rank": 1
+    },
+    "1018": {
+      "recall": 1.0,
+      "ndcg": 1.0,
+      "relevant_count": 1,
+      "relevant_retrieved": 1,
+      "retrieved_count": 10,
+      "first_relevant_rank": 1
+    },
+    "1032": {
+      "recall": 1.0,
+      "ndcg": 1.0,
+      "relevant_count": 1,
+      "relevant_retrieved": 1,
+      "retrieved_count": 10,
+      "first_relevant_rank": 1
+    },
+    "1033": {
+      "recall": 1.0,
+      "ndcg": 1.0,
+      "relevant_count": 1,
+      "relevant_retrieved": 1,
+      "retrieved_count": 10,
+      "first_relevant_rank": 1
+    },
+    "104": {
+      "recall": 1.0,
+      "ndcg": 1.0,
+      "relevant_count": 1,
+      "relevant_retrieved": 1,
+      "retrieved_count": 10,
+      "first_relevant_rank": 1
+    },
+    "1043": {
+      "recall": 1.0,
+      "ndcg": 1.0,
+      "relevant_count": 1,
+      "relevant_retrieved": 1,
+      "retrieved_count": 10,
+      "first_relevant_rank": 1
+    },
+    "1052": {
+      "recall": 1.0,
+      "ndcg": 0.6309297535714575,
+      "relevant_count": 1,
+      "relevant_retrieved": 1,
+      "retrieved_count": 10,
+      "first_relevant_rank": 2
+    },
+    "1053": {
+      "recall": 1.0,
+      "ndcg": 0.6309297535714575,
+      "relevant_count": 1,
+      "relevant_retrieved": 1,
+      "retrieved_count": 10,
+      "first_relevant_rank": 2
+    },
+    "1056": {
+      "recall": 1.0,
+      "ndcg": 1.0,
+      "relevant_count": 1,
+      "relevant_retrieved": 1,
+      "retrieved_count": 10,
+      "first_relevant_rank": 1
+    },
+    "1069": {
+      "recall": 1.0,
+      "ndcg": 1.0,
+      "relevant_count": 1,
+      "relevant_retrieved": 1,
+      "retrieved_count": 10,
+      "first_relevant_rank": 1
+    },
+    "1101": {
+      "recall": 1.0,
+      "ndcg": 1.0,
+      "relevant_count": 1,
+      "relevant_retrieved": 1,
+      "retrieved_count": 10,
+      "first_relevant_rank": 1
+    },
+    "1102": {
+      "recall": 1.0,
+      "ndcg": 1.0,
+      "relevant_count": 1,
+      "relevant_retrieved": 1,
+      "retrieved_count": 10,
+      "first_relevant_rank": 1
+    },
+    "111": {
+      "recall": 1.0,
+      "ndcg": 1.0,
+      "relevant_count": 1,
+      "relevant_retrieved": 1,
+      "retrieved_count": 10,
+      "first_relevant_rank": 1
+    },
+    "1111": {
+      "recall": 1.0,
+      "ndcg": 0.38685280723454163,
+      "relevant_count": 1,
+      "relevant_retrieved": 1,
+      "retrieved_count": 10,
+      "first_relevant_rank": 5
+    },
+    "1112": {
+      "recall": 1.0,
+      "ndcg": 0.6309297535714575,
+      "relevant_count": 1,
+      "relevant_retrieved": 1,
+      "retrieved_count": 10,
+      "first_relevant_rank": 2
+    },
+    "1128": {
+      "recall": 0.5,
+      "ndcg": 0.6131471927654584,
+      "relevant_count": 2,
+      "relevant_retrieved": 1,
+      "retrieved_count": 10,
+      "first_relevant_rank": 1
+    },
+    "1148": {
+      "recall": 1.0,
+      "ndcg": 1.0,
+      "relevant_count": 1,
+      "relevant_retrieved": 1,
+      "retrieved_count": 10,
+      "first_relevant_rank": 1
+    },
+    "1156": {
+      "recall": 1.0,
+      "ndcg": 1.0,
+      "relevant_count": 1,
+      "relevant_retrieved": 1,
+      "retrieved_count": 10,
+      "first_relevant_rank": 1
+    },
+    "1157": {
+      "recall": 1.0,
+      "ndcg": 1.0,
+      "relevant_count": 1,
+      "relevant_retrieved": 1,
+      "retrieved_count": 10,
+      "first_relevant_rank": 1
+    },
+    "1158": {
+      "recall": 1.0,
+      "ndcg": 1.0,
+      "relevant_count": 1,
+      "relevant_retrieved": 1,
+      "retrieved_count": 10,
+      "first_relevant_rank": 1
+    },
+    "1159": {
+      "recall": 1.0,
+      "ndcg": 1.0,
+      "relevant_count": 1,
+      "relevant_retrieved": 1,
+      "retrieved_count": 10,
+      "first_relevant_rank": 1
+    },
+    "1161": {
+      "recall": 0.0,
+      "ndcg": 0.0,
+      "relevant_count": 1,
+      "relevant_retrieved": 0,
+      "retrieved_count": 10,
+      "first_relevant_rank": null
+    },
+    "1168": {
+      "recall": 1.0,
+      "ndcg": 1.0,
+      "relevant_count": 1,
+      "relevant_retrieved": 1,
+      "retrieved_count": 10,
+      "first_relevant_rank": 1
+    },
+    "1170": {
+      "recall": 1.0,
+      "ndcg": 1.0,
+      "relevant_count": 1,
+      "relevant_retrieved": 1,
+      "retrieved_count": 10,
+      "first_relevant_rank": 1
+    },
+    "1171": {
+      "recall": 1.0,
+      "ndcg": 1.0,
+      "relevant_count": 1,
+      "relevant_retrieved": 1,
+      "retrieved_count": 10,
+      "first_relevant_rank": 1
+    },
+    "1174": {
+      "recall": 0.0,
+      "ndcg": 0.0,
+      "relevant_count": 1,
+      "relevant_retrieved": 0,
+      "retrieved_count": 10,
+      "first_relevant_rank": null
+    },
+    "1176": {
+      "recall": 1.0,
+      "ndcg": 1.0,
+      "relevant_count": 1,
+      "relevant_retrieved": 1,
+      "retrieved_count": 10,
+      "first_relevant_rank": 1
+    },
+    "1177": {
+      "recall": 1.0,
+      "ndcg": 1.0,
+      "relevant_count": 1,
+      "relevant_retrieved": 1,
+      "retrieved_count": 10,
+      "first_relevant_rank": 1
+    },
+    "1178": {
+      "recall": 0.0,
+      "ndcg": 0.0,
+      "relevant_count": 1,
+      "relevant_retrieved": 0,
+      "retrieved_count": 10,
+      "first_relevant_rank": null
+    },
+    "12": {
+      "recall": 1.0,
+      "ndcg": 1.0,
+      "relevant_count": 1,
+      "relevant_retrieved": 1,
+      "retrieved_count": 10,
+      "first_relevant_rank": 1
+    },
+    "1219": {
+      "recall": 1.0,
+      "ndcg": 0.8772153153380493,
+      "relevant_count": 2,
+      "relevant_retrieved": 2,
+      "retrieved_count": 10,
+      "first_relevant_rank": 1
+    },
+    "123": {
+      "recall": 1.0,
+      "ndcg": 1.0,
+      "relevant_count": 1,
+      "relevant_retrieved": 1,
+      "retrieved_count": 10,
+      "first_relevant_rank": 1
+    },
+    "1257": {
+      "recall": 0.0,
+      "ndcg": 0.0,
+      "relevant_count": 1,
+      "relevant_retrieved": 0,
+      "retrieved_count": 10,
+      "first_relevant_rank": null
+    },
+    "126": {
+      "recall": 1.0,
+      "ndcg": 1.0,
+      "relevant_count": 1,
+      "relevant_retrieved": 1,
+      "retrieved_count": 10,
+      "first_relevant_rank": 1
+    },
+    "1263": {
+      "recall": 1.0,
+      "ndcg": 1.0,
+      "relevant_count": 1,
+      "relevant_retrieved": 1,
+      "retrieved_count": 10,
+      "first_relevant_rank": 1
+    },
+    "1275": {
+      "recall": 1.0,
+      "ndcg": 0.6309297535714575,
+      "relevant_count": 1,
+      "relevant_retrieved": 1,
+      "retrieved_count": 10,
+      "first_relevant_rank": 2
+    },
+    "1306": {
+      "recall": 0.0,
+      "ndcg": 0.0,
+      "relevant_count": 2,
+      "relevant_retrieved": 0,
+      "retrieved_count": 10,
+      "first_relevant_rank": null
+    },
+    "1323": {
+      "recall": 1.0,
+      "ndcg": 1.0,
+      "relevant_count": 1,
+      "relevant_retrieved": 1,
+      "retrieved_count": 10,
+      "first_relevant_rank": 1
+    },
+    "1324": {
+      "recall": 1.0,
+      "ndcg": 1.0,
+      "relevant_count": 1,
+      "relevant_retrieved": 1,
+      "retrieved_count": 10,
+      "first_relevant_rank": 1
+    },
+    "1353": {
+      "recall": 1.0,
+      "ndcg": 0.6309297535714575,
+      "relevant_count": 1,
+      "relevant_retrieved": 1,
+      "retrieved_count": 10,
+      "first_relevant_rank": 2
+    },
+    "1366": {
+      "recall": 1.0,
+      "ndcg": 1.0,
+      "relevant_count": 1,
+      "relevant_retrieved": 1,
+      "retrieved_count": 10,
+      "first_relevant_rank": 1
+    },
+    "1371": {
+      "recall": 1.0,
+      "ndcg": 1.0,
+      "relevant_count": 1,
+      "relevant_retrieved": 1,
+      "retrieved_count": 10,
+      "first_relevant_rank": 1
+    },
+    "1374": {
+      "recall": 1.0,
+      "ndcg": 1.0,
+      "relevant_count": 1,
+      "relevant_retrieved": 1,
+      "retrieved_count": 10,
+      "first_relevant_rank": 1
+    },
+    "1375": {
+      "recall": 1.0,
+      "ndcg": 1.0,
+      "relevant_count": 1,
+      "relevant_retrieved": 1,
+      "retrieved_count": 10,
+      "first_relevant_rank": 1
+    },
+    "1380": {
+      "recall": 1.0,
+      "ndcg": 0.5498407734605132,
+      "relevant_count": 3,
+      "relevant_retrieved": 3,
+      "retrieved_count": 10,
+      "first_relevant_rank": 3
+    },
+    "1383": {
+      "recall": 1.0,
+      "ndcg": 0.3562071871080222,
+      "relevant_count": 1,
+      "relevant_retrieved": 1,
+      "retrieved_count": 10,
+      "first_relevant_rank": 6
+    },
+    "1386": {
+      "recall": 1.0,
+      "ndcg": 1.0,
+      "relevant_count": 1,
+      "relevant_retrieved": 1,
+      "retrieved_count": 10,
+      "first_relevant_rank": 1
+    },
+    "139": {
+      "recall": 0.0,
+      "ndcg": 0.0,
+      "relevant_count": 1,
+      "relevant_retrieved": 0,
+      "retrieved_count": 10,
+      "first_relevant_rank": null
+    },
+    "1390": {
+      "recall": 1.0,
+      "ndcg": 1.0,
+      "relevant_count": 1,
+      "relevant_retrieved": 1,
+      "retrieved_count": 10,
+      "first_relevant_rank": 1
+    },
+    "1391": {
+      "recall": 1.0,
+      "ndcg": 1.0,
+      "relevant_count": 1,
+      "relevant_retrieved": 1,
+      "retrieved_count": 10,
+      "first_relevant_rank": 1
+    },
+    "1392": {
+      "recall": 1.0,
+      "ndcg": 1.0,
+      "relevant_count": 1,
+      "relevant_retrieved": 1,
+      "retrieved_count": 10,
+      "first_relevant_rank": 1
+    },
+    "1405": {
+      "recall": 1.0,
+      "ndcg": 0.3333333333333333,
+      "relevant_count": 1,
+      "relevant_retrieved": 1,
+      "retrieved_count": 10,
+      "first_relevant_rank": 7
+    },
+    "15": {
+      "recall": 0.0,
+      "ndcg": 0.0,
+      "relevant_count": 1,
+      "relevant_retrieved": 0,
+      "retrieved_count": 10,
+      "first_relevant_rank": null
+    },
+    "164": {
+      "recall": 1.0,
+      "ndcg": 0.6309297535714575,
+      "relevant_count": 1,
+      "relevant_retrieved": 1,
+      "retrieved_count": 10,
+      "first_relevant_rank": 2
+    },
+    "165": {
+      "recall": 1.0,
+      "ndcg": 0.6309297535714575,
+      "relevant_count": 1,
+      "relevant_retrieved": 1,
+      "retrieved_count": 10,
+      "first_relevant_rank": 2
+    },
+    "168": {
+      "recall": 1.0,
+      "ndcg": 1.0,
+      "relevant_count": 1,
+      "relevant_retrieved": 1,
+      "retrieved_count": 10,
+      "first_relevant_rank": 1
+    },
+    "169": {
+      "recall": 1.0,
+      "ndcg": 0.5,
+      "relevant_count": 1,
+      "relevant_retrieved": 1,
+      "retrieved_count": 10,
+      "first_relevant_rank": 3
+    },
+    "178": {
+      "recall": 0.75,
+      "ndcg": 0.6096199500078984,
+      "relevant_count": 4,
+      "relevant_retrieved": 3,
+      "retrieved_count": 10,
+      "first_relevant_rank": 2
+    },
+    "19": {
+      "recall": 0.0,
+      "ndcg": 0.0,
+      "relevant_count": 1,
+      "relevant_retrieved": 0,
+      "retrieved_count": 10,
+      "first_relevant_rank": null
+    },
+    "2": {
+      "recall": 1.0,
+      "ndcg": 1.0,
+      "relevant_count": 1,
+      "relevant_retrieved": 1,
+      "retrieved_count": 10,
+      "first_relevant_rank": 1
+    },
+    "20": {
+      "recall": 0.0,
+      "ndcg": 0.0,
+      "relevant_count": 1,
+      "relevant_retrieved": 0,
+      "retrieved_count": 10,
+      "first_relevant_rank": null
+    },
+    "224": {
+      "recall": 0.0,
+      "ndcg": 0.0,
+      "relevant_count": 1,
+      "relevant_retrieved": 0,
+      "retrieved_count": 10,
+      "first_relevant_rank": null
+    },
+    "225": {
+      "recall": 0.0,
+      "ndcg": 0.0,
+      "relevant_count": 1,
+      "relevant_retrieved": 0,
+      "retrieved_count": 10,
+      "first_relevant_rank": null
+    },
+    "226": {
+      "recall": 0.0,
+      "ndcg": 0.0,
+      "relevant_count": 1,
+      "relevant_retrieved": 0,
+      "retrieved_count": 10,
+      "first_relevant_rank": null
+    },
+    "227": {
+      "recall": 1.0,
+      "ndcg": 1.0,
+      "relevant_count": 1,
+      "relevant_retrieved": 1,
+      "retrieved_count": 10,
+      "first_relevant_rank": 1
+    },
+    "228": {
+      "recall": 1.0,
+      "ndcg": 1.0,
+      "relevant_count": 1,
+      "relevant_retrieved": 1,
+      "retrieved_count": 10,
+      "first_relevant_rank": 1
+    },
+    "24": {
+      "recall": 1.0,
+      "ndcg": 1.0,
+      "relevant_count": 1,
+      "relevant_retrieved": 1,
+      "retrieved_count": 10,
+      "first_relevant_rank": 1
+    },
+    "247": {
+      "recall": 1.0,
+      "ndcg": 0.5,
+      "relevant_count": 1,
+      "relevant_retrieved": 1,
+      "retrieved_count": 10,
+      "first_relevant_rank": 3
+    },
+    "25": {
+      "recall": 1.0,
+      "ndcg": 1.0,
+      "relevant_count": 1,
+      "relevant_retrieved": 1,
+      "retrieved_count": 10,
+      "first_relevant_rank": 1
+    },
+    "250": {
+      "recall": 1.0,
+      "ndcg": 1.0,
+      "relevant_count": 1,
+      "relevant_retrieved": 1,
+      "retrieved_count": 10,
+      "first_relevant_rank": 1
+    },
+    "251": {
+      "recall": 1.0,
+      "ndcg": 1.0,
+      "relevant_count": 1,
+      "relevant_retrieved": 1,
+      "retrieved_count": 10,
+      "first_relevant_rank": 1
+    },
+    "258": {
+      "recall": 1.0,
+      "ndcg": 0.43067655807339306,
+      "relevant_count": 1,
+      "relevant_retrieved": 1,
+      "retrieved_count": 10,
+      "first_relevant_rank": 4
+    },
+    "316": {
+      "recall": 1.0,
+      "ndcg": 0.3333333333333333,
+      "relevant_count": 1,
+      "relevant_retrieved": 1,
+      "retrieved_count": 10,
+      "first_relevant_rank": 7
+    },
+    "32": {
+      "recall": 1.0,
+      "ndcg": 1.0,
+      "relevant_count": 1,
+      "relevant_retrieved": 1,
+      "retrieved_count": 10,
+      "first_relevant_rank": 1
+    },
+    "330": {
+      "recall": 1.0,
+      "ndcg": 1.0,
+      "relevant_count": 1,
+      "relevant_retrieved": 1,
+      "retrieved_count": 10,
+      "first_relevant_rank": 1
+    },
+    "331": {
+      "recall": 1.0,
+      "ndcg": 0.5,
+      "relevant_count": 1,
+      "relevant_retrieved": 1,
+      "retrieved_count": 10,
+      "first_relevant_rank": 3
+    },
+    "334": {
+      "recall": 1.0,
+      "ndcg": 1.0,
+      "relevant_count": 1,
+      "relevant_retrieved": 1,
+      "retrieved_count": 10,
+      "first_relevant_rank": 1
+    },
+    "339": {
+      "recall": 1.0,
+      "ndcg": 1.0,
+      "relevant_count": 1,
+      "relevant_retrieved": 1,
+      "retrieved_count": 10,
+      "first_relevant_rank": 1
+    },
+    "340": {
+      "recall": 1.0,
+      "ndcg": 1.0,
+      "relevant_count": 1,
+      "relevant_retrieved": 1,
+      "retrieved_count": 10,
+      "first_relevant_rank": 1
+    },
+    "341": {
+      "recall": 1.0,
+      "ndcg": 1.0,
+      "relevant_count": 1,
+      "relevant_retrieved": 1,
+      "retrieved_count": 10,
+      "first_relevant_rank": 1
+    },
+    "366": {
+      "recall": 1.0,
+      "ndcg": 1.0,
+      "relevant_count": 1,
+      "relevant_retrieved": 1,
+      "retrieved_count": 10,
+      "first_relevant_rank": 1
+    },
+    "378": {
+      "recall": 0.6,
+      "ndcg": 0.4660026449463635,
+      "relevant_count": 5,
+      "relevant_retrieved": 3,
+      "retrieved_count": 10,
+      "first_relevant_rank": 2
+    },
+    "382": {
+      "recall": 0.0,
+      "ndcg": 0.0,
+      "relevant_count": 1,
+      "relevant_retrieved": 0,
+      "retrieved_count": 10,
+      "first_relevant_rank": null
+    },
+    "41": {
+      "recall": 1.0,
+      "ndcg": 1.0,
+      "relevant_count": 1,
+      "relevant_retrieved": 1,
+      "retrieved_count": 10,
+      "first_relevant_rank": 1
+    },
+    "426": {
+      "recall": 1.0,
+      "ndcg": 1.0,
+      "relevant_count": 1,
+      "relevant_retrieved": 1,
+      "retrieved_count": 10,
+      "first_relevant_rank": 1
+    },
+    "428": {
+      "recall": 1.0,
+      "ndcg": 1.0,
+      "relevant_count": 1,
+      "relevant_retrieved": 1,
+      "retrieved_count": 10,
+      "first_relevant_rank": 1
+    },
+    "429": {
+      "recall": 1.0,
+      "ndcg": 1.0,
+      "relevant_count": 1,
+      "relevant_retrieved": 1,
+      "retrieved_count": 10,
+      "first_relevant_rank": 1
+    },
+    "43": {
+      "recall": 1.0,
+      "ndcg": 1.0,
+      "relevant_count": 1,
+      "relevant_retrieved": 1,
+      "retrieved_count": 10,
+      "first_relevant_rank": 1
+    },
+    "432": {
+      "recall": 1.0,
+      "ndcg": 1.0,
+      "relevant_count": 1,
+      "relevant_retrieved": 1,
+      "retrieved_count": 10,
+      "first_relevant_rank": 1
+    },
+    "447": {
+      "recall": 1.0,
+      "ndcg": 0.6309297535714575,
+      "relevant_count": 1,
+      "relevant_retrieved": 1,
+      "retrieved_count": 10,
+      "first_relevant_rank": 2
+    },
+    "448": {
+      "recall": 1.0,
+      "ndcg": 0.6309297535714575,
+      "relevant_count": 1,
+      "relevant_retrieved": 1,
+      "retrieved_count": 10,
+      "first_relevant_rank": 2
+    },
+    "453": {
+      "recall": 1.0,
+      "ndcg": 1.0,
+      "relevant_count": 1,
+      "relevant_retrieved": 1,
+      "retrieved_count": 10,
+      "first_relevant_rank": 1
+    },
+    "454": {
+      "recall": 1.0,
+      "ndcg": 1.0,
+      "relevant_count": 1,
+      "relevant_retrieved": 1,
+      "retrieved_count": 10,
+      "first_relevant_rank": 1
+    },
+    "470": {
+      "recall": 1.0,
+      "ndcg": 1.0,
+      "relevant_count": 1,
+      "relevant_retrieved": 1,
+      "retrieved_count": 10,
+      "first_relevant_rank": 1
+    },
+    "500": {
+      "recall": 1.0,
+      "ndcg": 0.6309297535714575,
+      "relevant_count": 1,
+      "relevant_retrieved": 1,
+      "retrieved_count": 10,
+      "first_relevant_rank": 2
+    },
+    "515": {
+      "recall": 1.0,
+      "ndcg": 1.0,
+      "relevant_count": 1,
+      "relevant_retrieved": 1,
+      "retrieved_count": 10,
+      "first_relevant_rank": 1
+    },
+    "529": {
+      "recall": 1.0,
+      "ndcg": 0.7920874914199381,
+      "relevant_count": 3,
+      "relevant_retrieved": 3,
+      "retrieved_count": 10,
+      "first_relevant_rank": 1
+    },
+    "530": {
+      "recall": 0.5,
+      "ndcg": 0.2811463015585058,
+      "relevant_count": 4,
+      "relevant_retrieved": 2,
+      "retrieved_count": 10,
+      "first_relevant_rank": 5
+    },
+    "531": {
+      "recall": 0.6666666666666666,
+      "ndcg": 0.7039180890341347,
+      "relevant_count": 3,
+      "relevant_retrieved": 2,
+      "retrieved_count": 10,
+      "first_relevant_rank": 1
+    },
+    "541": {
+      "recall": 0.6666666666666666,
+      "ndcg": 0.35853358850813305,
+      "relevant_count": 3,
+      "relevant_retrieved": 2,
+      "retrieved_count": 10,
+      "first_relevant_rank": 4
+    },
+    "550": {
+      "recall": 1.0,
+      "ndcg": 0.6309297535714575,
+      "relevant_count": 1,
+      "relevant_retrieved": 1,
+      "retrieved_count": 10,
+      "first_relevant_rank": 2
+    },
+    "579": {
+      "recall": 1.0,
+      "ndcg": 0.3333333333333333,
+      "relevant_count": 1,
+      "relevant_retrieved": 1,
+      "retrieved_count": 10,
+      "first_relevant_rank": 7
+    },
+    "588": {
+      "recall": 1.0,
+      "ndcg": 0.6309297535714575,
+      "relevant_count": 1,
+      "relevant_retrieved": 1,
+      "retrieved_count": 10,
+      "first_relevant_rank": 2
+    },
+    "591": {
+      "recall": 1.0,
+      "ndcg": 1.0,
+      "relevant_count": 1,
+      "relevant_retrieved": 1,
+      "retrieved_count": 10,
+      "first_relevant_rank": 1
+    },
+    "592": {
+      "recall": 1.0,
+      "ndcg": 1.0,
+      "relevant_count": 1,
+      "relevant_retrieved": 1,
+      "retrieved_count": 10,
+      "first_relevant_rank": 1
+    },
+    "6": {
+      "recall": 1.0,
+      "ndcg": 1.0,
+      "relevant_count": 1,
+      "relevant_retrieved": 1,
+      "retrieved_count": 10,
+      "first_relevant_rank": 1
+    },
+    "606": {
+      "recall": 1.0,
+      "ndcg": 0.31546487678572877,
+      "relevant_count": 1,
+      "relevant_retrieved": 1,
+      "retrieved_count": 10,
+      "first_relevant_rank": 8
+    },
+    "618": {
+      "recall": 1.0,
+      "ndcg": 1.0,
+      "relevant_count": 1,
+      "relevant_retrieved": 1,
+      "retrieved_count": 10,
+      "first_relevant_rank": 1
+    },
+    "631": {
+      "recall": 1.0,
+      "ndcg": 1.0,
+      "relevant_count": 1,
+      "relevant_retrieved": 1,
+      "retrieved_count": 10,
+      "first_relevant_rank": 1
+    },
+    "650": {
+      "recall": 1.0,
+      "ndcg": 1.0,
+      "relevant_count": 1,
+      "relevant_retrieved": 1,
+      "retrieved_count": 10,
+      "first_relevant_rank": 1
+    },
+    "651": {
+      "recall": 1.0,
+      "ndcg": 0.5,
+      "relevant_count": 1,
+      "relevant_retrieved": 1,
+      "retrieved_count": 10,
+      "first_relevant_rank": 3
+    },
+    "652": {
+      "recall": 1.0,
+      "ndcg": 0.38685280723454163,
+      "relevant_count": 1,
+      "relevant_retrieved": 1,
+      "retrieved_count": 10,
+      "first_relevant_rank": 5
+    },
+    "658": {
+      "recall": 1.0,
+      "ndcg": 1.0,
+      "relevant_count": 1,
+      "relevant_retrieved": 1,
+      "retrieved_count": 10,
+      "first_relevant_rank": 1
+    },
+    "663": {
+      "recall": 1.0,
+      "ndcg": 1.0,
+      "relevant_count": 1,
+      "relevant_retrieved": 1,
+      "retrieved_count": 10,
+      "first_relevant_rank": 1
+    },
+    "670": {
+      "recall": 1.0,
+      "ndcg": 1.0,
+      "relevant_count": 1,
+      "relevant_retrieved": 1,
+      "retrieved_count": 10,
+      "first_relevant_rank": 1
+    },
+    "671": {
+      "recall": 1.0,
+      "ndcg": 1.0,
+      "relevant_count": 1,
+      "relevant_retrieved": 1,
+      "retrieved_count": 10,
+      "first_relevant_rank": 1
+    },
+    "673": {
+      "recall": 1.0,
+      "ndcg": 1.0,
+      "relevant_count": 1,
+      "relevant_retrieved": 1,
+      "retrieved_count": 10,
+      "first_relevant_rank": 1
+    },
+    "679": {
+      "recall": 0.0,
+      "ndcg": 0.0,
+      "relevant_count": 1,
+      "relevant_retrieved": 0,
+      "retrieved_count": 10,
+      "first_relevant_rank": null
+    },
+    "689": {
+      "recall": 0.0,
+      "ndcg": 0.0,
+      "relevant_count": 1,
+      "relevant_retrieved": 0,
+      "retrieved_count": 10,
+      "first_relevant_rank": null
+    },
+    "703": {
+      "recall": 1.0,
+      "ndcg": 0.43067655807339306,
+      "relevant_count": 1,
+      "relevant_retrieved": 1,
+      "retrieved_count": 10,
+      "first_relevant_rank": 4
+    },
+    "717": {
+      "recall": 1.0,
+      "ndcg": 1.0,
+      "relevant_count": 1,
+      "relevant_retrieved": 1,
+      "retrieved_count": 10,
+      "first_relevant_rank": 1
+    },
+    "740": {
+      "recall": 1.0,
+      "ndcg": 1.0,
+      "relevant_count": 1,
+      "relevant_retrieved": 1,
+      "retrieved_count": 10,
+      "first_relevant_rank": 1
+    },
+    "745": {
+      "recall": 1.0,
+      "ndcg": 1.0,
+      "relevant_count": 1,
+      "relevant_retrieved": 1,
+      "retrieved_count": 10,
+      "first_relevant_rank": 1
+    },
+    "746": {
+      "recall": 1.0,
+      "ndcg": 1.0,
+      "relevant_count": 1,
+      "relevant_retrieved": 1,
+      "retrieved_count": 10,
+      "first_relevant_rank": 1
+    },
+    "747": {
+      "recall": 1.0,
+      "ndcg": 1.0,
+      "relevant_count": 1,
+      "relevant_retrieved": 1,
+      "retrieved_count": 10,
+      "first_relevant_rank": 1
+    },
+    "748": {
+      "recall": 1.0,
+      "ndcg": 1.0,
+      "relevant_count": 1,
+      "relevant_retrieved": 1,
+      "retrieved_count": 10,
+      "first_relevant_rank": 1
+    },
+    "774": {
+      "recall": 0.0,
+      "ndcg": 0.0,
+      "relevant_count": 1,
+      "relevant_retrieved": 0,
+      "retrieved_count": 10,
+      "first_relevant_rank": null
+    },
+    "776": {
+      "recall": 0.0,
+      "ndcg": 0.0,
+      "relevant_count": 1,
+      "relevant_retrieved": 0,
+      "retrieved_count": 10,
+      "first_relevant_rank": null
+    },
+    "777": {
+      "recall": 0.0,
+      "ndcg": 0.0,
+      "relevant_count": 1,
+      "relevant_retrieved": 0,
+      "retrieved_count": 10,
+      "first_relevant_rank": null
+    },
+    "78": {
+      "recall": 1.0,
+      "ndcg": 1.0,
+      "relevant_count": 1,
+      "relevant_retrieved": 1,
+      "retrieved_count": 10,
+      "first_relevant_rank": 1
+    },
+    "79": {
+      "recall": 1.0,
+      "ndcg": 1.0,
+      "relevant_count": 1,
+      "relevant_retrieved": 1,
+      "retrieved_count": 10,
+      "first_relevant_rank": 1
+    },
+    "791": {
+      "recall": 1.0,
+      "ndcg": 0.5,
+      "relevant_count": 1,
+      "relevant_retrieved": 1,
+      "retrieved_count": 10,
+      "first_relevant_rank": 3
+    },
+    "799": {
+      "recall": 1.0,
+      "ndcg": 1.0,
+      "relevant_count": 1,
+      "relevant_retrieved": 1,
+      "retrieved_count": 10,
+      "first_relevant_rank": 1
+    },
+    "810": {
+      "recall": 0.0,
+      "ndcg": 0.0,
+      "relevant_count": 1,
+      "relevant_retrieved": 0,
+      "retrieved_count": 10,
+      "first_relevant_rank": null
+    },
+    "812": {
+      "recall": 1.0,
+      "ndcg": 1.0,
+      "relevant_count": 1,
+      "relevant_retrieved": 1,
+      "retrieved_count": 10,
+      "first_relevant_rank": 1
+    },
+    "815": {
+      "recall": 1.0,
+      "ndcg": 1.0,
+      "relevant_count": 1,
+      "relevant_retrieved": 1,
+      "retrieved_count": 10,
+      "first_relevant_rank": 1
+    },
+    "816": {
+      "recall": 1.0,
+      "ndcg": 1.0,
+      "relevant_count": 1,
+      "relevant_retrieved": 1,
+      "retrieved_count": 10,
+      "first_relevant_rank": 1
+    },
+    "817": {
+      "recall": 0.0,
+      "ndcg": 0.0,
+      "relevant_count": 1,
+      "relevant_retrieved": 0,
+      "retrieved_count": 10,
+      "first_relevant_rank": null
+    },
+    "818": {
+      "recall": 1.0,
+      "ndcg": 0.31546487678572877,
+      "relevant_count": 1,
+      "relevant_retrieved": 1,
+      "retrieved_count": 10,
+      "first_relevant_rank": 8
+    },
+    "822": {
+      "recall": 1.0,
+      "ndcg": 0.6309297535714575,
+      "relevant_count": 1,
+      "relevant_retrieved": 1,
+      "retrieved_count": 10,
+      "first_relevant_rank": 2
+    },
+    "825": {
+      "recall": 1.0,
+      "ndcg": 0.6309297535714575,
+      "relevant_count": 1,
+      "relevant_retrieved": 1,
+      "retrieved_count": 10,
+      "first_relevant_rank": 2
+    },
+    "844": {
+      "recall": 1.0,
+      "ndcg": 1.0,
+      "relevant_count": 1,
+      "relevant_retrieved": 1,
+      "retrieved_count": 10,
+      "first_relevant_rank": 1
+    },
+    "848": {
+      "recall": 1.0,
+      "ndcg": 1.0,
+      "relevant_count": 1,
+      "relevant_retrieved": 1,
+      "retrieved_count": 10,
+      "first_relevant_rank": 1
+    },
+    "856": {
+      "recall": 0.0,
+      "ndcg": 0.0,
+      "relevant_count": 1,
+      "relevant_retrieved": 0,
+      "retrieved_count": 10,
+      "first_relevant_rank": null
+    },
+    "857": {
+      "recall": 0.0,
+      "ndcg": 0.0,
+      "relevant_count": 1,
+      "relevant_retrieved": 0,
+      "retrieved_count": 10,
+      "first_relevant_rank": null
+    },
+    "858": {
+      "recall": 1.0,
+      "ndcg": 0.38685280723454163,
+      "relevant_count": 1,
+      "relevant_retrieved": 1,
+      "retrieved_count": 10,
+      "first_relevant_rank": 5
+    },
+    "866": {
+      "recall": 1.0,
+      "ndcg": 0.5,
+      "relevant_count": 1,
+      "relevant_retrieved": 1,
+      "retrieved_count": 10,
+      "first_relevant_rank": 3
+    },
+    "893": {
+      "recall": 1.0,
+      "ndcg": 1.0,
+      "relevant_count": 1,
+      "relevant_retrieved": 1,
+      "retrieved_count": 10,
+      "first_relevant_rank": 1
+    },
+    "916": {
+      "recall": 1.0,
+      "ndcg": 0.3010299956639812,
+      "relevant_count": 1,
+      "relevant_retrieved": 1,
+      "retrieved_count": 10,
+      "first_relevant_rank": 9
+    },
+    "928": {
+      "recall": 1.0,
+      "ndcg": 0.5,
+      "relevant_count": 1,
+      "relevant_retrieved": 1,
+      "retrieved_count": 10,
+      "first_relevant_rank": 3
+    },
+    "929": {
+      "recall": 1.0,
+      "ndcg": 1.0,
+      "relevant_count": 1,
+      "relevant_retrieved": 1,
+      "retrieved_count": 10,
+      "first_relevant_rank": 1
+    },
+    "934": {
+      "recall": 1.0,
+      "ndcg": 0.6309297535714575,
+      "relevant_count": 1,
+      "relevant_retrieved": 1,
+      "retrieved_count": 10,
+      "first_relevant_rank": 2
+    },
+    "942": {
+      "recall": 0.0,
+      "ndcg": 0.0,
+      "relevant_count": 1,
+      "relevant_retrieved": 0,
+      "retrieved_count": 10,
+      "first_relevant_rank": null
+    },
+    "945": {
+      "recall": 0.5,
+      "ndcg": 0.3764290720714305,
+      "relevant_count": 4,
+      "relevant_retrieved": 2,
+      "retrieved_count": 10,
+      "first_relevant_rank": 2
+    },
+    "946": {
+      "recall": 0.5,
+      "ndcg": 0.3973220069685352,
+      "relevant_count": 4,
+      "relevant_retrieved": 2,
+      "retrieved_count": 10,
+      "first_relevant_rank": 2
+    },
+    "949": {
+      "recall": 0.0,
+      "ndcg": 0.0,
+      "relevant_count": 1,
+      "relevant_retrieved": 0,
+      "retrieved_count": 10,
+      "first_relevant_rank": null
+    },
+    "96": {
+      "recall": 1.0,
+      "ndcg": 1.0,
+      "relevant_count": 1,
+      "relevant_retrieved": 1,
+      "retrieved_count": 10,
+      "first_relevant_rank": 1
+    },
+    "979": {
+      "recall": 1.0,
+      "ndcg": 1.0,
+      "relevant_count": 1,
+      "relevant_retrieved": 1,
+      "retrieved_count": 10,
+      "first_relevant_rank": 1
+    },
+    "989": {
+      "recall": 1.0,
+      "ndcg": 0.6309297535714575,
+      "relevant_count": 1,
+      "relevant_retrieved": 1,
+      "retrieved_count": 10,
+      "first_relevant_rank": 2
+    }
+  },
+  "rankings": {
+    "0": [
+      "1156322",
+      "25950264",
+      "4346436",
+      "3770726",
+      "24660385",
+      "6863070",
+      "7583104",
+      "6636088",
+      "28138927",
+      "43385013"
+    ],
+    "1002": [
+      "24624992",
+      "502591",
+      "29788648",
+      "52944377",
+      "18895793",
+      "6936141",
+      "18694784",
+      "9724974",
+      "23938319",
+      "6455142"
+    ],
+    "1006": [
+      "4926049",
+      "17768946",
+      "3441524",
+      "6501747",
+      "24995939",
+      "28724565",
+      "11844826",
+      "10247314",
+      "19708993",
+      "7848113"
+    ],
+    "1009": [
+      "1982286",
+      "21366394",
+      "22049489",
+      "13048272",
+      "21363424",
+      "4926049",
+      "18938992",
+      "7944381",
+      "9076196",
+      "5468807"
+    ],
+    "1018": [
+      "11603066",
+      "1225513",
+      "12040627",
+      "39859981",
+      "10279084",
+      "9612317",
+      "25515662",
+      "41325555",
+      "3973445",
+      "28651643"
+    ],
+    "1032": [
+      "6836086",
+      "26117607",
+      "5914739",
+      "24706198",
+      "24541180",
+      "10698739",
+      "23634484",
+      "43054703",
+      "14965508",
+      "21164071"
+    ],
+    "1033": [
+      "6836086",
+      "26117607",
+      "24541180",
+      "5914739",
+      "24706198",
+      "14934137",
+      "43054703",
+      "22561064",
+      "25985964",
+      "21164071"
+    ],
+    "104": [
+      "40164383",
+      "3619372",
+      "6153754",
+      "11344428",
+      "17897801",
+      "32159283",
+      "23195674",
+      "42601237",
+      "44384384",
+      "9122283"
+    ],
+    "1043": [
+      "17671145",
+      "14116046",
+      "37256966",
+      "14706752",
+      "5860364",
+      "22180793",
+      "11774598",
+      "36889513",
+      "14131683",
+      "3203590"
+    ],
+    "1052": [
+      "2097256",
+      "18816720",
+      "3716075",
+      "6766459",
+      "13882658",
+      "4810810",
+      "34582256",
+      "8665891",
+      "8063697",
+      "14260013"
+    ],
+    "1053": [
+      "2097256",
+      "18816720",
+      "6766459",
+      "3716075",
+      "13882658",
+      "4810810",
+      "34582256",
+      "8063697",
+      "8665891",
+      "14260013"
+    ],
+    "1056": [
+      "4200695",
+      "44586415",
+      "42950029",
+      "38493521",
+      "53779698",
+      "40631095",
+      "11933721",
+      "41976370",
+      "41161366",
+      "25301182"
+    ],
+    "1069": [
+      "4200695",
+      "53779698",
+      "40631095",
+      "25301182",
+      "41161366",
+      "38493521",
+      "8642784",
+      "474325",
+      "2028532",
+      "752423"
+    ],
+    "1101": [
+      "3874000",
+      "20313748",
+      "2060137",
+      "24335068",
+      "31311495",
+      "10991183",
+      "43661837",
+      "21564598",
+      "32797183",
+      "13889430"
+    ],
+    "1102": [
+      "3874000",
+      "20313748",
+      "24335068",
+      "21564598",
+      "10991183",
+      "43661837",
+      "31311495",
+      "13779605",
+      "13889430",
+      "29689140"
+    ],
+    "111": [
+      "13513790",
+      "32776084",
+      "3360421",
+      "7581911",
+      "4254064",
+      "10546779",
+      "13777138",
+      "4325137",
+      "2437807",
+      "27588420"
+    ],
+    "1111": [
+      "26341063",
+      "2032877",
+      "21789744",
+      "19332616",
+      "1686881",
+      "24586989",
+      "40164383",
+      "8509018",
+      "13481731",
+      "2613775"
+    ],
+    "1112": [
+      "43483151",
+      "1686881",
+      "6993046",
+      "19332616",
+      "13448422",
+      "2613775",
+      "2496002",
+      "7711685",
+      "7734150",
+      "8509018"
+    ],
+    "1128": [
+      "33499189",
+      "2714623",
+      "24069089",
+      "8903143",
+      "18758057",
+      "18834078",
+      "34905328",
+      "4422734",
+      "18231807",
+      "3952288"
+    ],
+    "1148": [
+      "4828631",
+      "17124832",
+      "24155601",
+      "3355397",
+      "1507222",
+      "30226988",
+      "356218",
+      "13831842",
+      "14700857",
+      "3514540"
+    ],
+    "1156": [
+      "12584053",
+      "7098463",
+      "40949706",
+      "22922353",
+      "8708082",
+      "38752049",
+      "28845338",
+      "12672066",
+      "15692098",
+      "24704139"
+    ],
+    "1157": [
+      "12584053",
+      "3230557",
+      "13823200",
+      "40127292",
+      "32322418",
+      "32766786",
+      "5785219",
+      "32985041",
+      "2391552",
+      "34603465"
+    ],
+    "1158": [
+      "12584053",
+      "12794099",
+      "32322418",
+      "1456068",
+      "2787558",
+      "11360768",
+      "36033696",
+      "33135135",
+      "31612088",
+      "6129301"
+    ],
+    "1159": [
+      "12584053",
+      "6841927",
+      "40949706",
+      "8708082",
+      "32322418",
+      "22922353",
+      "36288526",
+      "1507222",
+      "12994780",
+      "43220289"
+    ],
+    "1161": [
+      "28243325",
+      "9724974",
+      "18447487",
+      "23269537",
+      "23180075",
+      "25022826",
+      "7416873",
+      "2452989",
+      "3052213",
+      "40447899"
+    ],
+    "1168": [
+      "8563659",
+      "12966719",
+      "40584205",
+      "5735492",
+      "798152",
+      "4828984",
+      "22309946",
+      "13959707",
+      "829646",
+      "24512064"
+    ],
+    "1170": [
+      "18956141",
+      "23078022",
+      "32408470",
+      "83308790",
+      "4345315",
+      "6690087",
+      "27403802",
+      "3504761",
+      "4447785",
+      "41913714"
+    ],
+    "1171": [
+      "18956141",
+      "23078022",
+      "83308790",
+      "41913714",
+      "4345315",
+      "6690087",
+      "3504761",
+      "56486733",
+      "27403802",
+      "9614443"
+    ],
+    "1174": [
+      "10627801",
+      "9169645",
+      "26011884",
+      "16058322",
+      "22191759",
+      "17402386",
+      "15548965",
+      "2566674",
+      "31387717",
+      "42314147"
+    ],
+    "1176": [
+      "13910150",
+      "13955536",
+      "1649738",
+      "19356271",
+      "5448119",
+      "31514338",
+      "26612216",
+      "825728",
+      "1910120",
+      "4423327"
+    ],
+    "1177": [
+      "13910150",
+      "1649738",
+      "12315072",
+      "13955536",
+      "46617075",
+      "2078658",
+      "13439128",
+      "825728",
+      "36618603",
+      "26612216"
+    ],
+    "1178": [
+      "17518195",
+      "22191759",
+      "36464673",
+      "10627801",
+      "42865134",
+      "2566674",
+      "6144337",
+      "24995939",
+      "19485243",
+      "31387717"
+    ],
+    "12": [
+      "33409100",
+      "25259746",
+      "11705328",
+      "43557480",
+      "5152028",
+      "8856690",
+      "25837950",
+      "35724562",
+      "12074066",
+      "30720103"
+    ],
+    "1219": [
+      "9393969",
+      "17055665",
+      "29429111",
+      "14864285",
+      "1576955",
+      "919007",
+      "16728949",
+      "14544564",
+      "14496749",
+      "3748310"
+    ],
+    "123": [
+      "4883040",
+      "7111021",
+      "1986482",
+      "28806780",
+      "13071728",
+      "14319754",
+      "17077004",
+      "39984099",
+      "13899137",
+      "21479231"
+    ],
+    "1257": [
+      "25451374",
+      "14319754",
+      "14682243",
+      "16204011",
+      "21274919",
+      "457630",
+      "24273592",
+      "1215116",
+      "13934676",
+      "8529693"
+    ],
+    "126": [
+      "24512064",
+      "28738741",
+      "23326722",
+      "24943534",
+      "37444589",
+      "46202852",
+      "601033",
+      "10976596",
+      "39443128",
+      "16572581"
+    ],
+    "1263": [
+      "3981729",
+      "46816158",
+      "3893473",
+      "19099739",
+      "1354567",
+      "778436",
+      "885056",
+      "29788648",
+      "28243325",
+      "5116145"
+    ],
+    "1275": [
+      "4406819",
+      "27731651",
+      "7145763",
+      "12428814",
+      "7481159",
+      "22632303",
+      "23440856",
+      "23423230",
+      "26625002",
+      "6836086"
+    ],
+    "1306": [
+      "31272411",
+      "25606339",
+      "32927401",
+      "3616843",
+      "23273454",
+      "2647374",
+      "5798227",
+      "51952430",
+      "46135768",
+      "21498497"
+    ],
+    "1323": [
+      "19912367",
+      "20418809",
+      "10012166",
+      "1387654",
+      "15955172",
+      "3464191",
+      "4326318",
+      "23974474",
+      "57574395",
+      "8771704"
+    ],
+    "1324": [
+      "19912367",
+      "15955172",
+      "4326318",
+      "54562433",
+      "39532074",
+      "8771704",
+      "2559303",
+      "20418809",
+      "9929089",
+      "14296612"
+    ],
+    "1353": [
+      "2097256",
+      "18816720",
+      "23203102",
+      "8665891",
+      "20931483",
+      "25069745",
+      "10365749",
+      "13179318",
+      "9813098",
+      "27527854"
+    ],
+    "1366": [
+      "4406819",
+      "7481159",
+      "38300781",
+      "34846352",
+      "27731651",
+      "35760786",
+      "11419230",
+      "13992047",
+      "22241778",
+      "1320137"
+    ],
+    "1371": [
+      "16256507",
+      "21553394",
+      "8856690",
+      "9555784",
+      "23267371",
+      "3034412",
+      "30720103",
+      "13312471",
+      "44572913",
+      "22843838"
+    ],
+    "1374": [
+      "21993510",
+      "21623140",
+      "23245050",
+      "36558211",
+      "25050364",
+      "16322674",
+      "20130904",
+      "8069939",
+      "3462075",
+      "4857093"
+    ],
+    "1375": [
+      "21993510",
+      "21623140",
+      "16322674",
+      "23245050",
+      "36558211",
+      "20130904",
+      "8069939",
+      "71341302",
+      "9244474",
+      "168265642"
+    ],
+    "1380": [
+      "27123743",
+      "38784540",
+      "17450673",
+      "5487448",
+      "37480103",
+      "23557241",
+      "13765757",
+      "16322674",
+      "16098747",
+      "20280410"
+    ],
+    "1383": [
+      "9483851",
+      "1686997",
+      "20501163",
+      "10365787",
+      "3831884",
+      "17755060",
+      "35543846",
+      "17412260",
+      "9315213",
+      "22914228"
+    ],
+    "1386": [
+      "306006",
+      "9283422",
+      "2714623",
+      "14380875",
+      "994800",
+      "18346333",
+      "12265561",
+      "24335068",
+      "39859981",
+      "12956194"
+    ],
+    "139": [
+      "6807122",
+      "31293581",
+      "25853741",
+      "22488511",
+      "37912677",
+      "35314705",
+      "24150328",
+      "3944632",
+      "14700857",
+      "15678772"
+    ],
+    "1390": [
+      "2890952",
+      "34498325",
+      "25373397",
+      "31962403",
+      "20725212",
+      "8327914",
+      "31514338",
+      "12642224",
+      "38252314",
+      "18467982"
+    ],
+    "1391": [
+      "6766459",
+      "1976183",
+      "16364639",
+      "28704738",
+      "27167110",
+      "2619579",
+      "10024681",
+      "9159495",
+      "33677323",
+      "53211308"
+    ],
+    "1392": [
+      "6766459",
+      "18421962",
+      "17544977",
+      "28704738",
+      "14652521",
+      "22871664",
+      "10024681",
+      "53211308",
+      "16364639",
+      "1976183"
+    ],
+    "1405": [
+      "5849439",
+      "40429879",
+      "20868160",
+      "1669173",
+      "14926162",
+      "9641846",
+      "10504681",
+      "38751591",
+      "38675228",
+      "19950357"
+    ],
+    "15": [
+      "18953920",
+      "3758260",
+      "40164383",
+      "10078024",
+      "10582939",
+      "7506409",
+      "3848469",
+      "15337254",
+      "21645205",
+      "6280907"
+    ],
+    "164": [
+      "40949706",
+      "5824985",
+      "18872233",
+      "43220289",
+      "39903312",
+      "10958594",
+      "16390264",
+      "12074066",
+      "43334921",
+      "2058909"
+    ],
+    "165": [
+      "18872233",
+      "5824985",
+      "40949706",
+      "15559582",
+      "27123743",
+      "5864770",
+      "43220289",
+      "19071857",
+      "29022271",
+      "25973484"
+    ],
+    "168": [
+      "5824985",
+      "7627167",
+      "43220289",
+      "40949706",
+      "18872233",
+      "29022271",
+      "19071857",
+      "39903312",
+      "16390264",
+      "7613033"
+    ],
+    "169": [
+      "5864770",
+      "15559582",
+      "5824985",
+      "29022271",
+      "18872233",
+      "19071857",
+      "7627167",
+      "38551172",
+      "25973484",
+      "27123743"
+    ],
+    "178": [
+      "25973484",
+      "17450673",
+      "27123743",
+      "16322674",
+      "5487448",
+      "37480103",
+      "13765757",
+      "16098747",
+      "20280410",
+      "313403"
+    ],
+    "19": [
+      "21232018",
+      "13072113",
+      "36178047",
+      "16267205",
+      "11738716",
+      "7042304",
+      "1576955",
+      "7834603",
+      "18949516",
+      "5002665"
+    ],
+    "2": [
+      "13734012",
+      "18617259",
+      "4828631",
+      "32481310",
+      "18340282",
+      "16737163",
+      "17333231",
+      "18199839",
+      "42240424",
+      "21616324"
+    ],
+    "20": [
+      "21232018",
+      "13072113",
+      "16267205",
+      "7042304",
+      "11738716",
+      "1576955",
+      "36178047",
+      "5002665",
+      "7834603",
+      "18949516"
+    ],
+    "224": [
+      "952111",
+      "32742683",
+      "10812605",
+      "8702697",
+      "9648896",
+      "35993767",
+      "15832146",
+      "3559136",
+      "3727986",
+      "4429118"
+    ],
+    "225": [
+      "32742683",
+      "952111",
+      "9648896",
+      "3727986",
+      "35993767",
+      "10812605",
+      "8702697",
+      "3559136",
+      "15832146",
+      "24349992"
+    ],
+    "226": [
+      "32742683",
+      "952111",
+      "35993767",
+      "9648896",
+      "3727986",
+      "10812605",
+      "8702697",
+      "3559136",
+      "15832146",
+      "3376731"
+    ],
+    "227": [
+      "26973393",
+      "22980205",
+      "7028976",
+      "4820792",
+      "18682109",
+      "5406411",
+      "5991309",
+      "40710501",
+      "6550579",
+      "5123516"
+    ],
+    "228": [
+      "4928057",
+      "12827098",
+      "22406695",
+      "6853699",
+      "12966719",
+      "7521113",
+      "4460880",
+      "5511240",
+      "43192375",
+      "2192419"
+    ],
+    "24": [
+      "3471191",
+      "1900152",
+      "42731834",
+      "4468861",
+      "15128866",
+      "35301079",
+      "10165723",
+      "7975937",
+      "22521091",
+      "32787042"
+    ],
+    "247": [
+      "10474873",
+      "17695748",
+      "13578199",
+      "26008462",
+      "1471041",
+      "25238950",
+      "10669582",
+      "11951999",
+      "2316374",
+      "44420873"
+    ],
+    "25": [
+      "2613775",
+      "23117378",
+      "20240998",
+      "4791384",
+      "16204011",
+      "25182647",
+      "35521287",
+      "21050357",
+      "11748341",
+      "33257464"
+    ],
+    "250": [
+      "1568684",
+      "14865329",
+      "34582256",
+      "40232172",
+      "17973161",
+      "4319174",
+      "29691654",
+      "29381091",
+      "3621011",
+      "1907601"
+    ],
+    "251": [
+      "1568684",
+      "14865329",
+      "40232172",
+      "34582256",
+      "17973161",
+      "29691654",
+      "26902591",
+      "3621011",
+      "4319174",
+      "29381091"
+    ],
+    "258": [
+      "16488405",
+      "5979056",
+      "30908508",
+      "22080671",
+      "6397191",
+      "7948486",
+      "25148216",
+      "2316374",
+      "22997657",
+      "6144969"
+    ],
+    "316": [
+      "21181273",
+      "20732789",
+      "9159125",
+      "58006489",
+      "6945691",
+      "43711341",
+      "712078",
+      "2443495",
+      "12513042",
+      "26025370"
+    ],
+    "32": [
+      "12428497",
+      "44629665",
+      "33723822",
+      "22431418",
+      "8069939",
+      "24922825",
+      "13764090",
+      "8883846",
+      "2264455",
+      "32353339"
+    ],
+    "330": [
+      "9505448",
+      "23513818",
+      "207972",
+      "28697248",
+      "1550937",
+      "7621534",
+      "14848619",
+      "33030946",
+      "4394817",
+      "25677651"
+    ],
+    "331": [
+      "207972",
+      "23513818",
+      "9505448",
+      "5573975",
+      "5123516",
+      "18841257",
+      "15058155",
+      "42314147",
+      "23702805",
+      "35231675"
+    ],
+    "334": [
+      "25079962",
+      "8536018",
+      "21297708",
+      "32322418",
+      "25475802",
+      "14711483",
+      "26658659",
+      "13823200",
+      "46328296",
+      "23513718"
+    ],
+    "339": [
+      "23349986",
+      "24211561",
+      "36288526",
+      "10162553",
+      "32001951",
+      "15948830",
+      "23783727",
+      "14252892",
+      "6083952",
+      "11968641"
+    ],
+    "340": [
+      "7098463",
+      "5824985",
+      "23206239",
+      "750781",
+      "33127778",
+      "43122426",
+      "13619127",
+      "32850528",
+      "25816994",
+      "5262240"
+    ],
+    "341": [
+      "7098463",
+      "33127778",
+      "5824985",
+      "13580614",
+      "23206239",
+      "750781",
+      "13619127",
+      "43122426",
+      "25816994",
+      "32850528"
+    ],
+    "366": [
+      "13956305",
+      "1265945",
+      "15716328",
+      "97884",
+      "8428837",
+      "11527199",
+      "5922085",
+      "16734530",
+      "380526",
+      "5448119"
+    ],
+    "378": [
+      "2225918",
+      "17150648",
+      "16398827",
+      "306311",
+      "45154987",
+      "11886686",
+      "14782049",
+      "4700428",
+      "4469125",
+      "22029384"
+    ],
+    "382": [
+      "17412260",
+      "15521377",
+      "35543846",
+      "9559146",
+      "23036207",
+      "31293581",
+      "41710132",
+      "7506409",
+      "3981613",
+      "4653837"
+    ],
+    "41": [
+      "18174210",
+      "45218443",
+      "27889071",
+      "6182947",
+      "13001323",
+      "13823200",
+      "40913091",
+      "6315132",
+      "2460304",
+      "24042919"
+    ],
+    "426": [
+      "16728949",
+      "29429111",
+      "919007",
+      "28937856",
+      "4418070",
+      "22896384",
+      "83707680",
+      "14496749",
+      "9393969",
+      "17055665"
+    ],
+    "428": [
+      "16728949",
+      "29429111",
+      "4418070",
+      "919007",
+      "14496749",
+      "28937856",
+      "22896384",
+      "9393969",
+      "3748310",
+      "17055665"
+    ],
+    "429": [
+      "36540079",
+      "15548965",
+      "17402386",
+      "3085264",
+      "612002",
+      "31387717",
+      "3831884",
+      "26011884",
+      "10169908",
+      "1344498"
+    ],
+    "43": [
+      "7224723",
+      "40234452",
+      "5398179",
+      "46353045",
+      "37444589",
+      "20996244",
+      "10165258",
+      "35987381",
+      "19583924",
+      "27243019"
+    ],
+    "432": [
+      "8002887",
+      "31882215",
+      "19004126",
+      "11903247",
+      "2543135",
+      "13651792",
+      "5172048",
+      "1605196",
+      "33507866",
+      "19912367"
+    ],
+    "447": [
+      "22703082",
+      "2052720",
+      "24705390",
+      "26488879",
+      "39550665",
+      "29367554",
+      "4387784",
+      "7465900",
+      "17464771",
+      "20330519"
+    ],
+    "448": [
+      "22703082",
+      "2052720",
+      "24705390",
+      "26488879",
+      "39550665",
+      "29367554",
+      "4387784",
+      "7465900",
+      "20330519",
+      "17464771"
+    ],
+    "453": [
+      "4200695",
+      "53779698",
+      "44586415",
+      "38493521",
+      "42950029",
+      "40631095",
+      "11933721",
+      "41161366",
+      "41976370",
+      "25301182"
+    ],
+    "454": [
+      "4200695",
+      "53779698",
+      "40631095",
+      "41161366",
+      "2028532",
+      "21323758",
+      "38493521",
+      "474325",
+      "8642784",
+      "24634621"
+    ],
+    "470": [
+      "12685434",
+      "195689757",
+      "51706771",
+      "5123516",
+      "13235609",
+      "21692235",
+      "9737083",
+      "7028976",
+      "15570691",
+      "15215393"
+    ],
+    "500": [
+      "24865781",
+      "17930286",
+      "6191684",
+      "24510595",
+      "44830890",
+      "21274919",
+      "7239105",
+      "41735503",
+      "7965928",
+      "24285403"
+    ],
+    "515": [
+      "29564505",
+      "2032877",
+      "3580005",
+      "20109325",
+      "21287352",
+      "20887554",
+      "26107000",
+      "18988265",
+      "21003930",
+      "21395936"
+    ],
+    "529": [
+      "36651210",
+      "19770974",
+      "3360421",
+      "26374799",
+      "25413327",
+      "11335860",
+      "4452318",
+      "27588420",
+      "10546779",
+      "22428640"
+    ],
+    "530": [
+      "19770974",
+      "3360421",
+      "11335860",
+      "27588420",
+      "36651210",
+      "28071965",
+      "25413327",
+      "26374799",
+      "4452318",
+      "4423327"
+    ],
+    "531": [
+      "36651210",
+      "19770974",
+      "25413327",
+      "26374799",
+      "3360421",
+      "4325137",
+      "27588420",
+      "11335860",
+      "4452318",
+      "36398420"
+    ],
+    "541": [
+      "17150648",
+      "2225918",
+      "306311",
+      "11886686",
+      "16398827",
+      "22029384",
+      "45154987",
+      "14782049",
+      "4611267",
+      "31387717"
+    ],
+    "550": [
+      "8903143",
+      "33499189",
+      "34905328",
+      "2714623",
+      "2825380",
+      "25479072",
+      "9283422",
+      "23032247",
+      "6961811",
+      "40608679"
+    ],
+    "579": [
+      "27460509",
+      "9622258",
+      "24586989",
+      "24408040",
+      "37029185",
+      "13448422",
+      "34139429",
+      "10574949",
+      "20945963",
+      "8509018"
+    ],
+    "588": [
+      "40558887",
+      "16999023",
+      "42855554",
+      "7142113",
+      "12152977",
+      "23124332",
+      "13944805",
+      "24142891",
+      "5085118",
+      "25516011"
+    ],
+    "591": [
+      "14682243",
+      "21274919",
+      "13934676",
+      "32463364",
+      "36003142",
+      "45457778",
+      "41264017",
+      "13282296",
+      "25853741",
+      "24276304"
+    ],
+    "592": [
+      "14682243",
+      "21274919",
+      "13934676",
+      "32463364",
+      "36003142",
+      "6309659",
+      "45457778",
+      "13282296",
+      "37583120",
+      "24276304"
+    ],
+    "6": [
+      "2613775",
+      "23117378",
+      "20240998",
+      "4791384",
+      "25182647",
+      "16204011",
+      "35521287",
+      "24581365",
+      "21050357",
+      "33257464"
+    ],
+    "606": [
+      "21181273",
+      "20732789",
+      "9159125",
+      "58006489",
+      "6945691",
+      "43711341",
+      "2443495",
+      "712078",
+      "12513042",
+      "26025370"
+    ],
+    "618": [
+      "6836086",
+      "24541180",
+      "24706198",
+      "26117607",
+      "20904154",
+      "5914739",
+      "26625002",
+      "623486",
+      "1905095",
+      "43752562"
+    ],
+    "631": [
+      "5468807",
+      "9767444",
+      "15215393",
+      "14460402",
+      "3173489",
+      "20888849",
+      "33370",
+      "7317051",
+      "13231899",
+      "2727303"
+    ],
+    "650": [
+      "12789595",
+      "9278263",
+      "24159217",
+      "15041758",
+      "50670403",
+      "1338283",
+      "1191830",
+      "108886332",
+      "11253758",
+      "11256632"
+    ],
+    "651": [
+      "30437264",
+      "26731863",
+      "9433958",
+      "3493623",
+      "7155555",
+      "7820043",
+      "10559501",
+      "72159",
+      "28644298",
+      "2947124"
+    ],
+    "652": [
+      "30437264",
+      "26731863",
+      "46135768",
+      "3493623",
+      "9433958",
+      "7155555",
+      "7820043",
+      "10559501",
+      "72159",
+      "28644298"
+    ],
+    "658": [
+      "5293024",
+      "7454794",
+      "6793674",
+      "15155862",
+      "8780599",
+      "2138767",
+      "21767325",
+      "409280",
+      "13230773",
+      "30981192"
+    ],
+    "663": [
+      "22080671",
+      "5979056",
+      "21271817",
+      "10354110",
+      "18489989",
+      "25148216",
+      "22150633",
+      "9675944",
+      "35062452",
+      "31882215"
+    ],
+    "670": [
+      "5573975",
+      "25928548",
+      "11428884",
+      "28249680",
+      "40349336",
+      "22800314",
+      "25827024",
+      "37205759",
+      "21363424",
+      "3619931"
+    ],
+    "671": [
+      "5573975",
+      "25928548",
+      "11428884",
+      "40349336",
+      "22800314",
+      "10703001",
+      "3619931",
+      "49556906",
+      "25827024",
+      "37205759"
+    ],
+    "673": [
+      "2095573",
+      "7662206",
+      "30981192",
+      "970012",
+      "5612738",
+      "15155862",
+      "4647303",
+      "7757997",
+      "15879931",
+      "15561961"
+    ],
+    "679": [
+      "23269537",
+      "29788648",
+      "12149169",
+      "18694784",
+      "13912224",
+      "4465762",
+      "33986507",
+      "13777706",
+      "13072112",
+      "1695604"
+    ],
+    "689": [
+      "35811036",
+      "40164383",
+      "18953920",
+      "10078024",
+      "3848469",
+      "10582939",
+      "7506409",
+      "25238950",
+      "104130",
+      "1617327"
+    ],
+    "703": [
+      "16557565",
+      "38675228",
+      "20868160",
+      "4350400",
+      "1354567",
+      "1669173",
+      "19950357",
+      "38751591",
+      "4324278",
+      "86231298"
+    ],
+    "717": [
+      "17587795",
+      "29788648",
+      "175735",
+      "22038539",
+      "4305576",
+      "4392608",
+      "42387637",
+      "7808055",
+      "13036442",
+      "13790144"
+    ],
+    "740": [
+      "23078022",
+      "83308790",
+      "41913714",
+      "1044552",
+      "29509926",
+      "22210434",
+      "3973445",
+      "27093166",
+      "30224907",
+      "18956141"
+    ],
+    "745": [
+      "11291348",
+      "21307488",
+      "14637235",
+      "33068577",
+      "4389394",
+      "6422576",
+      "39863735",
+      "23634484",
+      "16086778",
+      "18810195"
+    ],
+    "746": [
+      "11291348",
+      "21307488",
+      "33068577",
+      "18810195",
+      "11532659",
+      "6422576",
+      "4389394",
+      "31962403",
+      "39863735",
+      "6268106"
+    ],
+    "747": [
+      "11291348",
+      "21307488",
+      "4389394",
+      "7820043",
+      "25901598",
+      "12225214",
+      "6422576",
+      "23704559",
+      "33068577",
+      "23513818"
+    ],
+    "748": [
+      "11291348",
+      "4389394",
+      "21307488",
+      "23704559",
+      "25901598",
+      "12225214",
+      "7820043",
+      "6422576",
+      "23513818",
+      "7227763"
+    ],
+    "774": [
+      "43014661",
+      "11569583",
+      "12552297",
+      "27635177",
+      "31293581",
+      "13106686",
+      "5572127",
+      "16630060",
+      "4993011",
+      "18987782"
+    ],
+    "776": [
+      "43014661",
+      "11569583",
+      "12552297",
+      "27635177",
+      "31293581",
+      "19356271",
+      "39758684",
+      "13106686",
+      "16630060",
+      "4993011"
+    ],
+    "777": [
+      "43014661",
+      "11569583",
+      "12552297",
+      "27635177",
+      "31293581",
+      "17368516",
+      "13106686",
+      "4993011",
+      "19356271",
+      "39758684"
+    ],
+    "78": [
+      "5099266",
+      "4407455",
+      "38043606",
+      "22190276",
+      "15414628",
+      "1744752",
+      "28724565",
+      "9226649",
+      "13583521",
+      "17682477"
+    ],
+    "79": [
+      "5099266",
+      "4407455",
+      "13583521",
+      "27460509",
+      "5386514",
+      "4345315",
+      "6000423",
+      "17755060",
+      "2692522",
+      "14460402"
+    ],
+    "791": [
+      "14566771",
+      "23785605",
+      "15984735",
+      "8672737",
+      "23627419",
+      "17930286",
+      "8227227",
+      "39390206",
+      "24148722",
+      "32328114"
+    ],
+    "799": [
+      "5293024",
+      "7454794",
+      "8780599",
+      "2138767",
+      "13230773",
+      "4442799",
+      "15155862",
+      "17914395",
+      "12770738",
+      "6793674"
+    ],
+    "810": [
+      "1381673",
+      "22490293",
+      "10086360",
+      "22186938",
+      "23356816",
+      "41329220",
+      "8425533",
+      "15981174",
+      "7239105",
+      "25041967"
+    ],
+    "812": [
+      "19799455",
+      "35062452",
+      "17081238",
+      "6492658",
+      "41644178",
+      "34753204",
+      "21878751",
+      "23929297",
+      "8698208",
+      "10017612"
+    ],
+    "815": [
+      "8148304",
+      "23604601",
+      "39929509",
+      "5953485",
+      "12652963",
+      "2061878",
+      "6315132",
+      "43602749",
+      "6812319",
+      "435529"
+    ],
+    "816": [
+      "8148304",
+      "4345315",
+      "23604601",
+      "2061878",
+      "5953485",
+      "39929509",
+      "6315132",
+      "6812319",
+      "43602749",
+      "9478135"
+    ],
+    "817": [
+      "17934082",
+      "6386930",
+      "35467590",
+      "8396189",
+      "38300781",
+      "38533515",
+      "9283422",
+      "19238",
+      "2825380",
+      "47240151"
+    ],
+    "818": [
+      "11369420",
+      "7840442",
+      "23535770",
+      "14767844",
+      "7039855",
+      "5289038",
+      "23746332",
+      "17814815",
+      "4767806",
+      "20743803"
+    ],
+    "822": [
+      "2319305",
+      "15319019",
+      "25014337",
+      "2272614",
+      "6426919",
+      "6421792",
+      "641786",
+      "544971",
+      "9505402",
+      "33387953"
+    ],
+    "825": [
+      "2319305",
+      "15319019",
+      "25014337",
+      "2272614",
+      "6426919",
+      "5108807",
+      "6421792",
+      "641786",
+      "14241418",
+      "9505402"
+    ],
+    "844": [
+      "17741440",
+      "14853989",
+      "28149602",
+      "36089763",
+      "11328820",
+      "1049501",
+      "43054703",
+      "1800734",
+      "30041340",
+      "9878167"
+    ],
+    "848": [
+      "14500725",
+      "3662510",
+      "25069745",
+      "34818263",
+      "13914633",
+      "34198460",
+      "4883040",
+      "14395738",
+      "18268012",
+      "13959707"
+    ],
+    "856": [
+      "6407356",
+      "878526",
+      "18682109",
+      "3866315",
+      "32852283",
+      "7986878",
+      "13380980",
+      "20888849",
+      "39892135",
+      "40127292"
+    ],
+    "857": [
+      "3866315",
+      "6407356",
+      "25328476",
+      "21958900",
+      "12641252",
+      "40127292",
+      "20428155",
+      "4320424",
+      "21590125",
+      "5492542"
+    ],
+    "858": [
+      "22049489",
+      "21363424",
+      "15946643",
+      "11992632",
+      "1982286",
+      "25725663",
+      "9076196",
+      "8385277",
+      "57783564",
+      "25238950"
+    ],
+    "866": [
+      "4457834",
+      "15803282",
+      "37822406",
+      "10546779",
+      "86129154",
+      "3883485",
+      "14192687",
+      "3360421",
+      "4405194",
+      "22490293"
+    ],
+    "893": [
+      "13509809",
+      "38899659",
+      "6374918",
+      "24612804",
+      "12058271",
+      "24721866",
+      "44562221",
+      "12130067",
+      "10795063",
+      "15248287"
+    ],
+    "916": [
+      "15635366",
+      "13777706",
+      "463309",
+      "1791637",
+      "14581009",
+      "19572798",
+      "17939443",
+      "2617858",
+      "18037805",
+      "16016673"
+    ],
+    "928": [
+      "13959707",
+      "25420421",
+      "18174210",
+      "2460304",
+      "17168045",
+      "6503185",
+      "40900567",
+      "9254550",
+      "25938221",
+      "2264455"
+    ],
+    "929": [
+      "18174210",
+      "17168045",
+      "2460304",
+      "25420421",
+      "13959707",
+      "9254550",
+      "40900567",
+      "6503185",
+      "37205685",
+      "25938221"
+    ],
+    "934": [
+      "24082820",
+      "8563659",
+      "27602752",
+      "28821565",
+      "5398179",
+      "37444589",
+      "11238951",
+      "437924",
+      "43378932",
+      "45461275"
+    ],
+    "942": [
+      "16737210",
+      "21859699",
+      "24795767",
+      "27243019",
+      "24825841",
+      "14647747",
+      "44265107",
+      "26105746",
+      "9056874",
+      "7034001"
+    ],
+    "945": [
+      "18537148",
+      "26112696",
+      "6647414",
+      "11201004",
+      "13230773",
+      "6993046",
+      "8428935",
+      "16488405",
+      "4449524",
+      "2575938"
+    ],
+    "946": [
+      "18537148",
+      "26112696",
+      "6993046",
+      "11201004",
+      "8428935",
+      "2575938",
+      "25135304",
+      "13230773",
+      "16488405",
+      "4449524"
+    ],
+    "949": [
+      "9911547",
+      "26107000",
+      "26008462",
+      "21868715",
+      "6441369",
+      "3870062",
+      "16905344",
+      "17755060",
+      "5172048",
+      "13000926"
+    ],
+    "96": [
+      "14500725",
+      "3662510",
+      "34818263",
+      "13914633",
+      "4883040",
+      "25069745",
+      "18268012",
+      "30741007",
+      "14395738",
+      "20999249"
+    ],
+    "979": [
+      "11659421",
+      "31324978",
+      "22544171",
+      "34747208",
+      "16630060",
+      "1848452",
+      "7506409",
+      "19912367",
+      "40349336",
+      "14178995"
+    ],
+    "989": [
+      "16375102",
+      "9988425",
+      "33986200",
+      "427082",
+      "12742164",
+      "33390472",
+      "17049436",
+      "16939583",
+      "4427392",
+      "9675944"
+    ]
+  },
+  "reference_check": {
+    "backend": "pytrec_eval (Terrier distribution)",
+    "passed": true,
+    "query_count": 162,
+    "max_absolute_error": 1.1102230246251565e-16,
+    "ordering": "rank-preserving surrogate scores; self IDs removed",
+    "empty_judgments_policy": "zero, included in our macro average"
+  }
+}

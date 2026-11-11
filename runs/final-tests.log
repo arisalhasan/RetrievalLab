@@ -1,0 +1,11 @@
+........................................................................ [ 38%]
+........................................................................ [ 77%]
+.........................................                                [100%]
+============================== warnings summary ===============================
+.venv\Lib\site-packages\starlette\testclient.py:40
+  C:\Users\ASUS\.codex\.chatgpt-projects\g-p-6aef55ea7418819197f6e0059fe8c129\.venv\Lib\site-packages\starlette\testclient.py:40: DeprecationWarning: The anyio.abc.BlockingPortal alias is deprecated, use anyio.from_thread.BlockingPortal instead.
+    _PortalFactoryType = typing.Callable[[], typing.ContextManager[anyio.abc.BlockingPortal]]
+
+-- Docs: https://docs.pytest.org/en/stable/how-to/capture-warnings.html
+- generated xml file: C:\Users\ASUS\.codex\.chatgpt-projects\g-p-6aef55ea7418819197f6e0059fe8c129\runs\final-tests.xml -
+185 passed, 1 warning in 77.00s (0:01:17)

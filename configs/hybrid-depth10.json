@@ -1,0 +1,46 @@
+{
+  "schema_version": 1,
+  "system": "hybrid",
+  "implementation_version": "1.0.0",
+  "rank_constant": 60,
+  "candidate_depth": 10,
+  "bm25": {
+    "schema_version": 1,
+    "system": "bm25",
+    "implementation_version": "1.0.0",
+    "tokenizer": "unicode-word-casefold-v1",
+    "document_fields": [
+      "title",
+      "text"
+    ],
+    "idf": "log1p((N-df+0.5)/(df+0.5))",
+    "query_term_weighting": "binary",
+    "k1": 1.2,
+    "b": 0.75,
+    "seed": 42
+  },
+  "dense": {
+    "schema_version": 1,
+    "system": "dense",
+    "implementation_version": "1.0.0",
+    "model_id": "sentence-transformers/all-MiniLM-L6-v2",
+    "revision": "1110a243fdf4706b3f48f1d95db1a4f5529b4d41",
+    "dimension": 384,
+    "max_seq_length": 256,
+    "batch_size": 32,
+    "normalize_embeddings": true,
+    "dtype": "float32",
+    "device": "cpu",
+    "pooling": "mean",
+    "index_type": "IndexFlatIP",
+    "document_fields": [
+      "title",
+      "text"
+    ],
+    "query_prompt": "",
+    "document_prompt": "",
+    "torch_threads": 1,
+    "faiss_threads": 1,
+    "seed": 42
+  }
+}

@@ -1,0 +1,20 @@
+name: Tests
+on: [push, pull_request]
+jobs:
+  offline-tests:
+    runs-on: windows-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+          architecture: x64
+          cache: pip
+          cache-dependency-path: requirements-release.lock.txt
+      - run: python -m pip install -r requirements-release.lock.txt
+      - run: python -m pip install --no-deps --no-build-isolation -e .
+      - run: python -m pip check
+      - run: python -m ruff check .
+      - run: python -m ruff format --check .
+      - run: python -m pytest --basetemp runs/pytest-ci --junitxml=runs/pytest-ci.xml

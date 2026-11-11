@@ -1,0 +1,53 @@
+{
+  "systems": {
+    "bm25": {
+      "system": "bm25",
+      "config": "configs/bm25.json",
+      "validation_run": "runs/m5-bm25-validation-v1"
+    },
+    "dense": {
+      "system": "dense",
+      "config": "configs/dense.json",
+      "validation_run": "runs/m5-dense-validation-v1"
+    },
+    "hybrid-100": {
+      "system": "hybrid",
+      "config": "configs/hybrid.json",
+      "validation_run": "runs/m5-hybrid-validation-v1"
+    },
+    "hybrid-10": {
+      "system": "hybrid",
+      "config": "configs/hybrid-depth10.json",
+      "validation_run": "runs/m4-hybrid-depth10-validation-v1"
+    },
+    "pretrained-reranker": {
+      "system": "rerank",
+      "config": "configs/reranker.json",
+      "validation_run": "runs/m5-rerank-validation-v1"
+    },
+    "trained-reranker": {
+      "system": "rerank",
+      "config": "configs/trained-reranker.json",
+      "validation_run": "runs/m7-trained-validation-v1"
+    }
+  },
+  "evaluation_config": "configs/evaluation-release.json",
+  "extra_inputs": [
+    "app.py",
+    "pyproject.toml",
+    "requirements-release.lock.txt",
+    "configs/release.json",
+    "configs/training.json",
+    "scripts/smoke_api.py",
+    "scripts/run_milestone7.py",
+    "runs/m7-training-v1/plan.json",
+    "runs/m7-training-v1/pairs.json",
+    "runs/m7-training-v1/history.json",
+    "runs/m7-training-v1/validation-epoch-0.json",
+    "runs/m7-training-v1/validation-epoch-1.json",
+    "runs/m7-training-v1/validation-epoch-2.json",
+    "runs/m7-training-v1/result.json",
+    "runs/m7-training-v1/selected-config.json",
+    "runs/m7-training-v1/best-trained-config.json"
+  ]
+}

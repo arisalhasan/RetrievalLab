@@ -1,0 +1,369 @@
+{
+  "schema_version": 2,
+  "run_type": "train_derived_validation_evaluation",
+  "created_at_utc": "2026-11-09T11:25:44.819514+00:00",
+  "system": "Dense (MiniLM)",
+  "dataset": {
+    "name": "BEIR/SciFact",
+    "source_split": "train",
+    "partition": "validation",
+    "documents": 5183,
+    "file_sha256": {
+      "corpus.jsonl": "dec31c8182f3d744c7d2c09423756fd1d17cbef75808db13ba01cc0aab4d1ac6",
+      "queries.jsonl": "8ff84a7c903f722981cd8d595c022660140c51867b27608a6d4910db86080313",
+      "qrels/train.tsv": "a53f2114831916c096b6c37d9e54da68cef4efdcdbd5ed46533601af972acf1d"
+    }
+  },
+  "split_sha256": "091e0d820c4dac0fd0ea80a133773da72984b7890ef15a66b053c8338d8b34c6",
+  "split_counts": {
+    "source_queries": 809,
+    "groups": 490,
+    "largest_group": 8,
+    "train": 647,
+    "validation": 162
+  },
+  "config": {
+    "retriever": {
+      "schema_version": 1,
+      "system": "dense",
+      "implementation_version": "1.0.0",
+      "model_id": "sentence-transformers/all-MiniLM-L6-v2",
+      "revision": "1110a243fdf4706b3f48f1d95db1a4f5529b4d41",
+      "dimension": 384,
+      "max_seq_length": 256,
+      "batch_size": 32,
+      "normalize_embeddings": true,
+      "dtype": "float32",
+      "device": "cpu",
+      "pooling": "mean",
+      "index_type": "IndexFlatIP",
+      "document_fields": [
+        "title",
+        "text"
+      ],
+      "query_prompt": "",
+      "document_prompt": "",
+      "torch_threads": 1,
+      "faiss_threads": 1,
+      "seed": 42
+    },
+    "evaluation": {
+      "schema_version": 1,
+      "cutoff": 10,
+      "warmup_passes": 1,
+      "repetitions": 5,
+      "seed": 42,
+      "rss_sample_interval_ms": 10,
+      "bootstrap_samples": 1000
+    }
+  },
+  "retriever_preparation": {
+    "cache_hit": true,
+    "cache_key": "68de4312b88bbfa94e3e88682d0a9d6692d779dfa59368dffa24f4da54d47809",
+    "embedding_bytes": 7961088,
+    "cache_load_seconds": 0.02275639999993473,
+    "original_preparation": {
+      "created_at_utc": "2026-11-07T19:06:52.500552+00:00",
+      "corpus_encoding_seconds": 465.59369769999466,
+      "token_statistics": {
+        "texts": 5183,
+        "max_input_tokens": 1939,
+        "texts_truncated": 3681,
+        "max_seq_length": 256,
+        "policy": "right truncation; lengths include special tokens"
+      },
+      "documents": 5183,
+      "dimension": 384,
+      "embedding_bytes": 7961088
+    },
+    "identity": {
+      "schema_version": 1,
+      "corpus_sha256": "c34e4b36a5131bd60ec58ae7865cd5d1a798bb7290dfd9d5a900b8b3bc908eba",
+      "config": {
+        "schema_version": 1,
+        "system": "dense",
+        "implementation_version": "1.0.0",
+        "model_id": "sentence-transformers/all-MiniLM-L6-v2",
+        "revision": "1110a243fdf4706b3f48f1d95db1a4f5529b4d41",
+        "dimension": 384,
+        "max_seq_length": 256,
+        "batch_size": 32,
+        "normalize_embeddings": true,
+        "dtype": "float32",
+        "device": "cpu",
+        "pooling": "mean",
+        "index_type": "IndexFlatIP",
+        "document_fields": [
+          "title",
+          "text"
+        ],
+        "query_prompt": "",
+        "document_prompt": "",
+        "torch_threads": 1,
+        "faiss_threads": 1,
+        "seed": 42
+      },
+      "encoder": {
+        "model_id": "sentence-transformers/all-MiniLM-L6-v2",
+        "revision": "1110a243fdf4706b3f48f1d95db1a4f5529b4d41",
+        "model_file_sha256": {
+          "config.json": "953f9c0d463486b10a6871cc2fd59f223b2c70184f49815e7efbcab5d8908b41",
+          "config_sentence_transformers.json": "061ca9d39661d6c6d6de5ba27f79a1cd5770ea247f8d46412a68a498dc5ac9f3",
+          "model.safetensors": "53aa51172d142c89d9012cce15ae4d6cc0ca6895895114379cacb4fab128d9db",
+          "modules.json": "84e40c8e006c9b1d6c122e02cba9b02458120b5fb0c87b746c41e0207cf642cf",
+          "sentence_bert_config.json": "fc1993fde0a95c24ec6c022539d41cf6e2f7c9721e5415d6fb6897472a9cd4b7",
+          "special_tokens_map.json": "303df45a03609e4ead04bc3dc1536d0ab19b5358db685b6f3da123d05ec200e3",
+          "tokenizer.json": "be50c3628f2bf5bb5e3a7f17b1f74611b2561a3a27eeab05e5aa30f411572037",
+          "tokenizer_config.json": "acb92769e8195aabd29b7b2137a9e6d6e25c476a4f15aa4355c233426c61576b",
+          "vocab.txt": "07eced375cec144d27c900241f3e339478dec958f92fddbc551f295c992038a3",
+          "1_Pooling/config.json": "4be450dde3b0273bb9787637cfbd28fe04a7ba6ab9d36ac48e92b11e350ffc23",
+          "README.md": "dcd602d2fd35c203a247304a06fec6654a12f7941b739f9221a064fe8dc3b7f0",
+          "data_config.json": "32edcb108fc2516b920734a862ae0692bcae1c5d45d5f8d972cb0d53434a4c54"
+        },
+        "libraries": {
+          "torch": "2.9.0+cpu",
+          "sentence-transformers": "5.1.2",
+          "transformers": "4.57.1",
+          "tokenizers": "0.22.2",
+          "numpy": "2.5.4",
+          "safetensors": "0.6.2",
+          "faiss-cpu": "1.12.0"
+        },
+        "backend": "PyTorch CPU float32 eager attention",
+        "trust_remote_code": false,
+        "pooling": "attention-mask mean pooling followed by normalization"
+      },
+      "implementation_sha256": {
+        "dense.py": "5a15ac1578aeb5a92640d0c08bdee696db367ae80c22849eca048c32f7e43f7e",
+        "encoders.py": "20b7ead21dc0ea9e3d52019b4e8f37bd298b490de48c24eee4ac1fa2af088d57",
+        "vectors.py": "067ad232b3250d27151bb67183aee258eaf3da6768853a309ad695dcfa6e98a2"
+      }
+    },
+    "faiss_build_seconds": 0.05788189999998394,
+    "model_load_seconds": 13.072680999999989
+  },
+  "exact_search_check": {
+    "passed": true,
+    "queries": 162,
+    "strict_rank_agreements": 162,
+    "float32_tie_reorderings": 0,
+    "max_absolute_score_error": 1.1920928955078125e-07,
+    "absolute_tolerance": 1e-06,
+    "oracle": "independent full NumPy dot product",
+    "query_token_statistics": {
+      "texts": 162,
+      "max_input_tokens": 49,
+      "texts_truncated": 0,
+      "max_seq_length": 256,
+      "policy": "right truncation; lengths include special tokens"
+    },
+    "scope": "untimed FAISS versus NumPy using identical encoded query vectors"
+  },
+  "candidate_analysis": null,
+  "metric_definition": {
+    "version": "trec-linear-gain-v1",
+    "cutoff": 10,
+    "gain": "linear relevance grade",
+    "aggregation": "query macro mean",
+    "no_positive_labels": "zero, included",
+    "unjudged_gain": 0,
+    "ties": "retriever order: score descending, document ID ascending",
+    "self_match": "removed after retrieval; no candidate backfill"
+  },
+  "quality": {
+    "query_count": 162,
+    "recall": 0.8118312757201647,
+    "ndcg": 0.6482123937888538,
+    "queries_without_positive_labels": 0,
+    "queries_with_no_relevant_retrieved": 29,
+    "zero_result_queries": 0
+  },
+  "confidence_intervals": {
+    "method": "query-weighted cluster bootstrap over validation groups",
+    "seed": 42,
+    "samples": 1000,
+    "confidence": 0.95,
+    "groups": 98,
+    "recall": [
+      0.72256860705639,
+      0.8970198468510705
+    ],
+    "ndcg": [
+      0.5721023623706546,
+      0.7318660906214115
+    ]
+  },
+  "reference_check": {
+    "backend": "pytrec_eval (Terrier distribution)",
+    "passed": true,
+    "query_count": 162,
+    "max_absolute_error": 1.1102230246251565e-16,
+    "ordering": "rank-preserving surrogate scores; self IDs removed",
+    "empty_judgments_policy": "zero, included in our macro average"
+  },
+  "latency": {
+    "samples": 810,
+    "p50_ms": 20.66895000001523,
+    "p95_ms": 33.592464999998114,
+    "mean_ms": 22.200332345678756,
+    "min_ms": 14.357700000005025,
+    "max_ms": 44.43360000004759
+  },
+  "resources": {
+    "index_build": {
+      "wall_seconds": 13.42144989999997,
+      "process_cpu_seconds": 11.078125,
+      "cpu_percent_one_core_equivalent": 82.54044892720587,
+      "rss_start_bytes": 43196416,
+      "rss_end_bytes": 500215808,
+      "sampled_peak_rss_bytes": 503832576,
+      "rss_samples": 750,
+      "rss_sample_interval_ms": 10,
+      "scope": "whole process during stage, including sampler/runner overhead"
+    },
+    "measured_queries": {
+      "wall_seconds": 17.991486899999927,
+      "process_cpu_seconds": 17.859375,
+      "cpu_percent_one_core_equivalent": 99.26569771173317,
+      "rss_start_bytes": 525824000,
+      "rss_end_bytes": 524353536,
+      "sampled_peak_rss_bytes": 529907712,
+      "rss_samples": 1120,
+      "rss_sample_interval_ms": 10,
+      "scope": "whole process during stage, including sampler/runner overhead"
+    }
+  },
+  "measurement_protocol": {
+    "device": "CPU",
+    "search_threads": 1,
+    "concurrent_queries": 1,
+    "query_order": "sorted IDs for full warmup passes; seeded shuffle per measured pass",
+    "cache_state": "warm in-memory index; no query-result cache; OS cache uncontrolled",
+    "latency_scope": "full retrieval search call; hybrid runs both components serially at its configured depth then fuses ranks and builds its trace; dense includes query encoding, FAISS and canonical tie sorting; BM25 includes tokenization/scoring/top-k; excludes I/O/preparation/UI/metrics",
+    "preparation_scope": "hybrid builds both component indexes; BM25 indexing; dense includes model/library loading, document encoding or verified cache loading, and FAISS construction",
+    "torch_threads": 1,
+    "faiss_threads": 1,
+    "resources_scope": "whole process in each stage, including runner and RSS sampler",
+    "rss_peak": "sampled resident-memory maximum; can miss short-lived peaks",
+    "cpu_percent": "one-core equivalent; sampler included; timer resolution affects short stages",
+    "gpu": "not used",
+    "background_load": "uncontrolled local workstation"
+  },
+  "environment": {
+    "python": "3.12.14",
+    "platform": "Windows-11-10.0.26300-SP0",
+    "machine": "AMD64",
+    "processor": "AMD64 Family 25 Model 68 Stepping 1, AuthenticAMD",
+    "logical_cpus": 16,
+    "physical_cpus": 8,
+    "machine_ram_bytes": 16372527104,
+    "packages": {
+      "GitPython": "3.2.1",
+      "Jinja2": "3.1.6",
+      "MarkupSafe": "3.0.4",
+      "PyYAML": "6.0.3",
+      "Pygments": "2.21.0",
+      "altair": "5.5.0",
+      "attrs": "26.1.0",
+      "blinker": "1.9.0",
+      "cachetools": "6.2.6",
+      "certifi": "2026.10.23",
+      "charset-normalizer": "3.5.2",
+      "click": "8.5.1",
+      "cloudpickle": "3.1.2",
+      "colorama": "0.4.6",
+      "faiss-cpu": "1.12.0",
+      "filelock": "4.2.9",
+      "fsspec": "2026.9.0",
+      "gitdb": "4.0.12",
+      "huggingface-hub": "0.36.0",
+      "idna": "3.20",
+      "iniconfig": "2.3.1",
+      "joblib": "1.6.0",
+      "jsonschema": "4.26.0",
+      "jsonschema-specifications": "2025.9.1",
+      "mpmath": "1.3.0",
+      "narwhals": "2.28.0",
+      "networkx": "3.7",
+      "numpy": "2.5.4",
+      "packaging": "25.0",
+      "pandas": "2.3.3",
+      "pillow": "12.3.0",
+      "pip": "25.0.1",
+      "pluggy": "1.7.0",
+      "protobuf": "6.33.6",
+      "psutil": "7.2.2",
+      "pyarrow": "21.0.0",
+      "pydeck": "0.9.3",
+      "pytest": "8.4.2",
+      "python-dateutil": "4.0.0",
+      "pytrec_eval-terrier": "0.5.11",
+      "pytz": "2026.6",
+      "referencing": "0.37.0",
+      "regex": "2026.11.7",
+      "requests": "2.34.2",
+      "retrievallab": "0.4.0",
+      "rpds-py": "2026.9.1",
+      "ruff": "0.14.4",
+      "safetensors": "0.6.2",
+      "scikit-learn": "1.9.1",
+      "scipy": "1.18.1",
+      "sentence-transformers": "5.1.2",
+      "setuptools": "80.9.0",
+      "smmap": "5.0.3",
+      "streamlit": "1.51.0",
+      "sympy": "1.14.0",
+      "tenacity": "9.2.1",
+      "threadpoolctl": "3.8.0",
+      "tokenizers": "0.22.2",
+      "toml": "0.10.2",
+      "torch": "2.9.0+cpu",
+      "tornado": "6.6",
+      "tqdm": "4.70.1",
+      "transformers": "4.57.1",
+      "typing_extensions": "4.16.0",
+      "tzdata": "2026.6",
+      "urllib3": "2.8.0",
+      "watchdog": "6.0.0",
+      "wheel": "0.45.1"
+    }
+  },
+  "code": {
+    "commit": null,
+    "working_tree_dirty": null
+  },
+  "source_file_sha256": {
+    "__init__.py": "4b1e1747311f7aa509bd7de26848b36531559d62594fbb94399a6a8092741518",
+    "bm25.py": "13b588e78e178bfebea02517e45e691ce4754ae53d324f3c0758970d6d50c6bc",
+    "cli.py": "87a66412f06b505e090f7ab6f0d38e4a3b4e45ef369e49c34c892b0934df8737",
+    "comparison.py": "01c0543d10b3cd009ce086f0b09114f9c449c1858e077e0f7efda18ad8d162a5",
+    "dashboard.py": "76de7d22f39c6cbb44f94336fc7fcb5efe9d9e1e350dac835a53e94c83f88217",
+    "data.py": "cc80479e1db09ddbb4c92dd4a17691b4103898b5ccacf1a73b7fbc442527f7ce",
+    "dense.py": "5a15ac1578aeb5a92640d0c08bdee696db367ae80c22849eca048c32f7e43f7e",
+    "dense_config.py": "2140c71c0bf41fed233161eae327f7bdac30eb19511e2c6a741938341aeb1b29",
+    "download.py": "2515c88317205dadcba8616163b3daa198a4645c2b6b04cbd222f5e98ea2c90b",
+    "encoders.py": "20b7ead21dc0ea9e3d52019b4e8f37bd298b490de48c24eee4ac1fa2af088d57",
+    "evaluation.py": "3953d84f9dc60c45c96c4ffec57af729668acc0240060a8be8a7f33a2f6adcf1",
+    "files.py": "d161242e984d3579c5bb35de00bb41c684e3cd9a7cda365463da7e70bf3040fa",
+    "hybrid.py": "433a2c70cc8bd7c4ddce9118a59d553d0c10f2dcd885047266ba3d19ad4086e1",
+    "metrics.py": "0d35e5270acd342da8e30536fa839a84e5b565cfece061a06a433247ecef5234",
+    "model_store.py": "601797861c55614c21f2c9df877b42395016c2950839ce52b88818b85a898d00",
+    "profiling.py": "cefab82d899351419e23634cb0b5d657c4267045ebe278954d9867ab2a4253e0",
+    "provenance.py": "2a1348c67136a6bbb537d27fc38f7ca162401b8376aa987aaeca9028b1a6e1b1",
+    "retrievers.py": "d3b690fe89c6be6910f48ab355da336904b943a16713dee4c8fb7685cb08d915",
+    "splits.py": "0a8c057c693ba274b1cb9e1f6af2716ef74d4d010b3a420136a02052874ea5ff",
+    "types.py": "719ac2dac8312413ae488ed3cf3e95b76a3cb8e28238010b8efafe627d46deed",
+    "vectors.py": "067ad232b3250d27151bb67183aee258eaf3da6768853a309ad695dcfa6e98a2"
+  },
+  "input_file_sha256": {
+    "split_manifest": "b98bf3318ebe0c236dae9544e8e30436de2bc3e21a0ff21188139a09275ace76",
+    "retriever_config": "86d8253b15cab8b25b695d712dfa736092cdef306cd6659781c1c546ca66fdbd",
+    "evaluation_config": "d990d38d183f4c2225b319c4598ea3ad26d13dc7c01993ae634042635ffadc69"
+  },
+  "artifact_sha256": {
+    "split.json": "b98bf3318ebe0c236dae9544e8e30436de2bc3e21a0ff21188139a09275ace76",
+    "queries.json": "f2f8bf59bb549e651c3a0a9ea6bb64f4a032ecd9401657f2032cef460465f5ff",
+    "timings.csv": "91f78e448680d783f230c2d7a6c5130ddf231deb5b9599c537dee932800a3f26",
+    "report.md": "9f41df8d821347f6dad5ab1a50416b1fab1b755c752c847bb9990415d34da626"
+  }
+}

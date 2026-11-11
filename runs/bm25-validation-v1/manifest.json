@@ -1,0 +1,226 @@
+{
+  "schema_version": 1,
+  "run_type": "train_derived_validation_evaluation",
+  "created_at_utc": "2026-11-07T17:52:58.892910+00:00",
+  "system": "BM25",
+  "dataset": {
+    "name": "BEIR/SciFact",
+    "source_split": "train",
+    "partition": "validation",
+    "documents": 5183,
+    "file_sha256": {
+      "corpus.jsonl": "dec31c8182f3d744c7d2c09423756fd1d17cbef75808db13ba01cc0aab4d1ac6",
+      "queries.jsonl": "8ff84a7c903f722981cd8d595c022660140c51867b27608a6d4910db86080313",
+      "qrels/train.tsv": "a53f2114831916c096b6c37d9e54da68cef4efdcdbd5ed46533601af972acf1d"
+    }
+  },
+  "split_sha256": "091e0d820c4dac0fd0ea80a133773da72984b7890ef15a66b053c8338d8b34c6",
+  "split_counts": {
+    "source_queries": 809,
+    "groups": 490,
+    "largest_group": 8,
+    "train": 647,
+    "validation": 162
+  },
+  "config": {
+    "retriever": {
+      "schema_version": 1,
+      "system": "bm25",
+      "implementation_version": "1.0.0",
+      "tokenizer": "unicode-word-casefold-v1",
+      "document_fields": [
+        "title",
+        "text"
+      ],
+      "idf": "log1p((N-df+0.5)/(df+0.5))",
+      "query_term_weighting": "binary",
+      "k1": 1.2,
+      "b": 0.75,
+      "seed": 42
+    },
+    "evaluation": {
+      "schema_version": 1,
+      "cutoff": 10,
+      "warmup_passes": 1,
+      "repetitions": 5,
+      "seed": 42,
+      "rss_sample_interval_ms": 10,
+      "bootstrap_samples": 1000
+    }
+  },
+  "metric_definition": {
+    "version": "trec-linear-gain-v1",
+    "cutoff": 10,
+    "gain": "linear relevance grade",
+    "aggregation": "query macro mean",
+    "no_positive_labels": "zero, included",
+    "unjudged_gain": 0,
+    "ties": "retriever order: score descending, document ID ascending",
+    "self_match": "removed after retrieval; no candidate backfill"
+  },
+  "quality": {
+    "query_count": 162,
+    "recall": 0.8013374485596707,
+    "ndcg": 0.6673015967323779,
+    "queries_without_positive_labels": 0,
+    "queries_with_no_relevant_retrieved": 28,
+    "zero_result_queries": 0
+  },
+  "confidence_intervals": {
+    "method": "query-weighted cluster bootstrap over validation groups",
+    "seed": 42,
+    "samples": 1000,
+    "confidence": 0.95,
+    "groups": 98,
+    "recall": [
+      0.7186165411286466,
+      0.8790262593584213
+    ],
+    "ndcg": [
+      0.5869681811847104,
+      0.7509721163656324
+    ]
+  },
+  "reference_check": {
+    "backend": "pytrec_eval (Terrier distribution)",
+    "passed": true,
+    "query_count": 162,
+    "max_absolute_error": 0.0,
+    "ordering": "rank-preserving surrogate scores; self IDs removed",
+    "empty_judgments_policy": "zero, included in our macro average"
+  },
+  "latency": {
+    "samples": 810,
+    "p50_ms": 18.771799994283356,
+    "p95_ms": 36.61148999453871,
+    "mean_ms": 19.575706913271045,
+    "min_ms": 0.9215000027325004,
+    "max_ms": 60.830199989140965
+  },
+  "resources": {
+    "index_build": {
+      "wall_seconds": 0.7155934000038542,
+      "process_cpu_seconds": 0.71875,
+      "cpu_percent_one_core_equivalent": 100.44111642115884,
+      "rss_start_bytes": 45191168,
+      "rss_end_bytes": 100286464,
+      "sampled_peak_rss_bytes": 100286464,
+      "rss_samples": 23,
+      "rss_sample_interval_ms": 10,
+      "scope": "whole process during stage, including sampler/runner overhead"
+    },
+    "measured_queries": {
+      "wall_seconds": 15.867774900005315,
+      "process_cpu_seconds": 15.765625,
+      "cpu_percent_one_core_equivalent": 99.35624307346784,
+      "rss_start_bytes": 100605952,
+      "rss_end_bytes": 100741120,
+      "sampled_peak_rss_bytes": 100745216,
+      "rss_samples": 513,
+      "rss_sample_interval_ms": 10,
+      "scope": "whole process during stage, including sampler/runner overhead"
+    }
+  },
+  "measurement_protocol": {
+    "device": "CPU",
+    "search_threads": 1,
+    "concurrent_queries": 1,
+    "query_order": "sorted IDs for full warmup passes; seeded shuffle per measured pass",
+    "cache_state": "warm in-memory index; no query-result cache; OS cache uncontrolled",
+    "latency_scope": "tokenization, BM25 scoring and top-k only; excludes I/O/index/UI/metrics",
+    "resources_scope": "whole process in each stage, including runner and RSS sampler",
+    "rss_peak": "sampled resident-memory maximum; can miss short-lived peaks",
+    "cpu_percent": "one-core equivalent; sampler included; timer resolution affects short stages",
+    "gpu": "not used",
+    "background_load": "uncontrolled local workstation"
+  },
+  "environment": {
+    "python": "3.12.14",
+    "platform": "Windows-11-10.0.26300-SP0",
+    "machine": "AMD64",
+    "processor": "AMD64 Family 25 Model 68 Stepping 1, AuthenticAMD",
+    "logical_cpus": 16,
+    "physical_cpus": 8,
+    "machine_ram_bytes": 16372527104,
+    "packages": {
+      "GitPython": "3.2.1",
+      "Jinja2": "3.1.6",
+      "MarkupSafe": "3.0.4",
+      "Pygments": "2.21.0",
+      "altair": "5.5.0",
+      "attrs": "26.1.0",
+      "blinker": "1.9.0",
+      "cachetools": "6.2.6",
+      "certifi": "2026.10.23",
+      "charset-normalizer": "3.5.2",
+      "click": "8.5.1",
+      "colorama": "0.4.6",
+      "gitdb": "4.0.12",
+      "idna": "3.20",
+      "iniconfig": "2.3.1",
+      "jsonschema": "4.26.0",
+      "jsonschema-specifications": "2025.9.1",
+      "narwhals": "2.28.0",
+      "numpy": "2.5.4",
+      "packaging": "25.0",
+      "pandas": "2.3.3",
+      "pillow": "12.3.0",
+      "pip": "25.0.1",
+      "pluggy": "1.7.0",
+      "protobuf": "6.33.6",
+      "psutil": "7.2.2",
+      "pyarrow": "21.0.0",
+      "pydeck": "0.9.3",
+      "pytest": "8.4.2",
+      "python-dateutil": "4.0.0",
+      "pytrec_eval-terrier": "0.5.11",
+      "pytz": "2026.6",
+      "referencing": "0.37.0",
+      "requests": "2.34.2",
+      "retrievallab": "0.2.0",
+      "rpds-py": "2026.9.1",
+      "ruff": "0.14.4",
+      "scipy": "1.18.1",
+      "setuptools": "80.9.0",
+      "smmap": "5.0.3",
+      "streamlit": "1.51.0",
+      "tenacity": "9.2.1",
+      "toml": "0.10.2",
+      "tornado": "6.6",
+      "typing_extensions": "4.16.0",
+      "tzdata": "2026.6",
+      "urllib3": "2.8.0",
+      "watchdog": "6.0.0",
+      "wheel": "0.45.1"
+    }
+  },
+  "code": {
+    "commit": null,
+    "working_tree_dirty": null
+  },
+  "source_file_sha256": {
+    "__init__.py": "b02c76db7ad467e39def175b4f3a6e83bc534ffa203e49c2cf7bae8836e47c25",
+    "bm25.py": "13b588e78e178bfebea02517e45e691ce4754ae53d324f3c0758970d6d50c6bc",
+    "cli.py": "66bde3524b4c68d804c4629384fcf31341593630af0c3da055266494747a9cd0",
+    "dashboard.py": "4380e8fc035161158492d2159e77fcce9844e8dcd83ae531b01178f960bbea0d",
+    "data.py": "cc80479e1db09ddbb4c92dd4a17691b4103898b5ccacf1a73b7fbc442527f7ce",
+    "download.py": "dcf2686c20221d9be8ab3c5c6cd656ec5b6ba3625ebbb2d4692e38961b37dbea",
+    "evaluation.py": "52069bd203c06948a9ad7b03a4938533966ddfb29d6d85d46e2d3f8a5bf2dbf6",
+    "metrics.py": "0d35e5270acd342da8e30536fa839a84e5b565cfece061a06a433247ecef5234",
+    "profiling.py": "cefab82d899351419e23634cb0b5d657c4267045ebe278954d9867ab2a4253e0",
+    "provenance.py": "2a1348c67136a6bbb537d27fc38f7ca162401b8376aa987aaeca9028b1a6e1b1",
+    "splits.py": "0a8c057c693ba274b1cb9e1f6af2716ef74d4d010b3a420136a02052874ea5ff",
+    "types.py": "719ac2dac8312413ae488ed3cf3e95b76a3cb8e28238010b8efafe627d46deed"
+  },
+  "input_file_sha256": {
+    "split_manifest": "b98bf3318ebe0c236dae9544e8e30436de2bc3e21a0ff21188139a09275ace76",
+    "bm25_config": "9c67824349ec00858f38f314528a838bcfa03e15ee583a2de201c16d272b1b7e",
+    "evaluation_config": "d990d38d183f4c2225b319c4598ea3ad26d13dc7c01993ae634042635ffadc69"
+  },
+  "artifact_sha256": {
+    "split.json": "b98bf3318ebe0c236dae9544e8e30436de2bc3e21a0ff21188139a09275ace76",
+    "queries.json": "0360f1aff1440b88eb91bf1e88c931305a4c52499cb8441afdee571d593e4bcb",
+    "timings.csv": "2b0149281cc8f6e4b1cc54cc95f707ff00516a484c54ceb00625022dd84a15bb",
+    "report.md": "fd24f7a9289fbc77e4c6b30a241da18b1c0202fcf045da8b71ff76c31db076f2"
+  }
+}

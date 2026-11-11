@@ -1,0 +1,10 @@
+{
+  "seed": 42,
+  "epochs": 2,
+  "batch_size": 8,
+  "learning_rate": 0.00002,
+  "weight_decay": 0.01,
+  "max_grad_norm": 1.0,
+  "hard_negatives": 1,
+  "random_negatives": 1
+}

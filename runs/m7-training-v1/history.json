@@ -1,0 +1,57 @@
+[
+  {
+    "epoch": 0,
+    "query_count": 162,
+    "recall": 0.8190329218106996,
+    "ndcg": 0.7032729441815811,
+    "queries_without_positive_labels": 0,
+    "queries_with_no_relevant_retrieved": 26,
+    "zero_result_queries": 0,
+    "reference_check": {
+      "backend": "pytrec_eval (Terrier distribution)",
+      "passed": true,
+      "query_count": 162,
+      "max_absolute_error": 1.1102230246251565e-16,
+      "ordering": "rank-preserving surrogate scores; self IDs removed",
+      "empty_judgments_policy": "zero, included in our macro average"
+    }
+  },
+  {
+    "epoch": 1,
+    "query_count": 162,
+    "recall": 0.81440329218107,
+    "ndcg": 0.7030214809802794,
+    "queries_without_positive_labels": 0,
+    "queries_with_no_relevant_retrieved": 27,
+    "zero_result_queries": 0,
+    "reference_check": {
+      "backend": "pytrec_eval (Terrier distribution)",
+      "passed": true,
+      "query_count": 162,
+      "max_absolute_error": 1.1102230246251565e-16,
+      "ordering": "rank-preserving surrogate scores; self IDs removed",
+      "empty_judgments_policy": "zero, included in our macro average"
+    },
+    "checkpoint_sha256": "6aa80056d50ab4c5000c4e7110e2632d144031a5d35b65edfb11ce1155494104",
+    "mean_batch_loss": 0.7706752603527586
+  },
+  {
+    "epoch": 2,
+    "query_count": 162,
+    "recall": 0.8205761316872429,
+    "ndcg": 0.7126153384938919,
+    "queries_without_positive_labels": 0,
+    "queries_with_no_relevant_retrieved": 26,
+    "zero_result_queries": 0,
+    "reference_check": {
+      "backend": "pytrec_eval (Terrier distribution)",
+      "passed": true,
+      "query_count": 162,
+      "max_absolute_error": 1.1102230246251565e-16,
+      "ordering": "rank-preserving surrogate scores; self IDs removed",
+      "empty_judgments_policy": "zero, included in our macro average"
+    },
+    "checkpoint_sha256": "363baae60f7a89c5baf54c995c222134a56c0872bdca44f39dbd437e3396451d",
+    "mean_batch_loss": 0.514954558916007
+  }
+]
