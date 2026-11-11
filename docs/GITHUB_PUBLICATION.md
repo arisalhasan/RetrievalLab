@@ -10,4 +10,6 @@ The original release freeze expects the original trained checkpoint and exact re
 
 Historical verification reports describe the local release checkpoint. Live repository checks are shown in GitHub Actions; no remote success is assumed in those historical reports. The workflow's ordinary suite stays offline; real downloaded-data/model checks remain explicit opt-ins.
 
+The first remote install exposed the hosted runner's preinstalled `pipx` dependency conflicting with the experiment's pinned `packaging` version. CI therefore creates a clean virtual environment and runs every install/check/test through that environment, matching the documented local setup. This publication-only pipeline correction does not change benchmark dependencies, model code, configurations or results.
+
 The source is published without assigning a new project license. Upstream data/model terms remain those of their respective providers; no third-party pretrained or trained weight files are redistributed in this repository.

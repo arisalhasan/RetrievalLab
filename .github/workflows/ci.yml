@@ -12,9 +12,11 @@ jobs:
           architecture: x64
           cache: pip
           cache-dependency-path: requirements-release.lock.txt
-      - run: python -m pip install -r requirements-release.lock.txt
-      - run: python -m pip install --no-deps --no-build-isolation -e .
-      - run: python -m pip check
-      - run: python -m ruff check .
-      - run: python -m ruff format --check .
-      - run: python -m pytest --basetemp runs/pytest-ci --junitxml=runs/pytest-ci.xml
+      - name: Create isolated Python environment
+        run: python -m venv .venv
+      - run: .\.venv\Scripts\python.exe -m pip install -r requirements-release.lock.txt
+      - run: .\.venv\Scripts\python.exe -m pip install --no-deps --no-build-isolation -e .
+      - run: .\.venv\Scripts\python.exe -m pip check
+      - run: .\.venv\Scripts\python.exe -m ruff check .
+      - run: .\.venv\Scripts\python.exe -m ruff format --check .
+      - run: .\.venv\Scripts\python.exe -m pytest --basetemp runs/pytest-ci --junitxml=runs/pytest-ci.xml
